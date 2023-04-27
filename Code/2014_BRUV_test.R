@@ -61,9 +61,14 @@ Fish1
 
 #Aggregate data to String level
 d.tr.sp<-BRUV_2022 %>%
-  group_by(String, Site,Taxa, Binomial, Common.name) %>%
+  group_by(Sample.ID,String, Site,Taxa, Binomial, Common.name) %>%
   summarize(t.biomass=sum(Biomass),
             t.MaxN=sum(MaxN))
+
+#Just look at MaxN across sites
+ggplot(d.tr.sp, aes(x=Sample.ID,
+                         y=MaxN)) + geom_bar()
+
 
 Fish2<-summarySE(d.tr.sp, measurevar="t.MaxN", groupvars=c("Binomial","Site"))
 Fish2<-ggplot(Fish2, aes(x=factor(Binomial), y=t.MaxN))+
