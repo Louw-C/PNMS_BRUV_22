@@ -59,6 +59,7 @@ Fish1<-ggplot(Fish1, aes(x=factor(Binomial), y=MaxN))+
         axis.text.y= element_text(size=11))
 Fish1
 
+
 #Aggregate data to String level
 d.tr.sp<-BRUV_2022 %>%
   group_by(Sample.ID,String, Site,Taxa, Binomial, Common.name) %>%
