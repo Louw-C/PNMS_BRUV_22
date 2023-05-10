@@ -1,4 +1,6 @@
+require(Rmisc)
 library(readxl)
+library(plyr)
 library(dplyr)
 library(reshape)
 library(reshape2)
@@ -7,7 +9,7 @@ library(car)
 library(tidyverse) # this includes ggplot necessary for plotting
 library(EnvStats) # for adding sample size
 library(vctrs)
-require(Rmisc)
+
 
 #PAL22 BRUV data with MaxN and biomass across space
 #Upload the base data
@@ -15,7 +17,11 @@ require(Rmisc)
 
 BRUV_2022<-read.csv(file.choose(),header=T,sep=",")
 names(BRUV_2022)
+glimpse(BRUV_2022)
 
+#Summarise data to see what is there
+BRUV_2022 %>% group_by(Site) %>% 
+  summarise(mean = mean(MaxN))
 
 #Start by looking at the data across space - both biomass and MaxN
 #At the moment the data are for each species observation
@@ -23,33 +29,33 @@ names(BRUV_2022)
 
 #Aggregate data to String level
 BRUV_String<-BRUV_2022 %>%
-  group_by(String, Site,Taxa, Binomial, Common.name) %>%
-  summarize(String_biomass=sum(Biomass),
-            String_MaxN=sum(MaxN))
+  dplyr::group_by(String,Site,Taxa,Binomial,Common.name) %>% 
+  summarize(String_biomass=mean(Biomass),
+            String_MaxN=mean(MaxN))
 
 names(BRUV_String)
 #BRUV_String gives total MaxN and total biomass for each species for the entire string (added all rig data for each string)
 
 #Just look at MaxN across sites
-ggplot(BRUV_String, aes(x=String,
-                        y=String_MaxN, fill=Site)) + geom_boxplot()+
+ggplot(BRUV_2022, aes(x=String,
+                        y=MaxN, color=Site)) + geom_jitter()+
                         theme(axis.text.x=element_text(angle=90,vjust=0.3))+
                         scale_fill_brewer(palette="Dark2")
 
 #Just look at biomass across sites
-ggplot(BRUV_String, aes(x=String,
-                        y=String_biomass, fill=Site)) + geom_boxplot()+
+ggplot(BRUV_2022, aes(x=String,
+                        y=Biomass, fill=Site)) + geom_boxplot()+
   theme(axis.text.x=element_text(angle=90,vjust=0.3))+
   scale_fill_brewer(palette="Dark2")
 
 #For biomass, the tigershark biomass is massive - remove
 
-No_tiger<-BRUV_String %>% 
+No_tiger<-BRUV_2022%>% 
   subset(Common.name!="tiger shark")
 
 #Plot biomass again - without tiger shark (No_tiger)
 ggplot(No_tiger, aes(x=String,
-                        y=String_biomass, fill=Site)) + geom_boxplot()+
+                        y=Biomass, fill=Site)) + geom_boxplot()+
   theme(axis.text.x=element_text(angle=90,vjust=0.3))+
   scale_fill_brewer(palette="Dark2")
 
@@ -57,26 +63,26 @@ ggplot(No_tiger, aes(x=String,
 
 #Move on to graph data with a limit
 #MaxN limit - counts of 60 and less (to remove super large schools of scad)
-BRUV_String$String_MaxN<-ifelse(BRUV_String$String_MaxN>60,60,BRUV_String$String_MaxN)
+BRUV_2022$MaxN<-ifelse(BRUV_2022$MaxN>60,60,BRUV_2022$MaxN)
 
 
 #Plot capped (at 60) average MaxN across sites (north, south and west)
-ggplot(BRUV_String, aes(x=String,
-      y=String_MaxN, fill=Site)) + geom_boxplot()+
+ggplot(BRUV_2022, aes(x=String,
+      y=MaxN, fill=Site)) + geom_boxplot()+
       theme(axis.text.x = element_blank()) +
       scale_fill_brewer(palette="Dark2")+
       ylab("Mean MaxN")
 
 #Get means and SE to make a better graph
-BRUV1<-summarySE(BRUV_String, measurevar="String_MaxN", groupvars=c("String","Site"))
+BRUV1<-summarySE(BRUV_2022, measurevar="MaxN", groupvars=c("String","Site"))
 
-BRUV1<-ggplot(BRUV1, aes(x=factor(String), y=String_MaxN, fill=Site))+
+BRUV1<-ggplot(BRUV1, aes(x=factor(String), y=MaxN, fill=Site))+
   geom_col(position=position_dodge(0.9))+
   labs(y = "Average MaxN", x="String")+
   scale_fill_brewer(palette="Dark2")+
-  geom_errorbar(aes(ymin=String_MaxN-se, ymax=String_MaxN+se),position=position_dodge(0.9), width=0.4)+
+  geom_errorbar(aes(ymin=MaxN-se, ymax=MaxN+se),position=position_dodge(0.9), width=0.4)+
   theme(legend.title = element_blank(),panel.background = element_blank(),panel.grid.major=element_line(0.5, colour="Gray80"),
-        axis.text.x = element_blank(),axis.title.x=element_text(),
+        axis.text.x = element_text(angle=90,vjust=0.3),axis.title.x=element_text(),
         axis.text.y= element_text(size=11))
     
 BRUV1
