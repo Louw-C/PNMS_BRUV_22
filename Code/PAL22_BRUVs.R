@@ -9,7 +9,8 @@ library(car)
 library(tidyverse) # this includes ggplot necessary for plotting
 library(EnvStats) # for adding sample size
 library(vctrs)
-
+require(wesanderson)
+require(hrbrthemes)
 
 #PAL22 BRUV data with MaxN and biomass across space
 #Upload the base data
