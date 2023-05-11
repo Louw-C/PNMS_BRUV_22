@@ -11,3 +11,4 @@ library(EnvStats) # for adding sample size
 library(vctrs)
 require(wesanderson)
 require(hrbrthemes)
+require(vegan)
