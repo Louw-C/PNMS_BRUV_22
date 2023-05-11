@@ -50,13 +50,13 @@ PAL22_043,PAL22_9,DFZ West,W1,Monacanthidae,Aluterus monoceros,unicorn leatherja
 PAL22_044,PAL22_9,DFZ West,W1,Nomeidae,Psenes sp,Psenes driftfish,1,0.73,3.52,15,0.51615,-,LC,No
 PAL22_044,PAL22_9,DFZ West,W1,Priacanthidae,Priacanthus sp,bigeye,1,0.97,3.988333333,22.485,0.5002,-,LC,No
 PAL22_045,PAL22_9,DFZ West,W1,None,None,None,0,0,0,0,0,0,0,0
-PAL22_046,PAL22_1,DFZ West,W1,Nomeidae,Psenes sp,Psenes driftfish,1,0.65,3.52,15,0.51615,-,LC,No
-PAL22_047,PAL22_1,DFZ West,W1,Balistidae,Canthidermis maculata,rought triggerfish,1,702.28,3.5,41,0.625,-,LC,No
-PAL22_047,PAL22_1,DFZ West,W1,Monacanthidae,Aluterus scriptus,scribbled leatherjacket filefish,1,315.01,2.8,68,0.5625,-,LC,No
-PAL22_048,PAL22_1,DFZ West,W1,Balistidae,Canthidermis maculata,rought triggerfish,1,273.85,3.5,41,0.625,-,LC,No
-PAL22_048,PAL22_1,DFZ West,W1,Nomeidae,Psenes sp,Psenes driftfish,1,0.65,3.52,15,0.51615,-,LC,No
-PAL22_049,PAL22_1,DFZ West,W1,Balistidae,Canthidermis maculata,rought triggerfish,7,1119.44,3.5,41,0.625,-,LC,Yes
-PAL22_050,PAL22_1,DFZ West,W1,None,None,None,0,0,0,0,0,0,0,0
+PAL22_046,PAL22_10,DFZ West,W1,Nomeidae,Psenes sp,Psenes driftfish,1,0.65,3.52,15,0.51615,-,LC,No
+PAL22_047,PAL22_10,DFZ West,W1,Balistidae,Canthidermis maculata,rought triggerfish,1,702.28,3.5,41,0.625,-,LC,No
+PAL22_047,PAL22_10,DFZ West,W1,Monacanthidae,Aluterus scriptus,scribbled leatherjacket filefish,1,315.01,2.8,68,0.5625,-,LC,No
+PAL22_048,PAL22_10,DFZ West,W1,Balistidae,Canthidermis maculata,rought triggerfish,1,273.85,3.5,41,0.625,-,LC,No
+PAL22_048,PAL22_10,DFZ West,W1,Nomeidae,Psenes sp,Psenes driftfish,1,0.65,3.52,15,0.51615,-,LC,No
+PAL22_049,PAL22_10,DFZ West,W1,Balistidae,Canthidermis maculata,rought triggerfish,7,1119.44,3.5,41,0.625,-,LC,Yes
+PAL22_050,PAL22_10,DFZ West,W1,None,None,None,0,0,0,0,0,0,0,0
 PAL22_051,PAL22_11,DFZ West,W2,None,None,None,0,0,0,0,0,0,0,0
 PAL22_052,PAL22_11,DFZ West,W2,None,None,None,0,0,0,0,0,0,0,0
 PAL22_053,PAL22_11,DFZ West,W2,None,None,None,0,0,0,0,0,0,0,0
