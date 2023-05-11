@@ -152,7 +152,7 @@ Biomass2<-summarySE(Biomass_String, measurevar="B.Biomass", groupvars=c("Zone"))
 Biomass2.Plot1<-ggplot(Biomass2, aes(x=factor(Zone), y=B.Biomass, fill=Zone))+
   geom_col(position=position_dodge(0.9), color="grey")+
   labs(y = "Average Biomass (g)", x = "Zones", title= "Mean biomass across different management zones")+
-  scale_fill_manual(values= wes_palette("FantasticFox1", n = 3))+
+  scale_fill_manual(values= wes_palette("Zissou1", n = 3))+
   geom_errorbar(aes(ymin=B.Biomass-se, ymax=B.Biomass+se),position=position_dodge(0.9), width=0.4)+
   theme(axis.line = element_line(color='grey'),
         legend.title = element_blank(),panel.background = element_blank(),panel.grid.major=element_line(0.5, colour="Gray80"),
