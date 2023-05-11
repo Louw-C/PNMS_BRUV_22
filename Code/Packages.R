@@ -1,0 +1,13 @@
+require(Rmisc)
+library(readxl)
+library(plyr)
+library(dplyr)
+library(reshape)
+library(reshape2)
+library(ggplot2)
+library(car)
+library(tidyverse) # this includes ggplot necessary for plotting
+library(EnvStats) # for adding sample size
+library(vctrs)
+require(wesanderson)
+require(hrbrthemes)
