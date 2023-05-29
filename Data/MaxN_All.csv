@@ -1,0 +1,541 @@
+Sample ID,String,Year,Family,Binomial,Common name,MaxN,Biomass
+PAL14_001,PAL14_01,2014,Carangidae,Elagatis bipinnulata,rainbow runner,2,2359.122457
+PAL14_001,PAL14_01,2014,Carcharhinidae,Carcharhinus amblyrhynchos,blacktail reef shark,1,15514.02353
+PAL14_002,PAL14_01,2014,Scombridae,Acanthocybium solandri,wahoo,2,1362.514948
+PAL14_003,PAL14_02,2014,Carangidae,Caranx sexfasciatus,bigeye trevally,2,10.50959048
+PAL14_003,PAL14_02,2014,Carangidae,Decapterus sp,Decapterus scad,9,36.67550347
+PAL14_003,PAL14_02,2014,Monacanthidae,Monacanthidae sp,leatherjackets,2,7.774980711
+PAL14_003,PAL14_02,2014,Monacanthidae,Cantherhines fronticinctus,spectacled filefish ,1,2.182242762
+PAL14_003,PAL14_02,2014,Nomeidae,Psenes cyanophrys,freckled driftfish ,11,10.94677246
+PAL14_003,PAL14_02,2014,Unknown,Unknown sp,unknown,11,15.88756278
+PAL14_004,PAL14_02,2014,Carangidae,Carangidae sp,jacks,3,2.745384011
+PAL14_004,PAL14_02,2014,Carangidae,Caranx sexfasciatus,bigeye trevally,4,22.01803665
+PAL14_004,PAL14_02,2014,Carangidae,Decapterus sp,Decapterus scad,6,5.102261397
+PAL14_004,PAL14_02,2014,Monacanthidae,Monacanthidae sp,leatherjackets,1,4.068314244
+PAL14_005,PAL14_02,2014,Nomeidae,Psenes sp,Psenes driftfish,3,9.516693097
+PAL14_006,PAL14_02,2014,Carangidae,Caranx sexfasciatus,bigeye trevally,2,3.296249858
+PAL14_006,PAL14_02,2014,Carangidae,Decapterus sp,Decapterus scad,10,44.52447867
+PAL14_006,PAL14_02,2014,Monacanthidae,Monacanthidae sp,leatherjackets,1,3.929297623
+PAL14_006,PAL14_02,2014,Nomeidae,Psenes sp,Psenes driftfish,3,0.422180491
+PAL14_007,PAL14_02,2014,Carangidae,Carangidae sp,jacks,2,1.830256007
+PAL14_007,PAL14_02,2014,Carangidae,Caranx sexfasciatus,bigeye trevally,3,39.95819658
+PAL14_007,PAL14_02,2014,Carangidae,Decapterus sp,Decapterus scad,15,635.2877781
+PAL14_007,PAL14_02,2014,Monacanthidae,Monacanthidae sp,leatherjackets,1,3.182672205
+PAL14_008,PAL14_03,2014,Carangidae,Elagatis bipinnulata,rainbow runner,8,8909.472971
+PAL14_008,PAL14_03,2014,Carcharhinidae,Carcharhinus amblyrhynchos,blacktail reef shark,4,56459.67907
+PAL14_008,PAL14_03,2014,Sphyrnidae,Sphyrna lewini,scalloped hammerhead,1,18194.41321
+PAL14_010,PAL14_03,2014,Carcharhinidae,Carcharhinus falciformis,silky shark,1,16364.30876
+PAL14_013,PAL14_04,2014,Balistidae,Balistidae sp,triggerfishes,1,0.126372861
+PAL14_013,PAL14_04,2014,Carcharhinidae,Carcharhinus amblyrhynchos,blacktail reef shark,1,43561.64701
+PAL14_013,PAL14_04,2014,Scombridae,Acanthocybium solandri,wahoo,1,10147.92037
+PAL14_013,PAL14_04,2014,Scombridae,Grammatorcynus sp,mackerel,1,1933.815701
+PAL14_016,PAL14_04,2014,Carangidae,Carangidae sp,jacks,2,1.830256007
+PAL14_021,PAL14_05,2014,Monacanthidae,Monacanthidae sp,leatherjackets,1,11.87729721
+PAL14_021,PAL14_05,2014,Carangidae,Carangidae sp,jacks,3,2.745384011
+PAL14_021,PAL14_05,2014,Carcharhinidae,Carcharhinus amblyrhynchos,blacktail reef shark,1,21442.37436
+PAL14_022,PAL14_05,2014,Monacanthidae,Monacanthidae sp,leatherjackets,2,23.75459443
+PAL14_022,PAL14_05,2014,Carangidae,Carangidae sp,jacks,2,1.830256007
+PAL14_022,PAL14_05,2014,Carcharhinidae,Carcharhinus amblyrhynchos,blacktail reef shark,1,61868.66693
+PAL14_023,PAL14_05,2014,Monacanthidae,Monacanthidae sp,leatherjackets,2,23.75459443
+PAL14_023,PAL14_05,2014,Nomeidae,Psenes cyanophrys,freckled driftfish ,1,0.995161133
+PAL14_024,PAL14_05,2014,Blenniidae,Aspidontus dussumieri,lance blenny,1,0.464326149
+PAL14_024,PAL14_05,2014,Nomeidae,Psenes sp,Psenes driftfish,1,0.433410375
+PAL14_025,PAL14_05,2014,Nomeidae,Psenes sp,Psenes driftfish,1,0.117013977
+PAL14_026,PAL14_06,2014,Carangidae,Caranx sexfasciatus,bigeye trevally,4,4.984448645
+PAL14_026,PAL14_06,2014,Carcharhinidae,Carcharhinus falciformis,silky shark,1,15125.10588
+PAL14_026,PAL14_06,2014,Fistulariidae,Fistulariidae sp,cornetfishes,2,4.956152232
+PAL14_026,PAL14_06,2014,Monacanthidae,Monacanthidae sp,leatherjackets,3,11.56567422
+PAL14_026,PAL14_06,2014,Nomeidae,Psenes sp,Psenes driftfish,1,0.751248522
+PAL14_027,PAL14_06,2014,Carangidae,Carangidae sp,jacks,5,4.575640018
+PAL14_027,PAL14_06,2014,Carangidae,Caranx sexfasciatus,bigeye trevally,3,3.374734562
+PAL14_027,PAL14_06,2014,Labridae,Labroides dimidiatus,bluestreak cleaner wrasse,2,4.282786525
+PAL14_027,PAL14_06,2014,Monacanthidae,Monacanthidae sp,leatherjackets,2,4.529784499
+PAL14_029,PAL14_06,2014,Carangidae,Carangidae sp,jacks,2,1.830256007
+PAL14_029,PAL14_06,2014,Carangidae,Caranx sexfasciatus,bigeye trevally,4,19.85437049
+PAL14_029,PAL14_06,2014,Carangidae,Decapterus sp,Decapterus scad,2,464.1758344
+PAL14_029,PAL14_06,2014,Carcharhinidae,Carcharhinus falciformis,silky shark,1,19679.35706
+PAL14_029,PAL14_06,2014,Labridae,Labroides dimidiatus,bluestreak cleaner wrasse,1,2.141393263
+PAL14_029,PAL14_06,2014,Monacanthidae,Monacanthidae sp,leatherjackets,3,11.22917318
+PAL14_030,PAL14_06,2014,Carangidae,Caranx sexfasciatus,bigeye trevally,1,2.586093223
+PAL14_030,PAL14_06,2014,Carangidae,Decapterus sp,Decapterus scad,2,375.2805338
+PAL14_030,PAL14_06,2014,Carcharhinidae,Carcharhinus falciformis,silky shark,1,17303.79615
+PAL14_030,PAL14_06,2014,Fistulariidae,Fistularia sp,cornetfish,5,11.09192099
+PAL14_030,PAL14_06,2014,Monacanthidae,Monacanthidae sp,leatherjackets,4,20.56744844
+PAL14_031,PAL14_07,2014,Carangidae,Caranx sexfasciatus,bigeye trevally,1,3.176579083
+PAL14_031,PAL14_07,2014,Carangidae,Decapterus sp,Decapterus scad,10,9.595723093
+PAL14_031,PAL14_07,2014,Carangidae,Elagatis bipinnulata,rainbow runner,2,2299.540342
+PAL14_031,PAL14_07,2014,Carcharhinidae,Carcharhinus falciformis,silky shark,8,123118.8502
+PAL14_031,PAL14_07,2014,Scombridae,Euthynnus affinis,kawakawa,1,576.4556466
+PAL14_031,PAL14_07,2014,Scombridae,Thunnus alalunga,albacore ,30,20545.57064
+PAL14_032,PAL14_07,2014,Carangidae,Carangidae sp,jacks,1,0.915128004
+PAL14_032,PAL14_07,2014,Carangidae,Decapterus sp,Decapterus scad,63,8068.924464
+PAL14_032,PAL14_07,2014,Carangidae,Elagatis bipinnulata,rainbow runner,2,1260.903785
+PAL14_032,PAL14_07,2014,Carcharhinidae,Carcharhinus falciformis,silky shark,6,21465.46351
+PAL14_032,PAL14_07,2014,Scombridae,Euthynnus affinis,kawakawa,1,3949.593112
+PAL14_032,PAL14_07,2014,Scombridae,Thunnus alalunga,albacore ,11,7167.44088
+PAL14_033,PAL14_07,2014,Blenniidae,Aspidontus taeniatus,false cleanerfish,1,0.241979684
+PAL14_033,PAL14_07,2014,Carangidae,Carangidae sp,jacks,2,1.830256007
+PAL14_033,PAL14_07,2014,Carcharhinidae,Carcharhinus falciformis,silky shark,3,9345.571832
+PAL14_033,PAL14_07,2014,Scombridae,Thunnus alalunga,albacore ,37,10245.25896
+PAL14_034,PAL14_07,2014,Carangidae,Carangidae sp,jacks,1,0.915128004
+PAL14_034,PAL14_07,2014,Carcharhinidae,Carcharhinus falciformis,silky shark,5,33749.2411
+PAL14_035,PAL14_07,2014,Carangidae,Carangidae sp,jacks,3,2.745384011
+PAL14_035,PAL14_07,2014,Carangidae,Decapterus macarellus,mackerel scad,11,98.34313104
+PAL14_035,PAL14_07,2014,Carcharhinidae,Carcharhinus falciformis,silky shark,1,10889.39918
+PAL14_036,PAL14_08,2014,Carangidae,Carangidae sp,jacks,3,3.544012252
+PAL14_036,PAL14_08,2014,Carangidae,Caranx sexfasciatus,bigeye trevally,5,27.14752579
+PAL14_037,PAL14_08,2014,Carangidae,Carangidae sp,jacks,3,6.866872086
+PAL14_037,PAL14_08,2014,Echeneidae,Echeneis naucrates,live sharksucker,3,466.5100174
+PAL14_038,PAL14_08,2014,Carangidae,Carangidae sp,jacks,3,8.748689767
+PAL14_038,PAL14_08,2014,Carangidae,Caranx sp,Caranx trevally,1,4.011877372
+PAL14_038,PAL14_08,2014,Carangidae,Decapterus sp,Decapterus scad,23,10.07667187
+PAL14_039,PAL14_08,2014,Carangidae,Carangidae sp,jacks,2,3.134897047
+PAL14_039,PAL14_08,2014,Carangidae,Caranx sexfasciatus,bigeye trevally,3,29.26400071
+PAL14_039,PAL14_08,2014,Carcharhinidae,Carcharhinus falciformis,silky shark,1,30914.67704
+PAL14_039,PAL14_08,2014,Monacanthidae,Monacanthidae sp,leatherjackets,1,0.234756755
+PAL14_040,PAL14_08,2014,Carangidae,Caranx sp,Caranx trevally,1,5.063490405
+PAL14_040,PAL14_08,2014,Nomeidae,Psenes sp,Psenes driftfish,7,23.57647546
+PAL14_040,PAL14_08,2014,Scombridae,Sarda sp,bonito,17,21733.87363
+PAL14_041,PAL14_09,2014,Coryphaenidae,Coryphaena hippurus,common dolphinfish,3,5289.223638
+PAL14_042,PAL14_09,2014,Sphyraenidae,Sphyraena barracuda,great barracuda,1,1696.318659
+PAL14_043,PAL14_09,2014,Carangidae,Carangidae sp,jacks,1,0.823383792
+PAL14_043,PAL14_09,2014,Carcharhinidae,Carcharhinus falciformis,silky shark,1,7018.075202
+PAL14_043,PAL14_09,2014,Nomeidae,Psenes sp,Psenes driftfish,1,0.50061328
+PAL14_044,PAL14_09,2014,Carangidae,Carangidae sp,jacks,32,34.15364843
+PAL14_044,PAL14_09,2014,Carangidae,Caranx sp,Caranx trevally,1,2.165447777
+PAL14_044,PAL14_09,2014,Nomeidae,Psenes sp,Psenes driftfish,1,0.913350404
+PAL14_045,PAL14_09,2014,Nomeidae,Psenes sp,Psenes driftfish,1,5.43968129
+PAL14_046,PAL14_10,2014,Carangidae,Carangidae sp,jacks,1,0.915128004
+PAL14_046,PAL14_10,2014,Carangidae,Caranx sp,Caranx trevally,5,32.12878033
+PAL14_046,PAL14_10,2014,Echeneidae,Echeneis naucrates,live sharksucker,1,693.1591816
+PAL14_046,PAL14_10,2014,Nomeidae,Psenes sp,Psenes driftfish,1,1.559012948
+PAL14_047,PAL14_10,2014,Balistidae,Pseudobalistes fuscus,yellow-spotted triggerfish,1,616.5545243
+PAL14_047,PAL14_10,2014,Carangidae,Decapterus sp,Decapterus scad,182,361.6726807
+PAL14_047,PAL14_10,2014,Echeneidae,Echeneis naucrates,live sharksucker,1,854.8023723
+PAL14_047,PAL14_10,2014,Nomeidae,Psenes sp,Psenes driftfish,4,3.332122231
+PAL14_048,PAL14_10,2014,Balistidae,Pseudobalistes fuscus,yellow-spotted triggerfish,4,4084.795404
+PAL14_048,PAL14_10,2014,Carangidae,Caranx sp,Caranx trevally,4,74.09542534
+PAL14_048,PAL14_10,2014,Carcharhinidae,Carcharhinus galapagensis,Galapagos shark ,1,125403.5453
+PAL14_048,PAL14_10,2014,Echeneidae,Echeneis naucrates,live sharksucker,1,844.9234996
+PAL14_049,PAL14_10,2014,Carangidae,Caranx sp,Caranx trevally,1,3.294474899
+PAL14_049,PAL14_10,2014,Carangidae,Decapterus sp,Decapterus scad,88,64.76936361
+PAL14_049,PAL14_10,2014,Echeneidae,Echeneis naucrates,live sharksucker,1,458.1733121
+PAL14_050,PAL14_10,2014,Carangidae,Caranx sp,Caranx trevally,2,18.16696611
+PAL14_050,PAL14_10,2014,Carangidae,Decapterus sp,Decapterus scad,145,121.1085006
+PAL14_050,PAL14_10,2014,Echeneidae,Echeneis naucrates,live sharksucker,1,672.0920301
+PAL14_051,PAL14_11,2014,Carangidae,Decapterus sp,Decapterus scad,36,96.06113364
+PAL14_051,PAL14_11,2014,Nomeidae,Psenes sp,Psenes driftfish,2,9.909877568
+PAL14_052,PAL14_11,2014,Carangidae,Decapterus sp,Decapterus scad,172,53.98374918
+PAL14_052,PAL14_11,2014,Nomeidae,Psenes cyanophrys,freckled driftfish ,1,0.995161133
+PAL14_053,PAL14_11,2014,Carangidae,Caranx sp,Caranx trevally,1,3.109128581
+PAL14_053,PAL14_11,2014,Nomeidae,Psenes sp,Psenes driftfish,2,9.202552196
+PAL14_054,PAL14_11,2014,Carangidae,Decapterus sp,Decapterus scad,23,19.02927253
+PAL14_054,PAL14_11,2014,Scombridae,Acanthocybium solandri,wahoo,1,4400.870376
+PAL14_056,PAL14_12,2014,Carangidae,Elagatis bipinnulata,rainbow runner,26,25752.59856
+PAL14_056,PAL14_12,2014,Carcharhinidae,Carcharhinus amblyrhynchos,blacktail reef shark,1,28917.49721
+PAL14_056,PAL14_12,2014,Carcharhinidae,Carcharhinus falciformis,silky shark,1,23098.21857
+PAL14_056,PAL14_12,2014,Labridae,Labroides dimidiatus,bluestreak cleaner wrasse,1,1.346479987
+PAL14_058,PAL14_12,2014,Carangidae,Elagatis bipinnulata,rainbow runner,1,4669.705487
+PAL14_059,PAL14_12,2014,Labridae,Labroides dimidiatus,bluestreak cleaner wrasse,1,0.786199112
+PAL14_060,PAL14_12,2014,Carangidae,Caranx sp,Caranx trevally,1,4.775253733
+PAL14_060,PAL14_12,2014,Carcharhinidae,Carcharhinus sp,requiem shark,1,7957.904615
+PAL14_060,PAL14_12,2014,Sphyraenidae,Sphyraena barracuda,great barracuda,1,2346.037007
+PAL14_061,PAL14_13,2014,Blenniidae,Plagiotremus tapeinosoma,piano fangblenny,1,0.663392499
+PAL14_061,PAL14_13,2014,Carangidae,Caranx sp,Caranx trevally,1,2.375979548
+PAL14_061,PAL14_13,2014,Carcharhinidae,Carcharhinus falciformis,silky shark,2,122033.1421
+PAL14_061,PAL14_13,2014,Monacanthidae,Monacanthidae sp,leatherjackets,1,3.515416339
+PAL14_061,PAL14_13,2014,Carangidae,Caranx sexfasciatus,bigeye trevally,1,2.225239955
+PAL14_061,PAL14_13,2014,Labridae,Labridae sp,wrasses,1,135.1959969
+PAL14_063,PAL14_13,2014,Carcharhinidae,Carcharhinus falciformis,silky shark,1,78703.80797
+PAL14_064,PAL14_13,2014,Blenniidae,Aspidontus taeniatus,false cleanerfish,1,1.065152878
+PAL14_064,PAL14_13,2014,Carangidae,Decapterus macarellus,mackerel scad,1,238.6101346
+PAL14_064,PAL14_13,2014,Carcharhinidae,Carcharhinus falciformis,silky shark,1,28990.38232
+PAL14_065,PAL14_13,2014,Carcharhinidae,Carcharhinus falciformis,silky shark,1,7454.23223
+PAL14_066,PAL14_14,2014,Fistulariidae,Fistularia sp,cornetfish,1,1.714196225
+PAL14_067,PAL14_14,2014,Labridae,Labroides dimidiatus,bluestreak cleaner wrasse,1,1.347962118
+PAL14_067,PAL14_14,2014,Priacanthidae,Priacanthus sp,bigeye,1,1.028614469
+PAL14_068,PAL14_14,2014,Blenniidae,Plagiotremus tapeinosoma,piano fangblenny,1,0.356214968
+PAL14_068,PAL14_14,2014,Juvenile,Juvenile sp,juvenile,3,0.855837661
+PAL14_068,PAL14_14,2014,Nomeidae,Psenes sp,Psenes driftfish,1,1.071517644
+PAL14_068,PAL14_14,2014,Priacanthidae,Priacanthus sp,bigeye,3,3.085843407
+PAL14_070,PAL14_14,2014,Priacanthidae,Priacanthus sp,bigeye,1,1.028614469
+PAL14_076,PAL14_16,2014,Carangidae,Decapterus sp,Decapterus scad,2,7.030469133
+PAL14_077,PAL14_16,2014,Unknown,Unknown sp,unknown,1,1.444323889
+PAL14_079,PAL14_16,2014,Nomeidae,Psenes sp,Psenes driftfish,2,0.834093972
+PAL14_081,PAL14_17,2014,Carangidae,Caranx sexfasciatus,bigeye trevally,2,16.44047699
+PAL14_081,PAL14_17,2014,Carangidae,Decapterus macarellus,mackerel scad,4,12.45139457
+PAL14_081,PAL14_17,2014,Nomeidae,Psenes sp,Psenes driftfish,1,0.601663717
+PAL14_081,PAL14_17,2014,Unknown,Unknown sp,unknown,1,1.444323889
+PAL14_082,PAL14_17,2014,Carangidae,Caranx sexfasciatus,bigeye trevally,1,7.898303957
+PAL14_082,PAL14_17,2014,Carangidae,Decapterus macarellus,mackerel scad,4,4.598401125
+PAL14_083,PAL14_17,2014,Carangidae,Caranx sp,Caranx trevally,1,1.474269992
+PAL14_083,PAL14_17,2014,Carangidae,Decapterus macarellus,mackerel scad,3,13.36684381
+PAL14_084,PAL14_17,2014,Carangidae,Carangidae sp,jacks,1,0.915128004
+PAL14_084,PAL14_17,2014,Carangidae,Caranx sp,Caranx trevally,2,3.61481695
+PAL14_084,PAL14_17,2014,Carangidae,Decapterus macarellus,mackerel scad,1,0.563911083
+PAL14_084,PAL14_17,2014,Nomeidae,Psenes cyanophrys,freckled driftfish ,1,0.995161133
+PAL14_085,PAL14_17,2014,Carangidae,Carangidae sp,jacks,1,0.915128004
+PAL14_085,PAL14_17,2014,Nomeidae,Psenes cyanophrys,freckled driftfish ,1,0.995161133
+PAL14_085,PAL14_17,2014,Unknown,Unknown sp,unknown,1,1.444323889
+PAL14_086,PAL14_18,2014,Blenniidae,Blenniidae sp,blennies,1,7.575372108
+PAL14_086,PAL14_18,2014,Fistulariidae,Fistularia sp,cornetfish,1,1.754491907
+PAL14_087,PAL14_18,2014,Carangidae,Decapterus macarellus,mackerel scad,1,8.94028464
+PAL14_088,PAL14_18,2014,Blenniidae,Plagiotremus tapeinosoma,piano fangblenny,1,0.433435145
+PAL14_088,PAL14_18,2014,Carangidae,Caranx sp,Caranx trevally,1,3.262355321
+PAL14_088,PAL14_18,2014,Fistulariidae,Fistularia sp,cornetfish,1,2.629680443
+PAL14_089,PAL14_18,2014,Carangidae,Caranx sexfasciatus,bigeye trevally,1,1.746269049
+PAL14_089,PAL14_18,2014,Fistulariidae,Fistularia sp,cornetfish,4,3.952692016
+PAL14_090,PAL14_18,2014,Fistulariidae,Fistularia sp,cornetfish,1,1.640469565
+PAL14_091,PAL14_19,2014,Carangidae,Caranx sp,Caranx trevally,2,6.058489028
+PAL14_091,PAL14_19,2014,Nomeidae,Psenes sp,Psenes driftfish,1,0.614614647
+PAL14_091,PAL14_19,2014,Sphyraenidae,Sphyraena barracuda,great barracuda,1,8914.661883
+PAL14_093,PAL14_19,2014,Carangidae,Decapterus macarellus,mackerel scad,1,55.88453086
+PAL14_096,PAL14_20,2014,Carangidae,Carangidae sp,jacks,2,3.830891432
+PAL14_096,PAL14_20,2014,Monacanthidae,Monacanthidae sp,leatherjackets,1,2.484295478
+PAL14_097,PAL14_20,2014,Blenniidae,Plagiotremus tapeinosoma,piano fangblenny,1,0.394110531
+PAL14_097,PAL14_20,2014,Carangidae,Caranx sp,Caranx trevally,2,2.527637038
+PAL14_097,PAL14_20,2014,Juvenile,Juvenile sp,juvenile,1,0.358913469
+PAL14_097,PAL14_20,2014,Monacanthidae,Monacanthidae sp,leatherjackets,1,3.159200702
+PAL14_098,PAL14_20,2014,Blenniidae,Blenniidae sp,blennies,1,7.575372108
+PAL14_098,PAL14_20,2014,Monacanthidae,Monacanthidae sp,leatherjackets,1,3.620911548
+PAL14_099,PAL14_20,2014,Carangidae,Caranx sp,Caranx trevally,2,6.240029187
+PAL14_100,PAL14_20,2014,Carangidae,Decapterus sp,Decapterus scad,1,313.2905916
+PAL14_100,PAL14_20,2014,Carcharhinidae,Carcharhinus amblyrhynchos,blacktail reef shark,1,10297.28151
+PAL14_100,PAL14_20,2014,Carcharhinidae,Carcharhinus falciformis,silky shark,1,16982.87443
+PAL14_100,PAL14_20,2014,Echeneidae,Echeneis naucrates,live sharksucker,1,8.182727515
+PAL14_100,PAL14_20,2014,Monacanthidae,Monacanthidae sp,leatherjackets,1,2.446254487
+PAL14_100,PAL14_20,2014,Nomeidae,Psenes sp,Psenes driftfish,1,0.952200245
+PAL14_101,PAL14_21,2014,Carcharhinidae,Carcharhinus falciformis,silky shark,1,32326.57499
+PAL14_105,PAL14_21,2014,Scombridae,Acanthocybium solandri,wahoo,1,4222.984939
+PAL14_106,PAL14_22,2014,Apogonidae,Pristiapogon exostigma,narrowstripe cardinalfish,1,0.816681585
+PAL14_106,PAL14_22,2014,Carangidae,Decapterus sp,Decapterus scad,10,76.64077642
+PAL14_106,PAL14_22,2014,Nomeidae,Psenes sp,Psenes driftfish,1,1.857926372
+PAL14_106,PAL14_22,2014,Carangidae,Caranx sexfasciatus,bigeye trevally,1,2.078630626
+PAL14_108,PAL14_22,2014,Carangidae,Caranx sp,Caranx trevally,2,5.233059659
+PAL14_108,PAL14_22,2014,Carcharhinidae,Carcharhinus falciformis,silky shark,1,16364.30876
+PAL14_109,PAL14_22,2014,Carangidae,Carangidae sp,jacks,1,0.328697842
+PAL14_111,PAL14_23,2014,Unknown,Unknown sp,unknown,1,1.444323889
+PAL14_112,PAL14_23,2014,Carcharhinidae,Carcharhinus limbatus,blacktip shark,1,10190.49863
+PAL14_113,PAL14_23,2014,Carangidae,Elagatis bipinnulata,rainbow runner,4,1400.803794
+PAL14_113,PAL14_23,2014,Carcharhinidae,Carcharhinus amblyrhynchos,blacktail reef shark,1,2027.496043
+PAL14_113,PAL14_23,2014,Carcharhinidae,Carcharhinus sp,requiem shark,1,1977.160566
+PAL14_113,PAL14_23,2014,Scombridae,Acanthocybium solandri,wahoo,1,1004.483632
+PAL14_114,PAL14_23,2014,Carangidae,Carangidae sp,jacks,2,1.830256007
+PAL14_115,PAL14_23,2014,Nomeidae,Psenes sp,Psenes driftfish,1,0.345448203
+PAL14_115,PAL14_23,2014,Scombridae,Acanthocybium solandri,wahoo,1,12359.26281
+PAL14_116,PAL14_24,2014,Carangidae,Caranx sp,Caranx trevally,3,9.696814156
+PAL14_116,PAL14_24,2014,Carangidae,Decapterus sp,Decapterus scad,28,164.2453521
+PAL14_116,PAL14_24,2014,Nomeidae,Psenes sp,Psenes driftfish,8,3.390480979
+PAL14_117,PAL14_24,2014,Carangidae,Caranx sp,Caranx trevally,1,1.155118081
+PAL14_117,PAL14_24,2014,Nomeidae,Psenes sp,Psenes driftfish,6,1.149547538
+PAL14_118,PAL14_24,2014,Carangidae,Caranx sp,Caranx trevally,2,5.422034708
+PAL14_118,PAL14_24,2014,Carangidae,Decapterus macarellus,mackerel scad,2,30.1078478
+PAL14_118,PAL14_24,2014,Nomeidae,Psenes sp,Psenes driftfish,4,2.6939887
+PAL14_119,PAL14_24,2014,Carangidae,Caranx sp,Caranx trevally,2,2.434284713
+PAL14_119,PAL14_24,2014,Nomeidae,Psenes sp,Psenes driftfish,5,2.037780065
+PAL14_119,PAL14_24,2014,Scombridae,Acanthocybium solandri,wahoo,1,18597.02363
+PAL14_120,PAL14_24,2014,Carangidae,Caranx sp,Caranx trevally,1,3.387931559
+PAL14_120,PAL14_24,2014,Nomeidae,Psenes sp,Psenes driftfish,3,1.395433433
+PAL14_120,PAL14_24,2014,Scombridae,Scombridae sp,mackerels,1,1243.915159
+PAL14_121,PAL14_25,2014,Blenniidae,Aspidontus taeniatus,false cleanerfish,1,0.221665184
+PAL14_121,PAL14_25,2014,Carangidae,Caranx sp,Caranx trevally,1,3.263827534
+PAL14_121,PAL14_25,2014,Monacanthidae,Monacanthidae sp,leatherjackets,1,5.869544351
+PAL14_122,PAL14_25,2014,Nomeidae,Psenes sp,Psenes driftfish,1,0.763654382
+PAL14_122,PAL14_25,2014,Carangidae,Decapterus macarellus,mackerel scad,29,233.7534209
+PAL14_123,PAL14_25,2014,Carangidae,Caranx sp,Caranx trevally,1,2.722922834
+PAL14_123,PAL14_25,2014,Carangidae,Decapterus macarellus,mackerel scad,34,434.3707465
+PAL14_123,PAL14_25,2014,Molidae,Mola mola,ocean sunfish,1,381333.8059
+PAL14_123,PAL14_25,2014,Monacanthidae,Monacanthidae sp,leatherjackets,1,6.65062412
+PAL14_123,PAL14_25,2014,Nomeidae,Psenes sp,Psenes driftfish,2,2.705060288
+PAL14_124,PAL14_25,2014,Carangidae,Caranx sp,Caranx trevally,1,1.806037703
+PAL14_124,PAL14_25,2014,Carangidae,Decapterus macarellus,mackerel scad,32,142.2453749
+PAL14_124,PAL14_25,2014,Nomeidae,Psenes sp,Psenes driftfish,2,2.30677853
+PAL14_125,PAL14_25,2014,Carangidae,Caranx sp,Caranx trevally,1,1.656223403
+PAL14_125,PAL14_25,2014,Carangidae,Decapterus macarellus,mackerel scad,23,346.1970106
+PAL14_125,PAL14_25,2014,Carcharhinidae,Carcharhinus falciformis,silky shark,1,16070.22204
+PAL14_125,PAL14_25,2014,Nomeidae,Psenes sp,Psenes driftfish,1,0.460777589
+PAL14_126,PAL14_26,2014,Carangidae,Decapterus macarellus,mackerel scad,37,427.0308696
+PAL14_126,PAL14_26,2014,Carcharhinidae,Carcharhinus falciformis,silky shark,1,40919.32468
+PAL14_126,PAL14_26,2014,Echeneidae,Echeneis naucrates,live sharksucker,1,4.361298854
+PAL14_127,PAL14_26,2014,Carangidae,Carangidae sp,jacks,2,1.830256007
+PAL14_127,PAL14_26,2014,Carangidae,Caranx sexfasciatus,bigeye trevally,1,2.728640583
+PAL14_127,PAL14_26,2014,Carangidae,Decapterus macarellus,mackerel scad,24,57.57508264
+PAL14_127,PAL14_26,2014,Monacanthidae,Monacanthidae sp,leatherjackets,1,3.515416339
+PAL14_127,PAL14_26,2014,Nomeidae,Psenes sp,Psenes driftfish,3,4.09505132
+PAL14_128,PAL14_26,2014,Carangidae,Carangidae sp,jacks,1,0.915128004
+PAL14_128,PAL14_26,2014,Carangidae,Decapterus macarellus,mackerel scad,17,103.7440621
+PAL14_128,PAL14_26,2014,Carcharhinidae,Carcharhinus falciformis,silky shark,1,40919.32468
+PAL14_129,PAL14_26,2014,Carangidae,Decapterus macarellus,mackerel scad,37,132.922487
+PAL14_129,PAL14_26,2014,Nomeidae,Psenes sp,Psenes driftfish,3,11.93102912
+PAL14_130,PAL14_26,2014,Carangidae,Decapterus macarellus,mackerel scad,25,213.0125941
+PAL14_130,PAL14_26,2014,Nomeidae,Psenes sp,Psenes driftfish,1,1.336530957
+PAL14_130,PAL14_26,2014,Carangidae,Carangidae sp,jacks,1,0.915128004
+PAL14_131,PAL14_27,2014,Carcharhinidae,Carcharhinus falciformis,silky shark,1,30025.41538
+PAL14_131,PAL14_27,2014,Monacanthidae,Monacanthidae sp,leatherjackets,1,4.833365158
+PAL14_132,PAL14_27,2014,Carcharhinidae,Carcharhinus falciformis,silky shark,1,25677.2145
+PAL14_132,PAL14_27,2014,Monacanthidae,Monacanthidae sp,leatherjackets,1,3.598427747
+PAL14_132,PAL14_27,2014,Nomeidae,Psenes sp,Psenes driftfish,1,0.309640119
+PAL14_133,PAL14_27,2014,Carcharhinidae,Galeocerdo cuvier,tiger shark,1,337411.47
+PAL14_133,PAL14_27,2014,Echeneidae,Echeneis naucrates,live sharksucker,3,11.15560153
+PAL14_135,PAL14_27,2014,Carangidae,Caranx sp,Caranx trevally,1,17.53770432
+PAL14_135,PAL14_27,2014,Carangidae,Decapterus sp,Decapterus scad,1,2.701741933
+PAL14_135,PAL14_27,2014,Nomeidae,Psenes sp,Psenes driftfish,3,0.697424134
+PAL14_136,PAL14_28,2014,Carangidae,Carangidae sp,jacks,1,0.915128004
+PAL14_136,PAL14_28,2014,Carangidae,Carangoides ferdau,blue trevally,1,65.36181636
+PAL14_136,PAL14_28,2014,Monacanthidae,Monacanthidae sp,leatherjackets,2,6.635227733
+PAL14_137,PAL14_28,2014,Carangidae,Caranx sp,Caranx trevally,2,3.940120576
+PAL14_137,PAL14_28,2014,Monacanthidae,Monacanthidae sp,leatherjackets,1,2.604800911
+PAL14_137,PAL14_28,2014,Nomeidae,Psenes sp,Psenes driftfish,1,1.071517644
+PAL14_138,PAL14_28,2014,Carangidae,Caranx sp,Caranx trevally,1,0.915167153
+PAL14_138,PAL14_28,2014,Carcharhinidae,Carcharhinus falciformis,silky shark,1,4497.621198
+PAL14_138,PAL14_28,2014,Monacanthidae,Monacanthidae sp,leatherjackets,1,1.60878222
+PAL14_139,PAL14_28,2014,Carangidae,Caranx sp,Caranx trevally,2,1.121805403
+PAL14_139,PAL14_28,2014,Monacanthidae,Monacanthidae sp,leatherjackets,1,0.979009295
+PAL14_139,PAL14_28,2014,Nomeidae,Psenes sp,Psenes driftfish,1,1.071517644
+PAL14_140,PAL14_28,2014,Carangidae,Carangidae sp,jacks,1,0.915128004
+PAL14_140,PAL14_28,2014,Carangidae,Caranx sexfasciatus,bigeye trevally,1,5.168282259
+PAL14_141,PAL14_29,2014,Carangidae,Caranx sp,Caranx trevally,1,1.836101495
+PAL14_141,PAL14_29,2014,Carcharhinidae,Carcharhinus falciformis,silky shark,1,19746.43677
+PAL14_141,PAL14_29,2014,Fistulariidae,Fistularia sp,cornetfish,1,1.620548098
+PAL14_142,PAL14_29,2014,Carangidae,Caranx sp,Caranx trevally,4,12.71230404
+PAL14_142,PAL14_29,2014,Carangidae,Naucrates ductor,pilotfish,1,213.4319923
+PAL14_142,PAL14_29,2014,Carcharhinidae,Carcharhinus falciformis,silky shark,1,19069.54628
+PAL14_142,PAL14_29,2014,Echeneidae,Echeneis naucrates,live sharksucker,1,1.447604578
+PAL14_142,PAL14_29,2014,Monacanthidae,Monacanthidae sp,leatherjackets,2,1.519762296
+PAL14_142,PAL14_29,2014,Nomeidae,Psenes sp,Psenes driftfish,1,0.22804287
+PAL14_143,PAL14_29,2014,Carangidae,Caranx sp,Caranx trevally,3,7.452635848
+PAL14_143,PAL14_29,2014,Fistulariidae,Fistularia sp,cornetfish,1,2.015142498
+PAL14_143,PAL14_29,2014,Juvenile,Juvenile sp,juvenile,1,0.95162138
+PAL14_143,PAL14_29,2014,Monacanthidae,Monacanthidae sp,leatherjackets,1,3.440282282
+PAL14_143,PAL14_29,2014,Nomeidae,Psenes sp,Psenes driftfish,1,0.343917086
+PAL14_144,PAL14_29,2014,Carangidae,Caranx sp,Caranx trevally,2,1.261546895
+PAL14_144,PAL14_29,2014,Carcharhinidae,Carcharhinus falciformis,silky shark,1,17270.66994
+PAL14_144,PAL14_29,2014,Juvenile,Juvenile sp,juvenile,4,3.806485519
+PAL14_144,PAL14_29,2014,Monacanthidae,Monacanthidae sp,leatherjackets,2,3.83384602
+PAL14_145,PAL14_29,2014,Carangidae,Carangidae sp,jacks,1,1.309222229
+PAL14_145,PAL14_29,2014,Carangidae,Caranx sp,Caranx trevally,3,20.25725932
+PAL14_145,PAL14_29,2014,Carcharhinidae,Carcharhinus falciformis,silky shark,1,13924.62598
+PAL14_145,PAL14_29,2014,Monacanthidae,Monacanthidae sp,leatherjackets,2,25.9394964
+PAL14_146,PAL14_30,2014,Carangidae,Caranx sp,Caranx trevally,11,30.22243676
+PAL14_146,PAL14_30,2014,Carangidae,Decapterus macarellus,mackerel scad,3,26.82085392
+PAL14_146,PAL14_30,2014,Carangidae,Decapterus sp,Decapterus scad,83,182294.5519
+PAL14_146,PAL14_30,2014,Monacanthidae,Monacanthidae sp,leatherjackets,9,21.43226554
+PAL14_146,PAL14_30,2014,Nomeidae,Psenes sp,Psenes driftfish,1,0.168747313
+PAL14_146,PAL14_30,2014,Sphyrnidae,Sphyrna zygaena,smoooth hammerhead,1,232997.0915
+PAL14_147,PAL14_30,2014,Carangidae,Caranx sp,Caranx trevally,9,38.10476925
+PAL14_147,PAL14_30,2014,Coryphaenidae,Coryphaena hippurus,common dolphinfish,1,962.7442185
+PAL14_147,PAL14_30,2014,Monacanthidae,Monacanthidae sp,leatherjackets,4,7.241211022
+PAL14_147,PAL14_30,2014,Nomeidae,Psenes sp,Psenes driftfish,2,0.693886791
+PAL14_148,PAL14_30,2014,Carangidae,Caranx sp,Caranx trevally,9,12.25542993
+PAL14_148,PAL14_30,2014,Carangidae,Decapterus sp,Decapterus scad,111,149.9545726
+PAL14_148,PAL14_30,2014,Carcharhinidae,Carcharhinus falciformis,silky shark,1,11175.12051
+PAL14_148,PAL14_30,2014,Coryphaenidae,Coryphaena hippurus,common dolphinfish,9,2535.712494
+PAL14_148,PAL14_30,2014,Juvenile,Juvenile sp,juvenile,1,0.337852092
+PAL14_148,PAL14_30,2014,Monacanthidae,Monacanthidae sp,leatherjackets,2,2.874368644
+PAL14_148,PAL14_30,2014,Nomeidae,Psenes sp,Psenes driftfish,2,0.27538367
+PAL14_149,PAL14_30,2014,Blenniidae,Plagiotremus sp,combtooth blenny,1,0.549822353
+PAL14_149,PAL14_30,2014,Carangidae,Caranx sp,Caranx trevally,7,10.70128562
+PAL14_149,PAL14_30,2014,Carangidae,Decapterus macarellus,mackerel scad,7,62.58199248
+PAL14_149,PAL14_30,2014,Carangidae,Decapterus sp,Decapterus scad,15,85.20734213
+PAL14_149,PAL14_30,2014,Carcharhinidae,Carcharhinus falciformis,silky shark,1,16163.25607
+PAL14_149,PAL14_30,2014,Coryphaenidae,Coryphaena hippurus,common dolphinfish,6,3981.894192
+PAL14_149,PAL14_30,2014,Monacanthidae,Monacanthidae sp,leatherjackets,5,123.5764651
+PAL14_149,PAL14_30,2014,Nomeidae,Psenes sp,Psenes driftfish,1,0.262220842
+PAL14_150,PAL14_30,2014,Carangidae,Caranx sp,Caranx trevally,9,37.56843331
+PAL14_150,PAL14_30,2014,Carangidae,Decapterus macarellus,mackerel scad,2,17.88056928
+PAL14_150,PAL14_30,2014,Carangidae,Decapterus sp,Decapterus scad,3,38.14486456
+PAL14_150,PAL14_30,2014,Carcharhinidae,Carcharhinus falciformis,silky shark,1,58876.56683
+PAL14_150,PAL14_30,2014,Coryphaenidae,Coryphaena hippurus,common dolphinfish,7,20901.2598
+PAL14_150,PAL14_30,2014,Monacanthidae,Monacanthidae sp,leatherjackets,2,5.007073577
+PAL22_001,PAL22_1,2022,Monacanthidae,Aluterus scriptus,scribbled leatherjacket filefish,1,183.34
+PAL22_002,PAL22_1,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.36
+PAL22_003,PAL22_1,2022,Carangidae,Decapterus sp,Decapterus scad,4,142.67
+PAL22_004,PAL22_1,2022,Carangidae,Decapterus sp,Decapterus scad,6,280.2
+PAL22_005,PAL22_1,2022,Carangidae,Decapterus sp,Decapterus scad,5,207.73
+PAL22_006,PAL22_2,2022,Coryphaenidae,Coryphaena equiselis,pompano dolphinfish,15,1282.21
+PAL22_006,PAL22_2,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.04
+PAL22_007,PAL22_2,2022,Carangidae,Decapterus sp,Decapterus scad,13,769.98
+PAL22_008,PAL22_2,2022,Coryphaenidae,Coryphaena equiselis,pompano dolphinfish,3,208.37
+PAL22_009,PAL22_2,2022,Coryphaenidae,Coryphaena equiselis,pompano dolphinfish,79,6889.06
+PAL22_010,PAL22_2,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.16
+PAL22_011,PAL22_3,2022,None,None,None,0,0
+PAL22_012,PAL22_3,2022,None,None,None,0,0
+PAL22_013,PAL22_3,2022,None,None,None,0,0
+PAL22_014,PAL22_3,2022,None,None,None,0,0
+PAL22_015,PAL22_3,2022,None,None,None,0,0
+PAL22_016,PAL22_3,2022,None,None,None,0,0
+PAL22_017,PAL22_4,2022,Carangidae,Elagatis bipinnulata,rainbow runner,1,142.27
+PAL22_018,PAL22_4,2022,Balistidae,Canthidermis maculata,rought triggerfish,2,765.37
+PAL22_019,PAL22_4,2022,Balistidae,Canthidermis maculata,rought triggerfish,5,1763.55
+PAL22_020,PAL22_5,2022,None,None,None,0,0
+PAL22_021,PAL22_5,2022,None,None,None,0,0
+PAL22_022,PAL22_5,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,524.92
+PAL22_023,PAL22_5,2022,Balistidae,Canthidermis maculata,rought triggerfish,26,6864.53
+PAL22_024,PAL22_5,2022,None,None,None,0,0
+PAL22_025,PAL22_5,2022,None,None,None,0,0
+PAL22_026,PAL22_6,2022,Carangidae,Decapterus sp,Decapterus scad,51,2955.09
+PAL22_026,PAL22_6,2022,Coryphaenidae,Coryphaena hippurus,common dolphinfish,2,2038.83
+PAL22_027,PAL22_6,2022,Balistidae,Canthidermis maculata,rought triggerfish,3,1068.19
+PAL22_028,PAL22_6,2022,Balistidae,Canthidermis maculata,rought triggerfish,5,1141.23
+PAL22_028,PAL22_6,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.39
+PAL22_029,PAL22_6,2022,Balistidae,Canthidermis maculata,rought triggerfish,2,963.27
+PAL22_030,PAL22_6,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,542.82
+PAL22_030,PAL22_6,2022,Carangidae,Elagatis bipinnulata,rainbow runner,1,142.27
+PAL22_031,PAL22_7,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,479.69
+PAL22_032,PAL22_7,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,445.42
+PAL22_033,PAL22_7,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,447.3
+PAL22_034,PAL22_7,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,591.71
+PAL22_035,PAL22_7,2022,None,None,None,0,0
+PAL22_036,PAL22_8,2022,None,None,None,0,0
+PAL22_037,PAL22_8,2022,None,None,None,0,0
+PAL22_038,PAL22_8,2022,None,None,None,0,0
+PAL22_039,PAL22_8,2022,None,None,None,0,0
+PAL22_040,PAL22_8,2022,None,None,None,0,0
+PAL22_041,PAL22_9,2022,Balistidae,Balistidae sp,triggerfishes,1,41.05
+PAL22_041,PAL22_9,2022,Nomeidae,Psenes sp,Psenes driftfish,1,1.58
+PAL22_042,PAL22_9,2022,Monacanthidae,Aluterus sp,leatherjacket filefish,1,196.35
+PAL22_043,PAL22_9,2022,Monacanthidae,Aluterus monoceros,unicorn leatherjacket filefish,1,209.59
+PAL22_044,PAL22_9,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.73
+PAL22_044,PAL22_9,2022,Priacanthidae,Priacanthus sp,bigeye,1,0.97
+PAL22_045,PAL22_9,2022,None,None,None,0,0
+PAL22_046,PAL22_10,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.65
+PAL22_047,PAL22_10,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,702.28
+PAL22_047,PAL22_10,2022,Monacanthidae,Aluterus scriptus,scribbled leatherjacket filefish,1,315.01
+PAL22_048,PAL22_10,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,273.85
+PAL22_048,PAL22_10,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.65
+PAL22_049,PAL22_10,2022,Balistidae,Canthidermis maculata,rought triggerfish,7,1119.44
+PAL22_050,PAL22_10,2022,None,None,None,0,0
+PAL22_051,PAL22_11,2022,None,None,None,0,0
+PAL22_052,PAL22_11,2022,None,None,None,0,0
+PAL22_053,PAL22_11,2022,None,None,None,0,0
+PAL22_054,PAL22_11,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,280.51
+PAL22_055,PAL22_11,2022,Balistidae,Canthidermis maculata,rought triggerfish,2,561.03
+PAL22_056,PAL22_12,2022,Carangidae,Caranx sp,Caranx trevally,1,79.45
+PAL22_056,PAL22_12,2022,Carangidae,Decapterus sp,Decapterus scad,1,0.81
+PAL22_056,PAL22_12,2022,Monacanthidae,Monacanthus sp,leatherjacket,1,3.56
+PAL22_057,PAL22_12,2022,None,None,None,0,0
+PAL22_058,PAL22_12,2022,Carangidae,Decapterus sp,Decapterus scad,3,2.44
+PAL22_059,PAL22_12,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,209.89
+PAL22_059,PAL22_12,2022,Carangidae,Decapterus sp,Decapterus scad,3,2.44
+PAL22_059,PAL22_12,2022,Carcharhinidae,Galeocerdo cuvier,tiger shark,1,334934.31
+PAL22_059,PAL22_12,2022,Scombridae,Gymnosarda unicolor,dogtooth tuna,1,981.16
+PAL22_060,PAL22_12,2022,Carangidae,Decapterus sp,Decapterus scad,5,4.07
+PAL22_060,PAL22_12,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.12
+PAL22_061,PAL22_13,2022,Carangidae,Decapterus sp,Decapterus scad,3,3.95
+PAL22_062,PAL22_13,2022,Balistidae,Canthidermis maculata,rought triggerfish,3,815.56
+PAL22_063,PAL22_13,2022,Carangidae,Caranx sp,Caranx trevally,1,7.07
+PAL22_064,PAL22_13,2022,None,None,None,0,0
+PAL22_065,PAL22_13,2022,Nomeidae,Psenes sp,Psenes driftfish,1,4.04
+PAL22_066,PAL22_14,2022,Monacanthidae,Monacanthus sp,leatherjacket,1,3.56
+PAL22_067,PAL22_14,2022,Nomeidae,Psenes sp,Psenes driftfish,2,0.64
+PAL22_068,PAL22_14,2022,Carangidae,Decapterus sp,Decapterus scad,3,16.3
+PAL22_068,PAL22_14,2022,Monacanthidae,Aluterus scriptus,scribbled leatherjacket filefish,1,382.8
+PAL22_069,PAL22_14,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,321.28
+PAL22_070,PAL22_14,2022,Balistidae,Canthidermis maculata,rought triggerfish,3,555.84
+PAL22_070,PAL22_14,2022,Monacanthidae,Aluterus scriptus,scribbled leatherjacket filefish,2,585.7
+PAL22_070,PAL22_14,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.04
+PAL22_071,PAL22_15,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,204.14
+PAL22_072,PAL22_15,2022,Balistidae,Canthidermis maculata,rought triggerfish,6,810.69
+PAL22_072,PAL22_15,2022,Carangidae,Decapterus sp,Decapterus scad,1,86.58
+PAL22_072,PAL22_15,2022,Monacanthidae,Aluterus monoceros,unicorn leatherjacket filefish,2,62.57
+PAL22_073,PAL22_15,2022,Carangidae,Carangidae sp,jacks,17,15.9
+PAL22_073,PAL22_15,2022,Balistidae,Canthidermis maculata,rought triggerfish,8,1671.24
+PAL22_073,PAL22_15,2022,Carangidae,Decapterus sp,Decapterus scad,13,647.44
+PAL22_073,PAL22_15,2022,Carangidae,Selar crumenophthalmus,bigeye scad,1,84.11
+PAL22_073,PAL22_15,2022,Carangidae,Seriola rivoliana,longfin yellowtail,1,53.16
+PAL22_073,PAL22_15,2022,Monacanthidae,Aluterus monoceros,unicorn leatherjacket filefish,1,31.28
+PAL22_074,PAL22_15,2022,Balistidae,Canthidermis maculata,rought triggerfish,2,696.73
+PAL22_074,PAL22_15,2022,Carangidae,Caranx sp,Caranx trevally,4,188.11
+PAL22_074,PAL22_15,2022,Carangidae,Decapterus sp,Decapterus scad,4,232.41
+PAL22_074,PAL22_15,2022,Monacanthidae,Aluterus scriptus,scribbled leatherjacket filefish,2,639.94
+PAL22_074,PAL22_15,2022,Nomeidae,Psenes cyanophrys,freckled driftfish ,37,2256.42
+PAL22_075,PAL22_15,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,292.75
+PAL22_075,PAL22_15,2022,Carangidae,Decapterus sp,Decapterus scad,88,4252.67
+PAL22_075,PAL22_15,2022,Carangidae,Selar crumenophthalmus,bigeye scad,7,588.79
+PAL22_075,PAL22_15,2022,Nomeidae,Psenes cyanophrys,freckled driftfish ,19,1128.41
+PAL22_076,PAL22_16,2022,Balistidae,Canthidermis maculata,rought triggerfish,4,723.42
+PAL22_076,PAL22_16,2022,Carcharhinidae,Carcharhinus falciformis,silky shark,1,16176.32
+PAL22_076,PAL22_16,2022,Monacanthidae,Aluterus scriptus,scribbled leatherjacket filefish,1,319.97
+PAL22_076,PAL22_16,2022,Scombridae,Thunnus sp,tuna,24,3337.9
+PAL22_077,PAL22_16,2022,Balistidae,Canthidermis maculata,rought triggerfish,11,1482.18
+PAL22_077,PAL22_16,2022,Carangidae,Decapterus sp,Decapterus scad,16,1136.11
+PAL22_077,PAL22_16,2022,Nomeidae,Psenes cyanophrys,freckled driftfish ,6,350.12
+PAL22_078,PAL22_16,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,175.67
+PAL22_079,PAL22_16,2022,None,None,None,0,0
+PAL22_080,PAL22_16,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,579.7
+PAL22_081,PAL22_17,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,465.23
+PAL22_082,PAL22_17,2022,Coryphaenidae,Coryphaena equiselis,pompano dolphinfish,1,102.29
+PAL22_082,PAL22_17,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.46
+PAL22_083,PAL22_17,2022,Balistidae,Canthidermis maculata,rought triggerfish,2,597.02
+PAL22_084,PAL22_17,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.03
+PAL22_085,PAL22_17,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.12
+PAL22_086,PAL22_18,2022,None,None,None,0,0
+PAL22_087,PAL22_18,2022,None,None,None,0,0
+PAL22_088,PAL22_18,2022,None,None,None,0,0
+PAL22_089,PAL22_18,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.17
+PAL22_090,PAL22_18,2022,None,None,None,0,0
+PAL22_091,PAL22_19,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.04
+PAL22_092,PAL22_19,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,164.26
+PAL22_093,PAL22_19,2022,Balistidae,Canthidermis maculata,rought triggerfish,2,183.84
+PAL22_093,PAL22_19,2022,Nomeidae,Psenes sp,Psenes driftfish,3,0.13
+PAL22_094,PAL22_19,2022,None,None,None,0,0
+PAL22_095,PAL22_19,2022,None,None,None,0,0
+PAL22_096,PAL22_2,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.72
+PAL22_097,PAL22_2,2022,None,None,None,0,0
+PAL22_098,PAL22_2,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.12
+PAL22_099,PAL22_2,2022,Carangidae,Caranx sp,Caranx trevally,1,8.5
+PAL22_100,PAL22_2,2022,Istiophoridae,Makaira nigricans,blue marlin,1,36646.29
+PAL22_101,PAL22_21,2022,None,None,None,0,0
+PAL22_102,PAL22_21,2022,None,None,None,0,0
+PAL22_103,PAL22_21,2022,None,None,None,0,0
+PAL22_104,PAL22_21,2022,None,None,None,0,0
+PAL22_105,PAL22_21,2022,None,None,None,0,0
+PAL22_106,PAL22_22,2022,Monacanthidae,Aluterus monoceros,unicorn leatherjacket filefish,1,346.95
+PAL22_107,PAL22_22,2022,None,None,None,0,0
+PAL22_108,PAL22_22,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.12
+PAL22_109,PAL22_22,2022,Carangidae,Decapterus sp,Decapterus scad,8,17.81
+PAL22_109,PAL22_22,2022,Carangidae,Selar crumenophthalmus,bigeye scad,2,5.93
+PAL22_109,PAL22_22,2022,Istiophoridae,Makaira nigricans,blue marlin,1,36646.29
+PAL22_110,PAL22_22,2022,Carangidae,Caranx sp,Caranx trevally,2,9.95
+PAL22_111,PAL22_23,2022,Balistidae,Canthidermis maculata,rought triggerfish,2,533.31
+PAL22_111,PAL22_23,2022,Carangidae,Caranx sp,Caranx trevally,1,2.25
+PAL22_111,PAL22_23,2022,Carangidae,Decapterus sp,Decapterus scad,1,4.6
+PAL22_112,PAL22_23,2022,None,None,None,0,0
+PAL22_113,PAL22_23,2022,None,None,None,0,0
+PAL22_114,PAL22_23,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,266.66
+PAL22_115,PAL22_23,2022,None,None,None,0,0
+PAL22_116,PAL22_24,2022,None,None,None,0,0
+PAL22_117,PAL22_24,2022,Carangidae,Caranx sp,Caranx trevally,2,10.03
+PAL22_118,PAL22_24,2022,None,None,None,0,0
+PAL22_119,PAL22_24,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,183.06
+PAL22_119,PAL22_24,2022,Carangidae,Caranx sp,Caranx trevally,1,6.12
+PAL22_119,PAL22_24,2022,Carangidae,Decapterus sp,Decapterus scad,9,35.54
+PAL22_120,PAL22_24,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,183.06
+PAL22_120,PAL22_24,2022,Carangidae,Decapterus sp,Decapterus scad,1,3.95
+PAL22_121,PAL22_25,2022,Carangidae,Caranx sp,Caranx trevally,1,4.33
+PAL22_121,PAL22_25,2022,Carangidae,Decapterus sp,Decapterus scad,5,11.78
+PAL22_121,PAL22_25,2022,Coryphaenidae,Coryphaena hippurus,common dolphinfish,3,11674.06
+PAL22_121,PAL22_25,2022,Sphyraenidae,Sphyraena barracuda,great barracuda,1,2420.89
+PAL22_122,PAL22_25,2022,Coryphaenidae,Coryphaena hippurus,common dolphinfish,1,3955.85
+PAL22_123,PAL22_25,2022,Coryphaenidae,Coryphaena hippurus,common dolphinfish,2,8107.76
+PAL22_125,PAL22_25,2022,None,None,None,0,0
+PAL22_126,PAL22_26,2022,Carangidae,Decapterus sp,Decapterus scad,11,40.68
+PAL22_127,PAL22_26,2022,Nomeidae,Psenes sp,Psenes driftfish,2,2.44
+PAL22_128,PAL22_26,2022,Carangidae,Caranx sp,Caranx trevally,3,14.57
+PAL22_129,PAL22_26,2022,Carangidae,Decapterus sp,Decapterus scad,1,3.01
+PAL22_130,PAL22_26,2022,Carangidae,Caranx sp,Caranx trevally,1,5.54
+PAL22_130,PAL22_26,2022,Carangidae,Decapterus sp,Decapterus scad,16,42.87
+PAL22_130,PAL22_26,2022,Coryphaenidae,Coryphaena hippurus,common dolphinfish,4,16078.49
+PAL22_131,PAL22_27,2022,None,None,None,0,0
+PAL22_132,PAL22_27,2022,Carangidae,Decapterus sp,Decapterus scad,13,17.46
+PAL22_133,PAL22_27,2022,Carangidae,Decapterus sp,Decapterus scad,23,80.76
+PAL22_133,PAL22_27,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.49
+PAL22_134,PAL22_27,2022,Carangidae,Decapterus sp,Decapterus scad,32,70.93
+PAL22_135,PAL22_27,2022,Carangidae,Decapterus sp,Decapterus scad,50,161.54
+PAL22_136,PAL22_28,2022,Carangidae,Decapterus sp,Decapterus scad,39,95.61
+PAL22_137,PAL22_28,2022,Carangidae,Decapterus sp,Decapterus scad,32,71.09
+PAL22_137,PAL22_28,2022,Molidae,Masturus lanceolatus,sharptail mola,1,134051.6
+PAL22_137,PAL22_28,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.09
+PAL22_138,PAL22_28,2022,Carangidae,Decapterus sp,Decapterus scad,37,65.08
+PAL22_139,PAL22_28,2022,Carangidae,Decapterus sp,Decapterus scad,10,22.74
+PAL22_140,PAL22_28,2022,None,None,None,0,0
