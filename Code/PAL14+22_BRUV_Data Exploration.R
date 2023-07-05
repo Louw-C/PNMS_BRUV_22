@@ -59,7 +59,7 @@ MaxN_all_taxa<-MaxN_all_taxa%>%
 All_MaxN<-summarySE(MaxN_all_taxa, measurevar="Taxa.MaxN", groupvars=c("Binomial","Year"))
 All_MaxN.Plot1<-ggplot(All_MaxN, aes(x=factor(Binomial), y=Taxa.MaxN, fill=Year))+
   geom_col(position=position_dodge(0.9),color="grey")+
-  scale_fill_manual(values= wes_palette("Darjeeling2", n = 3))+
+  scale_fill_manual(values=musculus_palette("Bmlunge",2, type = "discrete"))  +
   labs(y = "Mean MaxN", x="Fish taxa", title="Mean MaxN of different fish taxa across surveys")+
   geom_errorbar(aes(ymin=Taxa.MaxN-se, ymax=Taxa.MaxN+se),position=position_dodge(0.9), width=0.4)+
   theme(axis.line = element_line(color='grey'),
@@ -68,7 +68,7 @@ All_MaxN.Plot1<-ggplot(All_MaxN, aes(x=factor(Binomial), y=Taxa.MaxN, fill=Year)
         axis.text.y= element_text(size=11),panel.grid.minor = element_blank())
 All_MaxN.Plot1
 
-
+scale_fill_manual(values= wes_palette("Darjeeling2", n = 3))+
 ####Common name
 #Look mean MaxN for each taxa for both 2014 and 2022
 
