@@ -1,8 +1,8 @@
 #PAL22 BRUVs - data exploration
 
 #Load BRUV MaxN and Biomass data
-BRUV_all <- read.csv(file.choose()) 
-BRUV_all %>% head(5)
+BRUV_2022 <- read.csv(file.choose()) 
+BRUV_2022 %>% head(5)
 
 #Load BRUV meta data with depth data
 BRUV_meta <- read.csv(file.choose()) 
@@ -10,7 +10,7 @@ BRUV_meta <- read.csv(file.choose())
 BRUV_meta %>% head(5)
 
 #This merges two data frames with a common ID - here we used Sample
-BRUV_database <- merge(BRUV_all,BRUV_meta,by = "Sample")
+BRUV_database <- merge(BRUV_2022,BRUV_meta,by = "Sample")
 BRUV_database %>% head(5)
 
 ######Look at general patterns of MaxN###########
@@ -46,18 +46,17 @@ BRUV_String %>%
 #Boxplot
 BRUV_String %>% 
   ggplot(aes(x = Site, y=t.MaxN, color=Zone)) +
-  geom_boxplot()+ ggtitle("MaxN") + theme(axis.text.x=element_text(),strip.text.y = element_text(angle = 0))
+  geom_boxplot()+ geom_jitter()+
+  ggtitle("MaxN") + theme(axis.text.x=element_text(),strip.text.y = element_text(angle = 0))
 
 
 require(wesanderson)
 #Develop a boxplot with SE of Mean MaxN across Zones
 #Using string level data - mean of number of strings deployed in each site
-MaxN1<-summarySE(BRUV_String, measurevar="t.MaxN", groupvars=c("Site","Zone"))
-MaxN1.Plot1<-ggplot(BRUV2, aes(x=factor(Site), y=t.MaxN, fill=Zone))+
-  geom_col(position=position_dodge(0.9), color="grey")+
-  labs(y = "Mean MaxN", x="Site", title="Mean MaxN across sites")+
+MaxN1.Plot1<-ggplot(BRUV_String, aes(x=factor(Site), y=t.MaxN, fill=Zone))+
+  geom_boxplot()+geom_jitter(colour="darkblue", shape=5)+
+  labs(y = "MaxN", x="Site", title="MaxN across sites")+
   scale_fill_manual(values= wes_palette("FantasticFox1", n = 3))+
-  geom_errorbar(aes(ymin=t.MaxN-se, ymax=t.MaxN+se),position=position_dodge(0.9), width=0.4)+
   theme(axis.line = element_line(color='grey'),
         legend.title = element_blank(),panel.background = element_blank(),panel.grid.major=element_line(0.5, colour="Gray80"),
         axis.text.x = element_text(),axis.title.x=element_text(),
@@ -81,15 +80,13 @@ BRUV_String %>%
         legend.text = element_text(size=11))
 
 #Group together to look at MaxN across zones - use String data set
-MaxN2<-summarySE(BRUV_String, measurevar="t.MaxN", groupvars=c("Zone"))
-MaxN2.Plot1<-ggplot(MaxN2, aes(x=factor(Zone), y=t.MaxN, fill=Zone))+
-  geom_col(position=position_dodge(0.9), color="grey")+
-  labs(y = "Mean MaxN", x="Zone", title="Mean MaxN across different management zones")+
+MaxN2.Plot1<-ggplot(BRUV_String, aes(x=factor(Zone), y=t.MaxN, fill=Zone))+
+  geom_boxplot()+geom_jitter(colour="darkblue", shape=5)+
+  labs(y = "MaxN",title="MaxN across different management zones")+
   scale_fill_manual(values= wes_palette("FantasticFox1", n = 3))+
-  geom_errorbar(aes(ymin=t.MaxN-se, ymax=t.MaxN+se),position=position_dodge(0.9), width=0.4)+
   theme(axis.line = element_line(color='grey'),
         legend.title = element_blank(),panel.background = element_blank(),panel.grid.major=element_line(0.5, colour="Gray80"),
-        axis.text.x = element_text(),axis.title.x=element_text(),legend.position="none",
+        axis.text.x = element_text(),axis.title.x=element_blank(),legend.position="none",
         axis.text.y= element_text(size=11),panel.grid.minor = element_blank())
 MaxN2.Plot1
 
@@ -108,26 +105,27 @@ BRUV_taxa<-BRUV_taxa%>%
 BRUV_taxa$Zone <- factor(BRUV_taxa$Zone, levels = c("PNMS North", "DFZ West", "PNMS South"))
 
 #Look mean MaxN for each taxa across sites
-TaxaMaxN<-summarySE(BRUV_taxa, measurevar="Taxa.MaxN", groupvars=c("Binomial","Zone"))
-TaxaMaxN.Plot1<-ggplot(TaxaMaxN, aes(x=factor(Binomial), y=Taxa.MaxN, fill=Zone))+
-  geom_col(position=position_dodge(0.9),color="grey")+
-  labs(y = "Mean MaxN", x="Fish taxa", title="Mean MaxN of different fish taxa across zones")+
+TaxaMaxN.Plot1<-ggplot(BRUV_taxa, aes(x=factor(Binomial), y=Taxa.MaxN))+
+  facet_grid(Zone~.)+
+  geom_boxplot()+geom_jitter(colour="darkblue", shape=5)+
+  labs(y = "MaxN", x="Fish taxa", title="MaxN of different fish taxa across zones")+
   scale_fill_manual(values= wes_palette("FantasticFox1", n = 3))+
-  geom_errorbar(aes(ymin=Taxa.MaxN-se, ymax=Taxa.MaxN+se),position=position_dodge(0.9), width=0.4)+
   theme(axis.line = element_line(color='grey'),
         legend.title = element_blank(),panel.background = element_blank(),panel.grid.major=element_line(0.5, colour="Gray80"),
-        axis.text.x = element_text(angle=90,vjust=0.3,face="italic"),axis.title.x=element_text(),
+        axis.text.x = element_text(angle=90,vjust=0.3,face="italic"),axis.title.x=element_blank(),
         axis.text.y= element_text(size=11),panel.grid.minor = element_blank())
 TaxaMaxN.Plot1
-
 
 #####Move onto biomass
 
 #Biomass has major outliers - tiger shark.
-#Subset data to remove tiger shark - massive outlier
-
+#Subset data to remove tiger shark - massive outlier; also remove Mola.
+#Decide if you want to keep in Marlins and silky shark?
 Biomass_data<-BRUV_database%>% 
   subset(Common.name!="tiger shark")
+Biomass_data<-Biomass_data%>% 
+  subset(Common.name!="sharptail mola")
+
 
 #Aggregate to string level for biomass data
 Biomass_String<-Biomass_data %>% 
@@ -135,12 +133,24 @@ Biomass_String<-Biomass_data %>%
   summarize(B.Biomass=mean(Biomass),
             B.MaxN=mean(MaxN))
 
-Biomass1<-summarySE(Biomass_String, measurevar="B.Biomass", groupvars=c("Site","Zone"))
-Biomass1.Plot1<-ggplot(Biomass1, aes(x=factor(Site), y=B.Biomass, fill=Zone))+
-  geom_col(position=position_dodge(0.9), color="grey")+
-  labs(y = "Mean Biomass (g)", x="Site", title="Mean fish biomass across sites")+
+#Set the order of variables in graphs
+Biomass_String$Zone <- factor(Biomass_String$Zone, levels = c("PNMS North", "DFZ West", "PNMS South"))
+Biomass_String$Site <- factor(Biomass_String$Site, levels = c("N1",
+                                                        "N3",
+                                                        "N4",
+                                                        "W1",
+                                                        "W2",
+                                                        "W3",
+                                                        "W4",
+                                                        "S1",
+                                                        "S2",
+                                                        "S3",
+                                                        "S4"))
+
+Biomass1.Plot1<-ggplot(Biomass_String, aes(x=factor(Site), y=B.Biomass, fill=Zone))+
+  geom_boxplot()+geom_jitter(colour="darkblue",shape=5)+
+  labs(y = "Biomass (g)", x="Site", title="Fish biomass across sites")+
   scale_fill_manual(values= wes_palette("FantasticFox1", n = 3))+
-  geom_errorbar(aes(ymin=B.Biomass-se, ymax=B.Biomass+se),position=position_dodge(0.9), width=0.4)+
   theme(axis.line = element_line(color='grey'),
         legend.title = element_blank(),panel.background = element_blank(),panel.grid.major=element_line(0.5, colour="Gray80"),
         axis.text.x = element_text(),axis.title.x=element_text(),
@@ -148,14 +158,12 @@ Biomass1.Plot1<-ggplot(Biomass1, aes(x=factor(Site), y=B.Biomass, fill=Zone))+
 Biomass1.Plot1
 
 #Look at biomass across zones only - grouped
-Biomass2<-summarySE(Biomass_String, measurevar="B.Biomass", groupvars=c("Zone"))
-Biomass2.Plot1<-ggplot(Biomass2, aes(x=factor(Zone), y=B.Biomass, fill=Zone))+
-  geom_col(position=position_dodge(0.9), color="grey")+
-  labs(y = "Average Biomass (g)", x = "Zones", title= "Mean biomass across different management zones")+
+Biomass2.Plot1<-ggplot(Biomass_String, aes(x=factor(Zone), y=B.Biomass, fill=Zone))+
+  geom_boxplot()+geom_jitter(colour="darkblue", shape=5)+
+  labs(y = "Biomass (g)", x = "Zones", title= "Biomass across different management zones")+
   scale_fill_manual(values= wes_palette("Zissou1", n = 3))+
-  geom_errorbar(aes(ymin=B.Biomass-se, ymax=B.Biomass+se),position=position_dodge(0.9), width=0.4)+
   theme(axis.line = element_line(color='grey'),
-        legend.title = element_blank(),panel.background = element_blank(),panel.grid.major=element_line(0.5, colour="Gray80"),
+        legend.title = element_blank(),legend.position="none",panel.background = element_blank(),panel.grid.major=element_line(0.5, colour="Gray80"),
         axis.text.x = element_text(),axis.title.x=element_blank(),
         axis.text.y= element_text(size=11),panel.grid.minor = element_blank())
 Biomass2.Plot1
