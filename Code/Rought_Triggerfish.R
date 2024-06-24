@@ -84,3 +84,4 @@ Trigger.Plot2<-ggplot(Trigger2, aes(x=factor(Site), y=t.Biomass, fill=Zone))+
         axis.text.x = element_text(),axis.title.x=element_text(),
         axis.text.y= element_text(size=11),panel.grid.minor = element_blank())
 Trigger.Plot2
+
