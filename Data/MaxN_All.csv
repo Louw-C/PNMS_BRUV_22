@@ -363,11 +363,11 @@ PAL22_012,PAL22_3,2022,None,None,None,0,0
 PAL22_013,PAL22_3,2022,None,None,None,0,0
 PAL22_014,PAL22_3,2022,None,None,None,0,0
 PAL22_015,PAL22_3,2022,None,None,None,0,0
-PAL22_016,PAL22_3,2022,None,None,None,0,0
+PAL22_016,PAL22_4,2022,None,None,None,0,0
 PAL22_017,PAL22_4,2022,Carangidae,Elagatis bipinnulata,rainbow runner,1,142.27
 PAL22_018,PAL22_4,2022,Balistidae,Canthidermis maculata,rought triggerfish,2,765.37
 PAL22_019,PAL22_4,2022,Balistidae,Canthidermis maculata,rought triggerfish,5,1763.55
-PAL22_020,PAL22_5,2022,None,None,None,0,0
+PAL22_020,PAL22_4,2022,None,None,None,0,0
 PAL22_021,PAL22_5,2022,None,None,None,0,0
 PAL22_022,PAL22_5,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,524.92
 PAL22_023,PAL22_5,2022,Balistidae,Canthidermis maculata,rought triggerfish,26,6864.53
@@ -480,11 +480,11 @@ PAL22_093,PAL22_19,2022,Balistidae,Canthidermis maculata,rought triggerfish,2,18
 PAL22_093,PAL22_19,2022,Nomeidae,Psenes sp,Psenes driftfish,3,0.13
 PAL22_094,PAL22_19,2022,None,None,None,0,0
 PAL22_095,PAL22_19,2022,None,None,None,0,0
-PAL22_096,PAL22_2,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.72
-PAL22_097,PAL22_2,2022,None,None,None,0,0
-PAL22_098,PAL22_2,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.12
-PAL22_099,PAL22_2,2022,Carangidae,Caranx sp,Caranx trevally,1,8.5
-PAL22_100,PAL22_2,2022,Istiophoridae,Makaira nigricans,blue marlin,1,36646.29
+PAL22_096,PAL22_20,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.72
+PAL22_097,PAL22_20,2022,None,None,None,0,0
+PAL22_098,PAL22_20,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.12
+PAL22_099,PAL22_20,2022,Carangidae,Caranx sp,Caranx trevally,1,8.5
+PAL22_100,PAL22_20,2022,Istiophoridae,Makaira nigricans,blue marlin,1,36646.29
 PAL22_101,PAL22_21,2022,None,None,None,0,0
 PAL22_102,PAL22_21,2022,None,None,None,0,0
 PAL22_103,PAL22_21,2022,None,None,None,0,0
