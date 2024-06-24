@@ -120,7 +120,7 @@ TaxaMaxN.Plot1
 
 #Biomass has major outliers - tiger shark.
 #Subset data to remove tiger shark - massive outlier; also remove Mola.
-#Decide if you want to keep in Marlins and silky shark?
+#Decide if you want to keep in Marlins and silky shark?####
 Biomass_data<-BRUV_database%>% 
   subset(Common.name!="tiger shark")
 Biomass_data<-Biomass_data%>% 
