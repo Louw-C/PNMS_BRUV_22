@@ -9,20 +9,34 @@ Plankton_Site<-Plankton_all %>%
   summarize(Total_Count=mean(Total_Count))
 
 #Make sure that the Zones are ordered correctly
-Plankton_Site$Zone <- factor(Plankton_Site$Zone, levels = c("North", "West", "South"))
+Plankton_Site$Zone <- factor(Plankton_Site$Zone, levels = c("PNMS North", "DFZ West", "PNMS South"))
 
 #1 - First do a boxplot of all plankton across zones
 
-Plankton_summary<-summarySE(Plankton_Site, measurevar="Total_Count", groupvars=c("Zone"))
-Plankton_1<-ggplot(Plankton_summary, aes(x=factor(Zone), y=Total_Count))+
-  geom_col(position=position_dodge(0.9))+
+Plankton_1<-ggplot(Plankton_Site, aes(x=factor(Zone), y=Total_Count))+
+  geom_boxplot()+geom_jitter(colour="darkblue", shape=5)+
   labs(y = "Average plankton abundance")+
-  geom_errorbar(aes(ymin=Total_Count-se, ymax=Total_Count+se),position=position_dodge(0.9), width=0.4)+
   theme(legend.title = element_text(),panel.background = element_blank(),panel.grid.major=element_line(0.5, colour="Gray80"),
         axis.text.x = element_text(size=11),axis.title.x=element_blank(),
         axis.text.y= element_text(size=11))
 
 Plankton_1
+
+#Try without outliers - copepods in three sites
+#Remove outliers Total_Count larger than 15 000
+
+Plankton_new<-Plankton_Site%>% 
+  filter(Total_Count < 1000)
+
+Plankton_2<-ggplot(Plankton_Site, aes(x=factor(Zone), y=Total_Count))+
+  geom_boxplot()+geom_jitter(colour="darkblue", shape=5)+
+  labs(y = "Average plankton abundance")+
+  theme(legend.title = element_text(),panel.background = element_blank(),panel.grid.major=element_line(0.5, colour="Gray80"),
+        axis.text.x = element_text(size=11),axis.title.x=element_blank(),
+        axis.text.y= element_text(size=11))
+
+Plankton_2
+
 
 #2 - Second do a boxplot of plankton categories (holo vs mero) across zones
 
