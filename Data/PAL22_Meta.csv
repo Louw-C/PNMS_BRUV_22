@@ -1,4 +1,4 @@
-Sample,String_Meta,Date,Site,Zone_Meta,Depth,Duration
+Sample,String,Date,Site_Meta,Zone_Meta,Depth,Duration
 PAL22_001,PAL22_1,10/08/22,N1,PNMS North,1400,02:05:37
 PAL22_002,PAL22_1,10/08/22,N1,PNMS North,1400,02:01:49
 PAL22_003,PAL22_1,10/08/22,N1,PNMS North,1400,02:01:15
