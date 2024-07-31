@@ -28,7 +28,7 @@ Plankton_1
 Plankton_new<-Plankton_Site%>% 
   filter(Total_Count < 1000)
 
-Plankton_2<-ggplot(Plankton_Site, aes(x=factor(Zone), y=Total_Count))+
+Plankton_2<-ggplot(Plankton_new, aes(x=factor(Zone), y=Total_Count))+
   geom_boxplot()+geom_jitter(colour="darkblue", shape=5)+
   labs(y = "Average plankton abundance")+
   theme(legend.title = element_text(),panel.background = element_blank(),panel.grid.major=element_line(0.5, colour="Gray80"),
@@ -40,12 +40,10 @@ Plankton_2
 
 #2 - Second do a boxplot of plankton categories (holo vs mero) across zones
 
-Plankton_summary2<-summarySE(Plankton_Site, measurevar="Total_Count", groupvars=c("Zone", "Plankton_Category"))
-Plankton_2<-ggplot(Plankton_summary2, aes(x=factor(Plankton_Category), y=Total_Count,fill=Zone))+
-  geom_col(position=position_dodge(0.9))+
-  scale_fill_manual(values = wes_palette("Zissou1", 3))+
+Plankton_2<-ggplot(Plankton_new, aes(x=factor(Zone), y=Total_Count,fill=Plankton_Category))+
+  geom_boxplot()+geom_jitter(colour="darkblue", shape=5)+
+  scale_fill_manual(values = wes_palette("FantasticFox1", 3))+
   labs(y = "Average plankton abundance")+
-  geom_errorbar(aes(ymin=Total_Count-se, ymax=Total_Count+se),position=position_dodge(0.9), width=0.4)+
   theme(legend.title = element_text(),panel.background = element_blank(),panel.grid.major=element_line(0.5, colour="Gray80"),
         axis.text.x = element_text(size=11),axis.title.x=element_blank(),
         axis.text.y= element_text(size=11))
@@ -54,19 +52,56 @@ Plankton_2
 
 #3 - Third do a boxplot of plankton groups across zones
 
-Plankton_summary3<-summarySE(Plankton_Site, measurevar="Total_Count", groupvars=c("Zone", "Plankton_Group"))
-Plankton_3<-ggplot(Plankton_summary3, aes(x=factor(Plankton_Group), y=Total_Count))+
+Plankton_3<-ggplot(Plankton_new, aes(x=factor(Plankton_Group), y=Total_Count))+
   facet_grid(Zone~.)+
-  geom_col(position=position_dodge(0.9))+
+  geom_boxplot()+geom_jitter(colour="darkblue", shape=5)+
   scale_fill_manual(values = wes_palette("Zissou1", 1))+
   labs(y = "Average plankton abundance")+
-  geom_errorbar(aes(ymin=Total_Count-se, ymax=Total_Count+se),position=position_dodge(0.9), width=0.4)+
   theme(legend.title = element_text(),panel.background = element_blank(),panel.grid.major=element_line(0.5, colour="Gray80"),
         axis.text.x = element_text(size=11, angle=90, vjust=0.3),axis.title.x=element_blank(),
         axis.text.y= element_text(size=11, ), strip.text = element_text(
         size = 11))
 
 Plankton_3
+#Combining fish and plankton
+#Load all data sheets - fish MaxN; Zooplankton, Meta = common factor is Site
+BRUV_2022 <- read.csv(file.choose()) 
+Plankton_all <- read.csv(file.choose()) 
+BRUV_meta <- read.csv(file.choose()) 
+
+Plankton_String<-Plankton_all %>% 
+  dplyr::group_by(String, Zone, Plankton_Category,Plankton_Group) %>%
+  summarize(Total_Count=mean(Total_Count))
+BRUV_String<-BRUV_2022%>% 
+  dplyr::group_by(String, Zone, Site) %>%
+  summarize(t.Biomass=mean(Biomass),
+            t.MaxN=mean(MaxN))
+
+#Merge all data sheets
+Fish_Plankton <- merge(BRUV_2022,Plankton_all,by = "String")
+Fish_Plankton %>% head(5)
+
+plot(Total_Count~MaxN, Fish_Plankton)
+M1<-glm(Total_Count~MaxN, Fish_Plankton)
+abline(M1)
+summary(M1)
+
+
+
+#Plot plankton and fish numbers - NEED TO FIGURE OUT HOW TO COMBINE ABUNDANCES
+Fish_Plankton1<-ggplot(Fish_Plankton, aes(x=factor(Plankton_Group), y=Total_Count))+
+  facet_grid(Zone~.)+
+  geom_boxplot()+geom_jitter(colour="darkblue", shape=5)+
+  scale_fill_manual(values = wes_palette("Zissou1", 1))+
+  labs(y = "Average plankton abundance")+
+  theme(legend.title = element_text(),panel.background = element_blank(),panel.grid.major=element_line(0.5, colour="Gray80"),
+        axis.text.x = element_text(size=11, angle=90, vjust=0.3),axis.title.x=element_blank(),
+        axis.text.y= element_text(size=11, ), strip.text = element_text(
+          size = 11))
+
+Plankton_3
+
+
 
 
 #Figures looking at fish and plankton
@@ -103,7 +138,6 @@ Fish_1
 #2 - Second do a boxplot of fish taxa across zones
 #First remove NONE
 Fish_site<-subset(Fish_site, Taxa!="None")
-
 
 Fish_summary2<-summarySE(Fish_site, measurevar="MaxN", groupvars=c("Zone", "Taxa"))
 Fish_2<-ggplot(Fish_summary2, aes(x=factor(Taxa), y=MaxN,fill=Zone))+
