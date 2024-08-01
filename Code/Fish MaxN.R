@@ -20,8 +20,8 @@ options(scipen = 100, digits = 4)
 
 #Group the mean of MaxN and Biomass to String level (mean of 5 rigs to get the string value)
 BRUV_String<-BRUV_database %>% 
-  dplyr::group_by(String, Zone,Binomial, Site, Depth) %>%
-  summarize(string.Biomass_g=mean(Biomass_g),
+  dplyr::group_by(String, Zone,Site,Binomial, Depth) %>%
+            summarize(string.Biomass_g=mean(Biomass_g),
             string.Biomass_kg=mean(Biomass_kg),
             string.MaxN=mean(MaxN))
 
