@@ -39,27 +39,31 @@ BRUV_String$Site <- factor(BRUV_String$Site, levels = c("N1",
 BRUV_String %>% 
   ggplot(aes(x = Site, y=t.MaxN, color=Zone)) +
   scale_color_manual(values= wes_palette("FantasticFox1", n = 3))+
-  hrbrthemes::theme_ipsum_rc(axis_title_just="center", axis_title_size=12)+
-  geom_jitter()+ ggtitle("MaxN") + theme(axis.text.x=element_text(angle=90,vjust=0.3),strip.text.y = element_text(angle = 0))
-
+  geom_jitter()+
+  labs(y = "Relative fish abundance (MaxN)")+
+  theme(legend.title = element_text(),panel.background = element_blank(),panel.grid.major=element_line(0.5, colour="Gray80"),
+        axis.text.x = element_text(size=11),axis.title.x=element_blank(),
+        axis.text.y= element_text(size=11))
 
 #Boxplot
 BRUV_String %>% 
   ggplot(aes(x = Site, y=t.MaxN, color=Zone)) +
   geom_boxplot()+ geom_jitter()+
-  ggtitle("MaxN") + theme(axis.text.x=element_text(),strip.text.y = element_text(angle = 0))
+  scale_color_manual(values= wes_palette("FantasticFox1", n = 3))+
+  labs(y = "Relative fish abundance (MaxN)")+
+  theme(legend.title = element_text(),panel.background = element_blank(),panel.grid.major=element_line(0.5, colour="Gray80"),
+        axis.text.x = element_text(size=11),axis.title.x=element_blank(),
+        axis.text.y= element_text(size=11))
 
-
-require(wesanderson)
 #Develop a boxplot with SE of Mean MaxN across Zones
 #Using string level data - mean of number of strings deployed in each site
 MaxN1.Plot1<-ggplot(BRUV_String, aes(x=factor(Site), y=t.MaxN, fill=Zone))+
   geom_boxplot()+geom_jitter(colour="darkblue", shape=5)+
-  labs(y = "MaxN", x="Site", title="MaxN across sites")+
+  labs(y = "Relative fish abundance (MaxN)")+
   scale_fill_manual(values= wes_palette("FantasticFox1", n = 3))+
   theme(axis.line = element_line(color='grey'),
-        legend.title = element_blank(),panel.background = element_blank(),panel.grid.major=element_line(0.5, colour="Gray80"),
-        axis.text.x = element_text(),axis.title.x=element_text(),
+        legend.title = element_text(),panel.background = element_blank(),panel.grid.major=element_line(0.5, colour="Gray80"),
+        axis.text.x = element_text(),axis.title.x=element_blank(),
         axis.text.y= element_text(size=11),panel.grid.minor = element_blank())
 MaxN1.Plot1
 
