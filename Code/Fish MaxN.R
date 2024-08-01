@@ -13,12 +13,16 @@ BRUV_meta %>% head(5)
 BRUV_database <- merge(BRUV_2022,BRUV_meta,by = "Sample")
 BRUV_database %>% head(5)
 
+#Remove exponential annotation!!!!
+options(scipen = 100, digits = 4)
+
 ######Look at general patterns of MaxN###########
 
 #Group the mean of MaxN and Biomass to String level (mean of 5 rigs to get the string value)
 BRUV_String<-BRUV_database %>% 
   dplyr::group_by(String, Zone,Binomial, Site, Depth) %>%
-  summarize(string.Biomass=mean(Biomass),
+  summarize(string.Biomass_g=mean(Biomass_g),
+            string.Biomass_kg=mean(Biomass_kg),
             string.MaxN=mean(MaxN))
 
 #Set the order of variables in graphs
