@@ -13,4 +13,4 @@ require(wesanderson)
 require(hrbrthemes)
 require(vegan)
 library(musculusColors)
-names(Bm_palettes)
+
