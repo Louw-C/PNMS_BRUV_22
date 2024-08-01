@@ -2,10 +2,13 @@
 Plankton_all <- read.csv(file.choose()) 
 Plankton_all %>% head(5)
 
+#Remove exponential annotation!!!!
+options(scipen = 100, digits = 4)
+
 #Aggregate to site level
 
 Plankton_Site<-Plankton_all %>% 
-  dplyr::group_by(Site, Zone, Plankton_Category,Plankton_Group) %>%
+  dplyr::group_by(Site, Zone) %>%
   summarize(Total_Count=mean(Total_Count))
 
 #Make sure that the Zones are ordered correctly
@@ -22,8 +25,8 @@ Plankton_1<-ggplot(Plankton_Site, aes(x=factor(Zone), y=Total_Count))+
 
 Plankton_1
 
-#Try without outliers - copepods in three sites
-#Remove outliers Total_Count larger than 15 000
+#Try without outliers - copepods at two sites and other gelatinous at one site
+#Remove outliers Total_Count larger than 1000
 
 Plankton_new<-Plankton_Site%>% 
   filter(Total_Count < 1000)
