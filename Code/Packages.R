@@ -1,7 +1,7 @@
 library(plyr)
-library(dplyr)
+library(tidyverse)
+
 require(Rmisc)
-library(tidyverse) # this includes ggplot necessary for plotting
 library(readxl)
 library(reshape)
 library(reshape2)
