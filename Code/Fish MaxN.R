@@ -20,8 +20,8 @@ options(scipen = 100, digits = 4)
 
 #Group the mean of MaxN and Biomass to String level (mean of 5 rigs to get the string value)
 BRUV_String<-BRUV_database %>% 
-  dplyr::group_by(String, Zone,Site,Binomial, Depth) %>%
-            summarize(string.Biomass_g=mean(Biomass_g),
+  dplyr::group_by(String.x,Zone,Site,Depth) %>%
+            dplyr::summarize(string.Biomass_g=mean(Biomass_g),
             string.Biomass_kg=mean(Biomass_kg),
             string.MaxN=mean(MaxN))
 
@@ -91,9 +91,14 @@ MaxN2.Plot1<-ggplot(BRUV_String, aes(x=factor(Zone), y=string.MaxN, fill=Zone))+
 MaxN2.Plot1
 
 #Look at MaxN of different taxa - need to aggregate data again
+BRUV_taxa<-BRUV_database %>% 
+  dplyr::group_by(String.x,Zone,Site,Binomial,Depth) %>%
+  dplyr::summarize(string.Biomass_g=mean(Biomass_g),
+                   string.Biomass_kg=mean(Biomass_kg),
+                   string.MaxN=mean(MaxN))
 
 #For the plot - strings with zero observations (where taxa is none in the data)
-BRUV_taxa<-BRUV_String%>% 
+BRUV_taxa<-BRUV_taxa%>% 
   subset(Binomial!="None")
 
 #Set the order of variables in graphs
@@ -110,9 +115,6 @@ TaxaMaxN.Plot1<-ggplot(BRUV_taxa, aes(x=factor(Binomial), y=string.MaxN))+
         axis.text.x = element_text(angle=90,vjust=0.3,face="italic"),axis.title.x=element_blank(),
         axis.text.y= element_text(size=11),panel.grid.minor = element_blank())
 TaxaMaxN.Plot1
-
-
-
 
 
 
