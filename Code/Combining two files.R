@@ -5,6 +5,7 @@
 Plankton_Publication <- read.csv(file.choose()) 
 BRUV_Publication <- read.csv(file.choose())
 BRUV_Meta <- read.csv(file.choose())
+Plankton_Meta <- read.csv(file.choose())
 
 #Want to combine coordinate data to BRUV data - combine BRUV_Meta and BRUV_Publication
 
@@ -13,3 +14,13 @@ BRUV_Combined  %>% head(5)
 
 #Save file as a CSV.
 write.csv(BRUV_Combined, file = "BRUV_Combined.csv")
+
+#Want to combine coordinate data to Plankton data - combine Plankton_Meta and Plankton_Publication
+
+Plankton_Combined <- merge(Plankton_Publication,Plankton_Meta,by = "ID")
+Plankton_Combined  %>% head(5)
+
+#Save file as a CSV.
+write.csv(Plankton_Combined, file = "Plankton_Combined.csv")
+
+
