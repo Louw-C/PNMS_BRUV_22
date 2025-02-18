@@ -1,0 +1,193 @@
+Sample,String,Site,Zone,Type,Year,Family,Binomial,Common name,MaxN,Biomass_g,Biomass_kg
+PAL22_001,PAL22_1,N1,PNMS North,Fish,2022,Monacanthidae,Aluterus scriptus,scribbled leatherjacket filefish,1,183.34,0.18334
+PAL22_002,PAL22_1,N1,PNMS North,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.36,0.00036
+PAL22_003,PAL22_1,N1,PNMS North,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,4,142.67,0.14267
+PAL22_004,PAL22_1,N1,PNMS North,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,6,280.2,0.2802
+PAL22_005,PAL22_1,N1,PNMS North,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,5,207.73,0.20773
+PAL22_006,PAL22_2,N1,PNMS North,Fish,2022,Coryphaenidae,Coryphaena equiselis,pompano dolphinfish,15,1282.21,1.28221
+PAL22_006,PAL22_2,N1,PNMS North,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.04,0.00004
+PAL22_007,PAL22_2,N1,PNMS North,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,13,769.98,0.76998
+PAL22_008,PAL22_2,N1,PNMS North,Fish,2022,Coryphaenidae,Coryphaena equiselis,pompano dolphinfish,3,208.37,0.20837
+PAL22_009,PAL22_2,N1,PNMS North,Fish,2022,Coryphaenidae,Coryphaena equiselis,pompano dolphinfish,79,6889.06,6.88906
+PAL22_010,PAL22_2,N1,PNMS North,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.16,0.00016
+PAL22_011,PAL22_3,N1,PNMS North,Fish,2022,None,None,None,0,0,0
+PAL22_012,PAL22_3,N1,PNMS North,Fish,2022,None,None,None,0,0,0
+PAL22_013,PAL22_3,N1,PNMS North,Fish,2022,None,None,None,0,0,0
+PAL22_014,PAL22_3,N1,PNMS North,Fish,2022,None,None,None,0,0,0
+PAL22_015,PAL22_3,N1,PNMS North,Fish,2022,None,None,None,0,0,0
+PAL22_016,PAL22_4,N3,PNMS North,Fish,2022,None,None,None,0,0,0
+PAL22_017,PAL22_4,N3,PNMS North,Fish,2022,Carangidae,Elagatis bipinnulata,rainbow runner,1,142.27,0.14227
+PAL22_018,PAL22_4,N3,PNMS North,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,2,765.37,0.76537
+PAL22_019,PAL22_4,N3,PNMS North,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,5,1763.55,1.76355
+PAL22_020,PAL22_4,N3,PNMS North,Fish,2022,None,None,None,0,0,0
+PAL22_021,PAL22_5,N3,PNMS North,Fish,2022,None,None,None,0,0,0
+PAL22_022,PAL22_5,N3,PNMS North,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,524.92,0.52492
+PAL22_023,PAL22_5,N3,PNMS North,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,26,6864.53,6.86453
+PAL22_024,PAL22_5,N3,PNMS North,Fish,2022,None,None,None,0,0,0
+PAL22_025,PAL22_5,N3,PNMS North,Fish,2022,None,None,None,0,0,0
+PAL22_026,PAL22_6,N3,PNMS North,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,51,2955.09,2.95509
+PAL22_026,PAL22_6,N3,PNMS North,Fish,2022,Coryphaenidae,Coryphaena hippurus,common dolphinfish,2,2038.83,2.03883
+PAL22_027,PAL22_6,N3,PNMS North,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,3,1068.19,1.06819
+PAL22_028,PAL22_6,N3,PNMS North,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,5,1141.23,1.14123
+PAL22_028,PAL22_6,N3,PNMS North,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.39,0.00039
+PAL22_029,PAL22_6,N3,PNMS North,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,2,963.27,0.96327
+PAL22_030,PAL22_6,N3,PNMS North,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,542.82,0.54282
+PAL22_030,PAL22_6,N3,PNMS North,Fish,2022,Carangidae,Elagatis bipinnulata,rainbow runner,1,142.27,0.14227
+PAL22_031,PAL22_7,N4,PNMS North,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,479.69,0.47969
+PAL22_032,PAL22_7,N4,PNMS North,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,445.42,0.44542
+PAL22_033,PAL22_7,N4,PNMS North,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,447.3,0.4473
+PAL22_034,PAL22_7,N4,PNMS North,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,591.71,0.59171
+PAL22_035,PAL22_7,N4,PNMS North,Fish,2022,None,None,None,0,0,0
+PAL22_036,PAL22_8,N4,PNMS North,Fish,2022,None,None,None,0,0,0
+PAL22_037,PAL22_8,N4,PNMS North,Fish,2022,None,None,None,0,0,0
+PAL22_038,PAL22_8,N4,PNMS North,Fish,2022,None,None,None,0,0,0
+PAL22_039,PAL22_8,N4,PNMS North,Fish,2022,None,None,None,0,0,0
+PAL22_040,PAL22_8,N4,PNMS North,Fish,2022,None,None,None,0,0,0
+PAL22_041,PAL22_9,W1,DFZ West,Fish,2022,Balistidae,Balistidae sp,triggerfishes,1,41.05,0.04105
+PAL22_041,PAL22_9,W1,DFZ West,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,1.58,0.00158
+PAL22_042,PAL22_9,W1,DFZ West,Fish,2022,Monacanthidae,Aluterus sp,leatherjacket filefish,1,196.35,0.19635
+PAL22_043,PAL22_9,W1,DFZ West,Fish,2022,Monacanthidae,Aluterus monoceros,unicorn leatherjacket filefish,1,209.59,0.20959
+PAL22_044,PAL22_9,W1,DFZ West,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.73,0.00073
+PAL22_044,PAL22_9,W1,DFZ West,Fish,2022,Priacanthidae,Priacanthus sp,bigeye,1,0.97,0.00097
+PAL22_045,PAL22_9,W1,DFZ West,Fish,2022,None,None,None,0,0,0
+PAL22_046,PAL22_10,W1,DFZ West,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.65,0.00065
+PAL22_047,PAL22_10,W1,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,702.28,0.70228
+PAL22_047,PAL22_10,W1,DFZ West,Fish,2022,Monacanthidae,Aluterus scriptus,scribbled leatherjacket filefish,1,315.01,0.31501
+PAL22_048,PAL22_10,W1,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,273.85,0.27385
+PAL22_048,PAL22_10,W1,DFZ West,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.65,0.00065
+PAL22_049,PAL22_10,W1,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,7,1119.44,1.11944
+PAL22_050,PAL22_10,W1,DFZ West,Fish,2022,None,None,None,0,0,0
+PAL22_051,PAL22_11,W2,DFZ West,Fish,2022,None,None,None,0,0,0
+PAL22_052,PAL22_11,W2,DFZ West,Fish,2022,None,None,None,0,0,0
+PAL22_053,PAL22_11,W2,DFZ West,Fish,2022,None,None,None,0,0,0
+PAL22_054,PAL22_11,W2,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,280.51,0.28051
+PAL22_055,PAL22_11,W2,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,2,561.03,0.56103
+PAL22_056,PAL22_12,W2,DFZ West,Fish,2022,Carangidae,Caranx sp,Caranx trevally,1,79.45,0.07945
+PAL22_056,PAL22_12,W2,DFZ West,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,1,0.81,0.00081
+PAL22_056,PAL22_12,W2,DFZ West,Fish,2022,Monacanthidae,Monacanthus sp,leatherjacket,1,3.56,0.00356
+PAL22_057,PAL22_12,W2,DFZ West,Fish,2022,None,None,None,0,0,0
+PAL22_058,PAL22_12,W2,DFZ West,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,3,2.44,0.00244
+PAL22_059,PAL22_12,W2,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,209.89,0.20989
+PAL22_059,PAL22_12,W2,DFZ West,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,3,2.44,0.00244
+PAL22_059,PAL22_12,W2,DFZ West,Fish,2022,Carcharhinidae,Galeocerdo cuvier,tiger shark,1,334934.31,334.93431
+PAL22_059,PAL22_12,W2,DFZ West,Fish,2022,Scombridae,Gymnosarda unicolor,dogtooth tuna,1,981.16,0.98116
+PAL22_060,PAL22_12,W2,DFZ West,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,5,4.07,0.00407
+PAL22_060,PAL22_12,W2,DFZ West,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.12,0.00012
+PAL22_061,PAL22_13,W3,DFZ West,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,3,3.95,0.00395
+PAL22_062,PAL22_13,W3,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,3,815.56,0.81556
+PAL22_063,PAL22_13,W3,DFZ West,Fish,2022,Carangidae,Caranx sp,Caranx trevally,1,7.07,0.00707
+PAL22_064,PAL22_13,W3,DFZ West,Fish,2022,None,None,None,0,0,0
+PAL22_065,PAL22_13,W3,DFZ West,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,4.04,0.00404
+PAL22_066,PAL22_14,W4,DFZ West,Fish,2022,Monacanthidae,Monacanthus sp,leatherjacket,1,3.56,0.00356
+PAL22_067,PAL22_14,W4,DFZ West,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,2,0.64,0.00064
+PAL22_068,PAL22_14,W4,DFZ West,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,3,16.3,0.0163
+PAL22_068,PAL22_14,W4,DFZ West,Fish,2022,Monacanthidae,Aluterus scriptus,scribbled leatherjacket filefish,1,382.8,0.3828
+PAL22_069,PAL22_14,W4,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,321.28,0.32128
+PAL22_070,PAL22_14,W4,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,3,555.84,0.55584
+PAL22_070,PAL22_14,W4,DFZ West,Fish,2022,Monacanthidae,Aluterus scriptus,scribbled leatherjacket filefish,2,585.7,0.5857
+PAL22_070,PAL22_14,W4,DFZ West,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.04,0.00004
+PAL22_071,PAL22_15,W4,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,204.14,0.20414
+PAL22_072,PAL22_15,W4,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,6,810.69,0.81069
+PAL22_072,PAL22_15,W4,DFZ West,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,1,86.58,0.08658
+PAL22_072,PAL22_15,W4,DFZ West,Fish,2022,Monacanthidae,Aluterus monoceros,unicorn leatherjacket filefish,2,62.57,0.06257
+PAL22_073,PAL22_15,W4,DFZ West,Fish,2022,Carangidae,Carangidae sp,jacks,17,15.9,0.0159
+PAL22_073,PAL22_15,W4,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,8,1671.24,1.67124
+PAL22_073,PAL22_15,W4,DFZ West,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,13,647.44,0.64744
+PAL22_073,PAL22_15,W4,DFZ West,Fish,2022,Carangidae,Selar crumenophthalmus,bigeye scad,1,84.11,0.08411
+PAL22_073,PAL22_15,W4,DFZ West,Fish,2022,Carangidae,Seriola rivoliana,longfin yellowtail,1,53.16,0.05316
+PAL22_073,PAL22_15,W4,DFZ West,Fish,2022,Monacanthidae,Aluterus monoceros,unicorn leatherjacket filefish,1,31.28,0.03128
+PAL22_074,PAL22_15,W4,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,2,696.73,0.69673
+PAL22_074,PAL22_15,W4,DFZ West,Fish,2022,Carangidae,Caranx sp,Caranx trevally,4,188.11,0.18811
+PAL22_074,PAL22_15,W4,DFZ West,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,4,232.41,0.23241
+PAL22_074,PAL22_15,W4,DFZ West,Fish,2022,Monacanthidae,Aluterus scriptus,scribbled leatherjacket filefish,2,639.94,0.63994
+PAL22_074,PAL22_15,W4,DFZ West,Fish,2022,Nomeidae,Psenes cyanophrys,freckled driftfish ,37,2256.42,2.25642
+PAL22_075,PAL22_15,W4,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,292.75,0.29275
+PAL22_075,PAL22_15,W4,DFZ West,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,88,4252.67,4.25267
+PAL22_075,PAL22_15,W4,DFZ West,Fish,2022,Carangidae,Selar crumenophthalmus,bigeye scad,7,588.79,0.58879
+PAL22_075,PAL22_15,W4,DFZ West,Fish,2022,Nomeidae,Psenes cyanophrys,freckled driftfish ,19,1128.41,1.12841
+PAL22_076,PAL22_16,W4,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,4,723.42,0.72342
+PAL22_076,PAL22_16,W4,DFZ West,Fish,2022,Carcharhinidae,Carcharhinus falciformis,silky shark,1,16176.32,16.17632
+PAL22_076,PAL22_16,W4,DFZ West,Fish,2022,Monacanthidae,Aluterus scriptus,scribbled leatherjacket filefish,1,319.97,0.31997
+PAL22_076,PAL22_16,W4,DFZ West,Fish,2022,Scombridae,Thunnus sp,tuna,24,3337.9,3.3379
+PAL22_077,PAL22_16,W4,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,11,1482.18,1.48218
+PAL22_077,PAL22_16,W4,DFZ West,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,16,1136.11,1.13611
+PAL22_077,PAL22_16,W4,DFZ West,Fish,2022,Nomeidae,Psenes cyanophrys,freckled driftfish ,6,350.12,0.35012
+PAL22_078,PAL22_16,W4,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,175.67,0.17567
+PAL22_079,PAL22_16,W4,DFZ West,Fish,2022,None,None,None,0,0,0
+PAL22_080,PAL22_16,W4,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,579.7,0.5797
+PAL22_081,PAL22_17,S2,PNMS South,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,465.23,0.46523
+PAL22_082,PAL22_17,S2,PNMS South,Fish,2022,Coryphaenidae,Coryphaena equiselis,pompano dolphinfish,1,102.29,0.10229
+PAL22_082,PAL22_17,S2,PNMS South,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.46,0.00046
+PAL22_083,PAL22_17,S2,PNMS South,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,2,597.02,0.59702
+PAL22_084,PAL22_17,S2,PNMS South,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.03,0.00003
+PAL22_085,PAL22_17,S2,PNMS South,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.12,0.00012
+PAL22_086,PAL22_18,S2,PNMS South,Fish,2022,None,None,None,0,0,0
+PAL22_087,PAL22_18,S2,PNMS South,Fish,2022,None,None,None,0,0,0
+PAL22_088,PAL22_18,S2,PNMS South,Fish,2022,None,None,None,0,0,0
+PAL22_089,PAL22_18,S2,PNMS South,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.17,0.00017
+PAL22_090,PAL22_18,S2,PNMS South,Fish,2022,None,None,None,0,0,0
+PAL22_091,PAL22_19,S2,PNMS South,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.04,0.00004
+PAL22_092,PAL22_19,S2,PNMS South,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,164.26,0.16426
+PAL22_093,PAL22_19,S2,PNMS South,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,2,183.84,0.18384
+PAL22_093,PAL22_19,S2,PNMS South,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,3,0.13,0.00013
+PAL22_094,PAL22_19,S2,PNMS South,Fish,2022,None,None,None,0,0,0
+PAL22_095,PAL22_19,S2,PNMS South,Fish,2022,None,None,None,0,0,0
+PAL22_096,PAL22_20,S3,PNMS South,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.72,0.00072
+PAL22_097,PAL22_20,S3,PNMS South,Fish,2022,None,None,None,0,0,0
+PAL22_098,PAL22_20,S3,PNMS South,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.12,0.00012
+PAL22_099,PAL22_20,S3,PNMS South,Fish,2022,Carangidae,Caranx sp,Caranx trevally,1,8.5,0.0085
+PAL22_100,PAL22_20,S3,PNMS South,Fish,2022,Istiophoridae,Makaira nigricans,blue marlin,1,36646.29,36.64629
+PAL22_101,PAL22_21,S3,PNMS South,Fish,2022,None,None,None,0,0,0
+PAL22_102,PAL22_21,S3,PNMS South,Fish,2022,None,None,None,0,0,0
+PAL22_103,PAL22_21,S3,PNMS South,Fish,2022,None,None,None,0,0,0
+PAL22_104,PAL22_21,S3,PNMS South,Fish,2022,None,None,None,0,0,0
+PAL22_105,PAL22_21,S3,PNMS South,Fish,2022,None,None,None,0,0,0
+PAL22_106,PAL22_22,S3,PNMS South,Fish,2022,Monacanthidae,Aluterus monoceros,unicorn leatherjacket filefish,1,346.95,0.34695
+PAL22_107,PAL22_22,S3,PNMS South,Fish,2022,None,None,None,0,0,0
+PAL22_108,PAL22_22,S3,PNMS South,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.12,0.00012
+PAL22_109,PAL22_22,S3,PNMS South,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,8,17.81,0.01781
+PAL22_109,PAL22_22,S3,PNMS South,Fish,2022,Carangidae,Selar crumenophthalmus,bigeye scad,2,5.93,0.00593
+PAL22_109,PAL22_22,S3,PNMS South,Fish,2022,Istiophoridae,Makaira nigricans,blue marlin,1,36646.29,36.64629
+PAL22_110,PAL22_22,S3,PNMS South,Fish,2022,Carangidae,Caranx sp,Caranx trevally,2,9.95,0.00995
+PAL22_111,PAL22_23,S4,PNMS South,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,2,533.31,0.53331
+PAL22_111,PAL22_23,S4,PNMS South,Fish,2022,Carangidae,Caranx sp,Caranx trevally,1,2.25,0.00225
+PAL22_111,PAL22_23,S4,PNMS South,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,1,4.6,0.0046
+PAL22_112,PAL22_23,S4,PNMS South,Fish,2022,None,None,None,0,0,0
+PAL22_113,PAL22_23,S4,PNMS South,Fish,2022,None,None,None,0,0,0
+PAL22_114,PAL22_23,S4,PNMS South,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,266.66,0.26666
+PAL22_115,PAL22_23,S4,PNMS South,Fish,2022,None,None,None,0,0,0
+PAL22_116,PAL22_24,S4,PNMS South,Fish,2022,None,None,None,0,0,0
+PAL22_117,PAL22_24,S4,PNMS South,Fish,2022,Carangidae,Caranx sp,Caranx trevally,2,10.03,0.01003
+PAL22_118,PAL22_24,S4,PNMS South,Fish,2022,None,None,None,0,0,0
+PAL22_119,PAL22_24,S4,PNMS South,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,183.06,0.18306
+PAL22_119,PAL22_24,S4,PNMS South,Fish,2022,Carangidae,Caranx sp,Caranx trevally,1,6.12,0.00612
+PAL22_119,PAL22_24,S4,PNMS South,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,9,35.54,0.03554
+PAL22_120,PAL22_24,S4,PNMS South,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,183.06,0.18306
+PAL22_120,PAL22_24,S4,PNMS South,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,1,3.95,0.00395
+PAL22_121,PAL22_25,S4,PNMS South,Fish,2022,Carangidae,Caranx sp,Caranx trevally,1,4.33,0.00433
+PAL22_121,PAL22_25,S4,PNMS South,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,5,11.78,0.01178
+PAL22_121,PAL22_25,S4,PNMS South,Fish,2022,Coryphaenidae,Coryphaena hippurus,common dolphinfish,3,11674.06,11.67406
+PAL22_121,PAL22_25,S4,PNMS South,Fish,2022,Sphyraenidae,Sphyraena barracuda,great barracuda,1,2420.89,2.42089
+PAL22_122,PAL22_25,S4,PNMS South,Fish,2022,Coryphaenidae,Coryphaena hippurus,common dolphinfish,1,3955.85,3.95585
+PAL22_123,PAL22_25,S4,PNMS South,Fish,2022,Coryphaenidae,Coryphaena hippurus,common dolphinfish,2,8107.76,8.10776
+PAL22_125,PAL22_25,S4,PNMS South,Fish,2022,None,None,None,0,0,0
+PAL22_126,PAL22_26,S1,PNMS South,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,11,40.68,0.04068
+PAL22_127,PAL22_26,S1,PNMS South,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,2,2.44,0.00244
+PAL22_128,PAL22_26,S1,PNMS South,Fish,2022,Carangidae,Caranx sp,Caranx trevally,3,14.57,0.01457
+PAL22_129,PAL22_26,S1,PNMS South,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,1,3.01,0.00301
+PAL22_130,PAL22_26,S1,PNMS South,Fish,2022,Carangidae,Caranx sp,Caranx trevally,1,5.54,0.00554
+PAL22_130,PAL22_26,S1,PNMS South,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,16,42.87,0.04287
+PAL22_130,PAL22_26,S1,PNMS South,Fish,2022,Coryphaenidae,Coryphaena hippurus,common dolphinfish,4,16078.49,16.07849
+PAL22_131,PAL22_27,S1,PNMS South,Fish,2022,None,None,None,0,0,0
+PAL22_132,PAL22_27,S1,PNMS South,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,13,17.46,0.01746
+PAL22_133,PAL22_27,S1,PNMS South,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,23,80.76,0.08076
+PAL22_133,PAL22_27,S1,PNMS South,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.49,0.00049
+PAL22_134,PAL22_27,S1,PNMS South,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,32,70.93,0.07093
+PAL22_135,PAL22_27,S1,PNMS South,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,50,161.54,0.16154
+PAL22_136,PAL22_28,S1,PNMS South,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,39,95.61,0.09561
+PAL22_137,PAL22_28,S1,PNMS South,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,32,71.09,0.07109
+PAL22_137,PAL22_28,S1,PNMS South,Fish,2022,Molidae,Masturus lanceolatus,sharptail mola,1,134051.6,134.0516
+PAL22_137,PAL22_28,S1,PNMS South,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.09,0.00009
+PAL22_138,PAL22_28,S1,PNMS South,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,37,65.08,0.06508
+PAL22_139,PAL22_28,S1,PNMS South,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,10,22.74,0.02274
+PAL22_140,PAL22_28,S1,PNMS South,Fish,2022,None,None,None,0,0,0
