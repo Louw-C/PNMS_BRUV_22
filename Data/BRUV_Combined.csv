@@ -1,0 +1,193 @@
+,Sample,String.x,Site,Zone,Type,Year,Family,Binomial,Common.name,MaxN,Biomass_g,Biomass_kg,String.y,Fish.,Lat.IN,Long.IN,Time.IN,Lat.OUT,Long.OUT,Time.OUT,Analyst.comments
+1,PAL22_001,PAL22_1,N1,PNMS North,Fish,2022,Monacanthidae,Aluterus scriptus,scribbled leatherjacket filefish,1,183.34,0.18334,PAL22_01,Y,8.63842,134.63936,06:14,8.63492,134.64319,08:13,High RMS (~40). Can see 'Mothership' within 250m of deployment. EM 7 mins short.
+2,PAL22_002,PAL22_1,N1,PNMS North,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.36,0.00036,PAL22_01,Y,8.63978,134.638,06:19,8.63562,134.64267,08:18,EM 3 min short
+3,PAL22_003,PAL22_1,N1,PNMS North,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,4,142.67,0.14267,PAL22_01,Y,8.64142,134.63712,06:23,8.63681,134.64233,08:22,High RMS (~30). EM 2 min short 
+4,PAL22_004,PAL22_1,N1,PNMS North,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,6,280.2,0.2802,PAL22_01,Y,8.64277,134.63606,06:27,8.63753,134.64111,08:26,EM 1 min short 
+5,PAL22_005,PAL22_1,N1,PNMS North,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,5,207.73,0.20773,PAL22_01,Y,8.64407,134.6349,06:31,8.63795,134.64994,08:30,"No LHS, watched RHS. EM 0.5 mins short. Fish only appear when BRUV is being pulled back up to vessel.; Left camera only took 1 video (corrupt SD card no. 9)"
+6,PAL22_006,PAL22_2,N1,PNMS North,Fish,2022,Coryphaenidae,Coryphaena equiselis,pompano dolphinfish,15,1282.21,1.28221,PAL22_02,Y,8.61146,134.6656,08:58,8.61227,134.68352,11:00, RHS is too short and doesn't include C. equiselis.
+7,PAL22_006,PAL22_2,N1,PNMS North,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.04,4.00E-05,PAL22_02,Y,8.61146,134.6656,08:58,8.61227,134.68352,11:00, RHS is too short and doesn't include C. equiselis.
+8,PAL22_007,PAL22_2,N1,PNMS North,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,13,769.98,0.76998,PAL22_02,Y,8.60931,134.66507,09:01,8.61094,134.6826,11:05,
+9,PAL22_008,PAL22_2,N1,PNMS North,Fish,2022,Coryphaenidae,Coryphaena equiselis,pompano dolphinfish,3,208.37,0.20837,PAL22_02,Y,8.60767,134.66414,09:04,8.60995,134.68147,11:08,EM 0.5 mins short. ID check C.equiselis and unknown sp
+10,PAL22_009,PAL22_2,N1,PNMS North,Fish,2022,Coryphaenidae,Coryphaena equiselis,pompano dolphinfish,79,6889.06,6.88906,PAL22_02,Y,8.60601,134.66318,09:06,8.60878,134.68033,11:12,EM 5 min short 
+11,PAL22_010,PAL22_2,N1,PNMS North,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.16,0.00016,PAL22_02,Y,8.6046,134.66209,09:09,8.60758,134.67944,11:15,EM 1 min short 
+12,PAL22_011,PAL22_3,N1,PNMS North,Fish,2022,None,None,None,0,0,0,PAL22_03,N,8.67722,134.63536,12:48,8.68184,134.63315,14:56,No fish- EM 5 min short 
+13,PAL22_012,PAL22_3,N1,PNMS North,Fish,2022,None,None,None,0,0,0,PAL22_03,N,8.67932,134.63628,12:50,8.68237,134.63477,15:01,
+14,PAL22_013,PAL22_3,N1,PNMS North,Fish,2022,None,None,None,0,0,0,PAL22_03,N,8.68095,134.63773,12:53,8.68298,134.63641,15:05,
+15,PAL22_014,PAL22_3,N1,PNMS North,Fish,2022,None,None,None,0,0,0,PAL22_03,N,8.68261,134.63905,12:56,8.68381,134.63789,15:10,Watched RHS. 
+16,PAL22_015,PAL22_3,N1,PNMS North,Fish,2022,None,None,None,0,0,0,PAL22_03,N,8.68427,134.64006,12:59,8.68493,134.63814,15:15,Watched RHS. 
+17,PAL22_016,PAL22_4,N3,PNMS North,Fish,2022,None,None,None,0,0,0,PAL22_04,Y,9.11123,134.95895,06:01,9.1032,134.96024,08:02,No fish EM 1 min short ; some condensation inside R4
+18,PAL22_017,PAL22_4,N3,PNMS North,Fish,2022,Carangidae,Elagatis bipinnulata,rainbow runner,1,142.27,0.14227,PAL22_04,Y,9.11211,134.96158,06:05,9.10389,134.96121,08:08,
+19,PAL22_018,PAL22_4,N3,PNMS North,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,2,765.37,0.76537,PAL22_04,Y,9.11307,134.96388,06:09,9.10499,134.96104,08:12,
+20,PAL22_019,PAL22_4,N3,PNMS North,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,5,1763.55,1.76355,PAL22_04,Y,9.11434,134.96571,06:12,9.10658,134.96077,08:16,
+21,PAL22_020,PAL22_4,N3,PNMS North,Fish,2022,None,None,None,0,0,0,PAL22_04,N,9.11579,134.96724,06:16,9.10804,134.96077,08:20,
+22,PAL22_021,PAL22_5,N3,PNMS North,Fish,2022,None,None,None,0,0,0,PAL22_05,N,9.14367,134.95018,08:51,9.14831,134.94322,10:51,
+23,PAL22_022,PAL22_5,N3,PNMS North,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,524.92,0.52492,PAL22_05,Y,9.14592,134.95049,08:54,9.14967,134.94296,10:57,
+24,PAL22_023,PAL22_5,N3,PNMS North,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,26,6864.53,6.86453,PAL22_05,Y,9.14798,134.95082,08:57,9.15128,134.94284,11:01,
+25,PAL22_024,PAL22_5,N3,PNMS North,Fish,2022,None,None,None,0,0,0,PAL22_05,N,9.14985,134.95161,09:00,9.15276,134.94292,11:04,
+26,PAL22_025,PAL22_5,N3,PNMS North,Fish,2022,None,None,None,0,0,0,PAL22_05,N,9.15169,134.95235,09:02,9.15407,134.94206,11:09,
+27,PAL22_026,PAL22_6,N3,PNMS North,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,51,2955.09,2.95509,PAL22_06,Y,9.12392,134.9174,12:49,9.13413,134.92918,14:52,79.52 Hippurus trying to eat decapterus; Huge RMS - please check - cannot computer Decapterus sp measure
+28,PAL22_026,PAL22_6,N3,PNMS North,Fish,2022,Coryphaenidae,Coryphaena hippurus,common dolphinfish,2,2038.83,2.03883,PAL22_06,Y,9.12392,134.9174,12:49,9.13413,134.92918,14:52,79.52 Hippurus trying to eat decapterus; Huge RMS - please check - cannot computer Decapterus sp measure
+29,PAL22_027,PAL22_6,N3,PNMS North,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,3,1068.19,1.06819,PAL22_06,Y,9.12553,134.91943,12:52,9.13521,134.93051,14:57,
+30,PAL22_028,PAL22_6,N3,PNMS North,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,5,1141.23,1.14123,PAL22_06,Y,9.127,134.92122,12:55,9.13659,134.93184,15:02,
+31,PAL22_028,PAL22_6,N3,PNMS North,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.39,0.00039,PAL22_06,Y,9.127,134.92122,12:55,9.13659,134.93184,15:02,
+32,PAL22_029,PAL22_6,N3,PNMS North,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,2,963.27,0.96327,PAL22_06,Y,9.12893,134.92245,12:58,9.13828,134.93306,15:09,
+33,PAL22_030,PAL22_6,N3,PNMS North,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,542.82,0.54282,PAL22_06,Y,9.13057,134.92407,13:00,9.13967,134.93355,15:16,Could only measure 1 of the two fish.
+34,PAL22_030,PAL22_6,N3,PNMS North,Fish,2022,Carangidae,Elagatis bipinnulata,rainbow runner,1,142.27,0.14227,PAL22_06,Y,9.13057,134.92407,13:00,9.13967,134.93355,15:16,Could only measure 1 of the two fish.
+35,PAL22_031,PAL22_7,N4,PNMS North,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,479.69,0.47969,PAL22_07,Y,9.23522,134.52574,06:25,9.22523,134.50952,08:27,EM 1 min short; date correction 10/10/22
+36,PAL22_032,PAL22_7,N4,PNMS North,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,445.42,0.44542,PAL22_07,Y,9.23493,134.52728,06:29,9.22483,134.51027,08:31,Double check canth
+37,PAL22_033,PAL22_7,N4,PNMS North,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,447.3,0.4473,PAL22_07,Y,9.23491,134.52908,06:32,9.22431,134.51117,08:36,RMS high (40) Double check canth
+38,PAL22_034,PAL22_7,N4,PNMS North,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,591.71,0.59171,PAL22_07,Y,9.23437,134.53072,06:36,9.22359,134.51222,08:40,Double check canth
+39,PAL22_035,PAL22_7,N4,PNMS North,Fish,2022,None,None,None,0,0,0,PAL22_07,N,9.23393,134.53221,06:39,9.22199,134.5126,08:44,
+40,PAL22_036,PAL22_8,N4,PNMS North,Fish,2022,None,None,None,0,0,0,PAL22_08,N,9.25421,134.50368,09:08,9.2458,134.49661,11:11,
+41,PAL22_037,PAL22_8,N4,PNMS North,Fish,2022,None,None,None,0,0,0,PAL22_08,N,9.2541,134.50545,09:11,9.24532,134.4973,11:15,
+42,PAL22_038,PAL22_8,N4,PNMS North,Fish,2022,None,None,None,0,0,0,PAL22_08,N,9.25395,134.50716,09:13,9.24557,134.49831,11:18,
+43,PAL22_039,PAL22_8,N4,PNMS North,Fish,2022,None,None,None,0,0,0,PAL22_08,N,9.25366,134.50887,09:16,9.24533,134.49922,11:23,
+44,PAL22_040,PAL22_8,N4,PNMS North,Fish,2022,None,None,None,0,0,0,PAL22_08,N,9.25339,134.51062,09:19,9.24514,134.50003,11:26,EM 1 min short
+45,PAL22_041,PAL22_9,W1,DFZ West,Fish,2022,Balistidae,Balistidae sp,triggerfishes,1,41.05,0.04105,PAL22_09,Y,7.54868,133.77444,06:16,7.54603,133.80141,08:17,
+46,PAL22_041,PAL22_9,W1,DFZ West,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,1.58,0.00158,PAL22_09,Y,7.54868,133.77444,06:16,7.54603,133.80141,08:17,
+47,PAL22_042,PAL22_9,W1,DFZ West,Fish,2022,Monacanthidae,Aluterus sp,leatherjacket filefish,1,196.35,0.19635,PAL22_09,Y,7.54812,133.77736,06:19,7.54492,133.80295,08:20,
+48,PAL22_043,PAL22_9,W1,DFZ West,Fish,2022,Monacanthidae,Aluterus monoceros,unicorn leatherjacket filefish,1,209.59,0.20959,PAL22_09,Y,7.54709,133.77966,06:21,7.54418,133.80515,08:25,High RMS but fish not quite straight. EM 2 min short 
+49,PAL22_044,PAL22_9,W1,DFZ West,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.73,0.00073,PAL22_09,Y,7.54615,133.78217,06:24,7.54328,133.80693,08:28,EM 3 min short 
+50,PAL22_044,PAL22_9,W1,DFZ West,Fish,2022,Priacanthidae,Priacanthus sp,bigeye,1,0.97,0.00097,PAL22_09,Y,7.54615,133.78217,06:24,7.54328,133.80693,08:28,EM 3 min short 
+51,PAL22_045,PAL22_9,W1,DFZ West,Fish,2022,None,None,None,0,0,0,PAL22_09,N,7.54559,133.78482,06:27,7.54228,133.80807,08:32,
+52,PAL22_046,PAL22_10,W1,DFZ West,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.65,0.00065,PAL22_10,N,7.58103,133.78041,09:05,7.59062,133.80115,11:05,
+53,PAL22_047,PAL22_10,W1,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,702.28,0.70228,PAL22_10,Y,7.58192,133.783,09:08,7.59157,133.80313,11:08,Videos go out of sync. Did my best but high RMS
+54,PAL22_047,PAL22_10,W1,DFZ West,Fish,2022,Monacanthidae,Aluterus scriptus,scribbled leatherjacket filefish,1,315.01,0.31501,PAL22_10,Y,7.58192,133.783,09:08,7.59157,133.80313,11:08,Videos go out of sync. Did my best but high RMS
+55,PAL22_048,PAL22_10,W1,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,273.85,0.27385,PAL22_10,Y,7.5831,133.7852,09:10,7.59279,133.80518,11:12,High RMS (80)
+56,PAL22_048,PAL22_10,W1,DFZ West,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.65,0.00065,PAL22_10,Y,7.5831,133.7852,09:10,7.59279,133.80518,11:12,High RMS (80)
+57,PAL22_049,PAL22_10,W1,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,7,1119.44,1.11944,PAL22_10,Y,7.58306,133.78773,09:13,7.59386,133.80754,11:16,High RMS (80)
+58,PAL22_050,PAL22_10,W1,DFZ West,Fish,2022,None,None,None,0,0,0,PAL22_10,N,7.583,133.79024,09:16,7.59457,133.80954,11:20,EM 10sec short; Left video starts with wrong label (49) but then it gets corrected to 50
+59,PAL22_051,PAL22_11,W2,DFZ West,Fish,2022,None,None,None,0,0,0,PAL22_11,N,8.19792,134.13579,12:36,8.20822,134.14336,14:37,
+60,PAL22_052,PAL22_11,W2,DFZ West,Fish,2022,None,None,None,0,0,0,PAL22_11,N,8.20016,134.13681,12:39,8.20942,134.14407,14:42,Mistake sample (wrote 056) but then corrected it
+61,PAL22_053,PAL22_11,W2,DFZ West,Fish,2022,None,None,None,0,0,0,PAL22_11,N,8.20233,134.13742,12:42,8.21111,134.14452,14:46,
+62,PAL22_054,PAL22_11,W2,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,280.51,0.28051,PAL22_11,Y,8.20426,134.13805,12:44,8.21267,134.14462,14:49,
+63,PAL22_055,PAL22_11,W2,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,2,561.03,0.56103,PAL22_11,Y,8.20627,134.13907,12:46,8.21332,134.14487,14:52,Issue with sync. Two maculata at 1 hr 59 min - unable to measure
+64,PAL22_056,PAL22_12,W2,DFZ West,Fish,2022,Carangidae,Caranx sp,Caranx trevally,1,79.45,0.07945,PAL22_12,Y,8.19448,134.17471,15:15,8.21577,134.17752,17:16,High RMS (70) ; Video 56 sampled as 55!
+65,PAL22_056,PAL22_12,W2,DFZ West,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,1,0.81,0.00081,PAL22_12,Y,8.19448,134.17471,15:15,8.21577,134.17752,17:16,High RMS (70) ; Video 56 sampled as 55!
+66,PAL22_056,PAL22_12,W2,DFZ West,Fish,2022,Monacanthidae,Monacanthus sp,leatherjacket,1,3.56,0.00356,PAL22_12,Y,8.19448,134.17471,15:15,8.21577,134.17752,17:16,High RMS (70) ; Video 56 sampled as 55!
+67,PAL22_057,PAL22_12,W2,DFZ West,Fish,2022,None,None,None,0,0,0,PAL22_12,N,8.19519,134.17703,15:18,8.2162,134.17914,17:20,
+68,PAL22_058,PAL22_12,W2,DFZ West,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,3,2.44,0.00244,PAL22_12,Y,8.19653,134.1791,15:21,8.21644,134.18076,17:24,Not in RHS frame to measure. 
+69,PAL22_059,PAL22_12,W2,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,209.89,0.20989,PAL22_12,Y,8.19736,134.18121,15:24,8.21653,134.18233,17:28,Galeocerdo cuvier- out of frame- only see caudal fin  Rig 4 R fog?
+70,PAL22_059,PAL22_12,W2,DFZ West,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,3,2.44,0.00244,PAL22_12,Y,8.19736,134.18121,15:24,8.21653,134.18233,17:28,Galeocerdo cuvier- out of frame- only see caudal fin  Rig 4 R fog?
+71,PAL22_059,PAL22_12,W2,DFZ West,Fish,2022,Carcharhinidae,Galeocerdo cuvier,tiger shark,1,334934.31,334.93431,PAL22_12,Y,8.19736,134.18121,15:24,8.21653,134.18233,17:28,Galeocerdo cuvier- out of frame- only see caudal fin  Rig 4 R fog?
+72,PAL22_059,PAL22_12,W2,DFZ West,Fish,2022,Scombridae,Gymnosarda unicolor,dogtooth tuna,1,981.16,0.98116,PAL22_12,Y,8.19736,134.18121,15:24,8.21653,134.18233,17:28,Galeocerdo cuvier- out of frame- only see caudal fin  Rig 4 R fog?
+73,PAL22_060,PAL22_12,W2,DFZ West,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,5,4.07,0.00407,PAL22_12,Y,8.19843,134.18311,15:26,8.21633,134.18361,17:31,High RMS - limited measures too high. 
+74,PAL22_060,PAL22_12,W2,DFZ West,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.12,0.00012,PAL22_12,Y,8.19843,134.18311,15:26,8.21633,134.18361,17:31,High RMS - limited measures too high. 
+75,PAL22_061,PAL22_13,W3,DFZ West,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,3,3.95,0.00395,PAL22_13,Y,7.68963,133.15164,06:12,7.70814,133.17412,08:14,High RMS  (40)
+76,PAL22_062,PAL22_13,W3,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,3,815.56,0.81556,PAL22_13,Y,7.69196,133.15128,06:14,7.70972,133.1745,08:19,high RMS (40)
+77,PAL22_063,PAL22_13,W3,DFZ West,Fish,2022,Carangidae,Caranx sp,Caranx trevally,1,7.07,0.00707,PAL22_13,Y,7.69412,133.15146,06:16,7.71123,133.17491,08:23,High RMS (40) 
+78,PAL22_064,PAL22_13,W3,DFZ West,Fish,2022,None,None,None,0,0,0,PAL22_13,N,7.69629,133.15161,06:19,7.71273,133.17525,08:27,
+79,PAL22_065,PAL22_13,W3,DFZ West,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,4.04,0.00404,PAL22_13,Y,7.69838,133.15134,06:21,7.71371,133.1752,08:31,
+80,PAL22_066,PAL22_14,W4,DFZ West,Fish,2022,Monacanthidae,Monacanthus sp,leatherjacket,1,3.56,0.00356,PAL22_14,Y,7.10428,133.47657,06:12,7.1223,133.49185,08:14,EM 2 min short. Sp too far- high precision 
+81,PAL22_067,PAL22_14,W4,DFZ West,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,2,0.64,0.00064,PAL22_14,Y,7.1045,133.46913,06:14,7.12262,133.49075,08:18,High RMS (30)
+82,PAL22_068,PAL22_14,W4,DFZ West,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,3,16.3,0.0163,PAL22_14,Y,7.1049,133.46751,06:17,7.12314,133.48946,08:22,RMS very high (200) EM 2 min short 
+83,PAL22_068,PAL22_14,W4,DFZ West,Fish,2022,Monacanthidae,Aluterus scriptus,scribbled leatherjacket filefish,1,382.8,0.3828,PAL22_14,Y,7.1049,133.46751,06:17,7.12314,133.48946,08:22,RMS very high (200) EM 2 min short 
+84,PAL22_069,PAL22_14,W4,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,321.28,0.32128,PAL22_14,Y,7.1057,133.46602,06:19,7.12337,133.48814,08:25,
+85,PAL22_070,PAL22_14,W4,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,3,555.84,0.55584,PAL22_14,Y,7.10679,133.46455,06:22,7.12329,133.48711,08:29,
+86,PAL22_070,PAL22_14,W4,DFZ West,Fish,2022,Monacanthidae,Aluterus scriptus,scribbled leatherjacket filefish,2,585.7,0.5857,PAL22_14,Y,7.10679,133.46455,06:22,7.12329,133.48711,08:29,
+87,PAL22_070,PAL22_14,W4,DFZ West,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.04,4.00E-05,PAL22_14,Y,7.10679,133.46455,06:22,7.12329,133.48711,08:29,
+88,PAL22_071,PAL22_15,W4,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,204.14,0.20414,PAL22_15,Y,7.12917,133.4669,08:42,7.14385,133.47607,10:41,Sync issue- tried to measure 1 maculata ; site W4 on camera WA4
+89,PAL22_072,PAL22_15,W4,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,6,810.69,0.81069,PAL22_15,Y,7.13075,133.46565,08:44,7.14457,133.47459,10:47,Sync issue- mananged to get some measures
+90,PAL22_072,PAL22_15,W4,DFZ West,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,1,86.58,0.08658,PAL22_15,Y,7.13075,133.46565,08:44,7.14457,133.47459,10:47,Sync issue- mananged to get some measures
+91,PAL22_072,PAL22_15,W4,DFZ West,Fish,2022,Monacanthidae,Aluterus monoceros,unicorn leatherjacket filefish,2,62.57,0.06257,PAL22_15,Y,7.13075,133.46565,08:44,7.14457,133.47459,10:47,Sync issue- mananged to get some measures
+92,PAL22_073,PAL22_15,W4,DFZ West,Fish,2022,Carangidae,Carangidae sp,jacks,17,15.9,0.0159,PAL22_15,Y,7.13232,133.46428,08:46,7.14486,133.47311,10:50,RMS very high - 100. Tried decapterus sp but 300 RMS
+93,PAL22_073,PAL22_15,W4,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,8,1671.24,1.67124,PAL22_15,Y,7.13232,133.46428,08:46,7.14486,133.47311,10:50,RMS very high - 100. Tried decapterus sp but 300 RMS
+94,PAL22_073,PAL22_15,W4,DFZ West,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,13,647.44,0.64744,PAL22_15,Y,7.13232,133.46428,08:46,7.14486,133.47311,10:50,RMS very high - 100. Tried decapterus sp but 300 RMS
+95,PAL22_073,PAL22_15,W4,DFZ West,Fish,2022,Carangidae,Selar crumenophthalmus,bigeye scad,1,84.11,0.08411,PAL22_15,Y,7.13232,133.46428,08:46,7.14486,133.47311,10:50,RMS very high - 100. Tried decapterus sp but 300 RMS
+96,PAL22_073,PAL22_15,W4,DFZ West,Fish,2022,Carangidae,Seriola rivoliana,longfin yellowtail,1,53.16,0.05316,PAL22_15,Y,7.13232,133.46428,08:46,7.14486,133.47311,10:50,RMS very high - 100. Tried decapterus sp but 300 RMS
+97,PAL22_073,PAL22_15,W4,DFZ West,Fish,2022,Monacanthidae,Aluterus monoceros,unicorn leatherjacket filefish,1,31.28,0.03128,PAL22_15,Y,7.13232,133.46428,08:46,7.14486,133.47311,10:50,RMS very high - 100. Tried decapterus sp but 300 RMS
+98,PAL22_074,PAL22_15,W4,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,2,696.73,0.69673,PAL22_15,Y,7.13375,133.46294,08:48,7.14557,133.4716,10:54,RMS - very high 40 . Called Psenes cyanophrys
+99,PAL22_074,PAL22_15,W4,DFZ West,Fish,2022,Carangidae,Caranx sp,Caranx trevally,4,188.11,0.18811,PAL22_15,Y,7.13375,133.46294,08:48,7.14557,133.4716,10:54,RMS - very high 40 . Called Psenes cyanophrys
+100,PAL22_074,PAL22_15,W4,DFZ West,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,4,232.41,0.23241,PAL22_15,Y,7.13375,133.46294,08:48,7.14557,133.4716,10:54,RMS - very high 40 . Called Psenes cyanophrys
+101,PAL22_074,PAL22_15,W4,DFZ West,Fish,2022,Monacanthidae,Aluterus scriptus,scribbled leatherjacket filefish,2,639.94,0.63994,PAL22_15,Y,7.13375,133.46294,08:48,7.14557,133.4716,10:54,RMS - very high 40 . Called Psenes cyanophrys
+102,PAL22_074,PAL22_15,W4,DFZ West,Fish,2022,Nomeidae,Psenes cyanophrys,freckled driftfish ,37,2256.42,2.25642,PAL22_15,Y,7.13375,133.46294,08:48,7.14557,133.4716,10:54,RMS - very high 40 . Called Psenes cyanophrys
+103,PAL22_075,PAL22_15,W4,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,292.75,0.29275,PAL22_15,Y,7.13492,133.46153,08:50,7.14651,133.47066,10:57,
+104,PAL22_075,PAL22_15,W4,DFZ West,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,88,4252.67,4.25267,PAL22_15,Y,7.13492,133.46153,08:50,7.14651,133.47066,10:57,
+105,PAL22_075,PAL22_15,W4,DFZ West,Fish,2022,Carangidae,Selar crumenophthalmus,bigeye scad,7,588.79,0.58879,PAL22_15,Y,7.13492,133.46153,08:50,7.14651,133.47066,10:57,
+106,PAL22_075,PAL22_15,W4,DFZ West,Fish,2022,Nomeidae,Psenes cyanophrys,freckled driftfish ,19,1128.41,1.12841,PAL22_15,Y,7.13492,133.46153,08:50,7.14651,133.47066,10:57,
+107,PAL22_076,PAL22_16,W4,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,4,723.42,0.72342,PAL22_16,Y,7.1818,133.48257,12:29,7.20788,133.49742,14:32,Sync issue- frames stop in LHS- delay in seconds- tried measure- Sp too far from frame - not alignment in both RHS /LHS no measurements.  Labeled as 75 in the video but then corrected!
+108,PAL22_076,PAL22_16,W4,DFZ West,Fish,2022,Carcharhinidae,Carcharhinus falciformis,silky shark,1,16176.32,16.17632,PAL22_16,Y,7.1818,133.48257,12:29,7.20788,133.49742,14:32,Sync issue- frames stop in LHS- delay in seconds- tried measure- Sp too far from frame - not alignment in both RHS /LHS no measurements.  Labeled as 75 in the video but then corrected!
+109,PAL22_076,PAL22_16,W4,DFZ West,Fish,2022,Monacanthidae,Aluterus scriptus,scribbled leatherjacket filefish,1,319.97,0.31997,PAL22_16,Y,7.1818,133.48257,12:29,7.20788,133.49742,14:32,Sync issue- frames stop in LHS- delay in seconds- tried measure- Sp too far from frame - not alignment in both RHS /LHS no measurements.  Labeled as 75 in the video but then corrected!
+110,PAL22_076,PAL22_16,W4,DFZ West,Fish,2022,Scombridae,Thunnus sp,tuna,24,3337.9,3.3379,PAL22_16,Y,7.1818,133.48257,12:29,7.20788,133.49742,14:32,Sync issue- frames stop in LHS- delay in seconds- tried measure- Sp too far from frame - not alignment in both RHS /LHS no measurements.  Labeled as 75 in the video but then corrected!
+111,PAL22_077,PAL22_16,W4,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,11,1482.18,1.48218,PAL22_16,Y,7.1839,133.48158,12:31,7.20978,133.49692,14:36,Decapterus sp or selar 
+112,PAL22_077,PAL22_16,W4,DFZ West,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,16,1136.11,1.13611,PAL22_16,Y,7.1839,133.48158,12:31,7.20978,133.49692,14:36,Decapterus sp or selar 
+113,PAL22_077,PAL22_16,W4,DFZ West,Fish,2022,Nomeidae,Psenes cyanophrys,freckled driftfish ,6,350.12,0.35012,PAL22_16,Y,7.1839,133.48158,12:31,7.20978,133.49692,14:36,Decapterus sp or selar 
+114,PAL22_078,PAL22_16,W4,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,175.67,0.17567,PAL22_16,Y,7.18583,133.48045,12:34,7.21174,133.49615,14:40,
+115,PAL22_079,PAL22_16,W4,DFZ West,Fish,2022,None,None,None,0,0,0,PAL22_16,N,7.18797,133.47981,12:36,7.21362,133.49538,14:43,
+116,PAL22_080,PAL22_16,W4,DFZ West,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,579.7,0.5797,PAL22_16,Y,7.19007,133.4791,12:39,7.21542,133.49564,14:49,
+117,PAL22_081,PAL22_17,S2,PNMS South,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,465.23,0.46523,PAL22_17,Y,6.80211,133.2756,06:06,6.82648,133.28584,08:07,
+118,PAL22_082,PAL22_17,S2,PNMS South,Fish,2022,Coryphaenidae,Coryphaena equiselis,pompano dolphinfish,1,102.29,0.10229,PAL22_17,Y,6.80333,133.27371,06:09,6.8181,133.28503,08:14,
+119,PAL22_082,PAL22_17,S2,PNMS South,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.46,0.00046,PAL22_17,Y,6.80333,133.27371,06:09,6.8181,133.28503,08:14,
+120,PAL22_083,PAL22_17,S2,PNMS South,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,2,597.02,0.59702,PAL22_17,Y,6.80442,133.27193,06:11,6.82958,133.28406,08:18,
+121,PAL22_084,PAL22_17,S2,PNMS South,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.03,3.00E-05,PAL22_17,Y,6.80571,133.2701,06:13,6.8308,133.28285,08:22,
+122,PAL22_085,PAL22_17,S2,PNMS South,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.12,0.00012,PAL22_17,Y,6.80692,133.2684,06:15,6.83205,133.28165,08:26,EM 2 min short 
+123,PAL22_086,PAL22_18,S2,PNMS South,Fish,2022,None,None,None,0,0,0,PAL22_18,N,6.8483,133.25798,08:47,6.87427,133.26367,10:52,
+124,PAL22_087,PAL22_18,S2,PNMS South,Fish,2022,None,None,None,0,0,0,PAL22_18,N,6.84886,133.25598,08:49,6.87554,133.26294,10:58,
+125,PAL22_088,PAL22_18,S2,PNMS South,Fish,2022,None,None,None,0,0,0,PAL22_18,N,6.84976,133.25414,08:51,6.87694,133.26198,11:03,
+126,PAL22_089,PAL22_18,S2,PNMS South,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.17,0.00017,PAL22_18,Y,6.85063,133.25233,08:53,6.87851,133.26111,11:08,
+127,PAL22_090,PAL22_18,S2,PNMS South,Fish,2022,None,None,None,0,0,0,PAL22_18,N,6.85179,133.25049,08:56,6.87999,133.26064,11:13,
+128,PAL22_091,PAL22_19,S2,PNMS South,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.04,4.00E-05,PAL22_19,Y,6.88855,133.2912,12:26,6.91663,133.30908,14:29,
+129,PAL22_092,PAL22_19,S2,PNMS South,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,164.26,0.16426,PAL22_19,Y,6.89107,133.29224,12:28,6.91927,133.30969,14:34,
+130,PAL22_093,PAL22_19,S2,PNMS South,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,2,183.84,0.18384,PAL22_19,Y,6.89349,133.29317,12:30,6.92198,133.31049,14:39,High RMS 30 
+131,PAL22_093,PAL22_19,S2,PNMS South,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,3,0.13,0.00013,PAL22_19,Y,6.89349,133.29317,12:30,6.92198,133.31049,14:39,High RMS 30 
+132,PAL22_094,PAL22_19,S2,PNMS South,Fish,2022,None,None,None,0,0,0,PAL22_19,N,6.89583,133.29422,12:32,6.92497,133.31142,14:44,
+133,PAL22_095,PAL22_19,S2,PNMS South,Fish,2022,None,None,None,0,0,0,PAL22_19,N,6.89814,133.29428,12:34,6.92742,133.31262,14:48,
+134,PAL22_096,PAL22_20,S3,PNMS South,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.72,0.00072,PAL22_20,Y,6.28612,133.51295,05:54,6.29435,133.50211,07:55,EM 5 min short - High RMS 30 
+135,PAL22_097,PAL22_20,S3,PNMS South,Fish,2022,None,None,None,0,0,0,PAL22_20,N,6.28777,133.51126,05:57,6.29542,133.50102,07:58,
+136,PAL22_098,PAL22_20,S3,PNMS South,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.12,0.00012,PAL22_20,Y,6.28975,133.50986,05:59,6.29679,133.4998,08:02,
+137,PAL22_099,PAL22_20,S3,PNMS South,Fish,2022,Carangidae,Caranx sp,Caranx trevally,1,8.5,0.0085,PAL22_20,Y,6.29145,133.50813,06:01,6.29814,133.49838,08:05,
+138,PAL22_100,PAL22_20,S3,PNMS South,Fish,2022,Istiophoridae,Makaira nigricans,blue marlin,1,36646.29,36.64629,PAL22_20,Y,6.29256,133.50618,06:04,6.29928,133.49712,08:08,No measurements. Makaira nigricans too far away. 
+139,PAL22_101,PAL22_21,S3,PNMS South,Fish,2022,None,None,None,0,0,0,PAL22_21,Y,6.26222,133.49113,08:32,6.2674,133.47868,10:33,No fish EM 2 min short 
+140,PAL22_102,PAL22_21,S3,PNMS South,Fish,2022,None,None,None,0,0,0,PAL22_21,N,6.26243,133.48891,08:35,6.26775,133.47776,10:36,
+141,PAL22_103,PAL22_21,S3,PNMS South,Fish,2022,None,None,None,0,0,0,PAL22_21,N,6.26343,133.48692,08:37,6.26853,133.4756,10:40,
+142,PAL22_104,PAL22_21,S3,PNMS South,Fish,2022,None,None,None,0,0,0,PAL22_21,N,6.26484,133.48524,08:39,6.26955,133.47609,10:43,
+143,PAL22_105,PAL22_21,S3,PNMS South,Fish,2022,None,None,None,0,0,0,PAL22_21,N,6.26595,133.48351,08:41,6.27031,133.47305,10:46,
+144,PAL22_106,PAL22_22,S3,PNMS South,Fish,2022,Monacanthidae,Aluterus monoceros,unicorn leatherjacket filefish,1,346.95,0.34695,PAL22_22,Y,6.30324,133.47459,12:07,6.30257,133.46918,14:09,High RMS 30 
+145,PAL22_107,PAL22_22,S3,PNMS South,Fish,2022,None,None,None,0,0,0,PAL22_22,N,6.3054,133.47397,12:09,6.30409,133.47791,14:14,
+146,PAL22_108,PAL22_22,S3,PNMS South,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.12,0.00012,PAL22_22,Y,6.30747,133.4736,12:11,6.30578,133.46689,14:18,
+147,PAL22_109,PAL22_22,S3,PNMS South,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,8,17.81,0.01781,PAL22_22,Y,6.30953,133.47311,12:13,6.30743,133.46614,14:22,Sync issue- managed to get some measures. High precision on blue marlin. 
+148,PAL22_109,PAL22_22,S3,PNMS South,Fish,2022,Carangidae,Selar crumenophthalmus,bigeye scad,2,5.93,0.00593,PAL22_22,Y,6.30953,133.47311,12:13,6.30743,133.46614,14:22,Sync issue- managed to get some measures. High precision on blue marlin. 
+149,PAL22_109,PAL22_22,S3,PNMS South,Fish,2022,Istiophoridae,Makaira nigricans,blue marlin,1,36646.29,36.64629,PAL22_22,Y,6.30953,133.47311,12:13,6.30743,133.46614,14:22,Sync issue- managed to get some measures. High precision on blue marlin. 
+150,PAL22_110,PAL22_22,S3,PNMS South,Fish,2022,Carangidae,Caranx sp,Caranx trevally,2,9.95,0.00995,PAL22_22,Y,6.3116,133.47217,12:16,6.30833,133.46666,14:26,Ferdau not in good frame to measure. No measurements.
+151,PAL22_111,PAL22_23,S4,PNMS South,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,2,533.31,0.53331,PAL22_23,Y,6.05708,134.17146,05:53,6.05752,134.1671,07:55,
+152,PAL22_111,PAL22_23,S4,PNMS South,Fish,2022,Carangidae,Caranx sp,Caranx trevally,1,2.25,0.00225,PAL22_23,Y,6.05708,134.17146,05:53,6.05752,134.1671,07:55,
+153,PAL22_111,PAL22_23,S4,PNMS South,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,1,4.6,0.0046,PAL22_23,Y,6.05708,134.17146,05:53,6.05752,134.1671,07:55,
+154,PAL22_112,PAL22_23,S4,PNMS South,Fish,2022,None,None,None,0,0,0,PAL22_23,N,6.05607,134.16943,05:56,6.05718,134.16592,07:59,
+155,PAL22_113,PAL22_23,S4,PNMS South,Fish,2022,None,None,None,0,0,0,PAL22_23,N,6.055523,134.16743,05:58,6.0565,134.16516,08:03,
+156,PAL22_114,PAL22_23,S4,PNMS South,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,266.66,0.26666,PAL22_23,Y,6.05399,134.16576,06:00,6.05595,134.16431,08:07,Maculata not in both frames no measure
+157,PAL22_115,PAL22_23,S4,PNMS South,Fish,2022,None,None,None,0,0,0,PAL22_23,N,6.05273,134.16397,06:03,6.0552,134.16353,08:11,
+158,PAL22_116,PAL22_24,S4,PNMS South,Fish,2022,None,None,None,0,0,0,PAL22_24,N,6.02436,134.15918,08:32,6.02041,134.1528,10:32,
+159,PAL22_117,PAL22_24,S4,PNMS South,Fish,2022,Carangidae,Caranx sp,Caranx trevally,2,10.03,0.01003,PAL22_24,Y,6.023,134.15739,08:34,6.01945,134.15169,10:36,
+160,PAL22_118,PAL22_24,S4,PNMS South,Fish,2022,None,None,None,0,0,0,PAL22_24,N,6.02205,134.15558,08:36,6.01833,134.14981,10:40,
+161,PAL22_119,PAL22_24,S4,PNMS South,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,183.06,0.18306,PAL22_24,Y,6.02027,134.15437,08:39,6.0168,134.14825,10:44,EM 2 min short 
+162,PAL22_119,PAL22_24,S4,PNMS South,Fish,2022,Carangidae,Caranx sp,Caranx trevally,1,6.12,0.00612,PAL22_24,Y,6.02027,134.15437,08:39,6.0168,134.14825,10:44,EM 2 min short 
+163,PAL22_119,PAL22_24,S4,PNMS South,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,9,35.54,0.03554,PAL22_24,Y,6.02027,134.15437,08:39,6.0168,134.14825,10:44,EM 2 min short 
+164,PAL22_120,PAL22_24,S4,PNMS South,Fish,2022,Balistidae,Canthidermis maculata,rought triggerfish,1,183.06,0.18306,PAL22_24,Y,6.01826,134.15358,08:41,6.05136,134.14714,10:48,RHS only 35 min- unable to do measurement
+165,PAL22_120,PAL22_24,S4,PNMS South,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,1,3.95,0.00395,PAL22_24,Y,6.01826,134.15358,08:41,6.05136,134.14714,10:48,RHS only 35 min- unable to do measurement
+166,PAL22_121,PAL22_25,S4,PNMS South,Fish,2022,Carangidae,Caranx sp,Caranx trevally,1,4.33,0.00433,PAL22_25,Y,6.02506,134.12862,12:03,6.00789,134.11687,14:02,EM 1 min short - High RMS- 3x Hippurus. Barracuda too far away to measure. 
+167,PAL22_121,PAL22_25,S4,PNMS South,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,5,11.78,0.01178,PAL22_25,Y,6.02506,134.12862,12:03,6.00789,134.11687,14:02,EM 1 min short - High RMS- 3x Hippurus. Barracuda too far away to measure. 
+168,PAL22_121,PAL22_25,S4,PNMS South,Fish,2022,Coryphaenidae,Coryphaena hippurus,common dolphinfish,3,11674.06,11.67406,PAL22_25,Y,6.02506,134.12862,12:03,6.00789,134.11687,14:02,EM 1 min short - High RMS- 3x Hippurus. Barracuda too far away to measure. 
+169,PAL22_121,PAL22_25,S4,PNMS South,Fish,2022,Sphyraenidae,Sphyraena barracuda,great barracuda,1,2420.89,2.42089,PAL22_25,Y,6.02506,134.12862,12:03,6.00789,134.11687,14:02,EM 1 min short - High RMS- 3x Hippurus. Barracuda too far away to measure. 
+170,PAL22_122,PAL22_25,S4,PNMS South,Fish,2022,Coryphaenidae,Coryphaena hippurus,common dolphinfish,1,3955.85,3.95585,PAL22_25,Y,6.02327,134.12709,12:05,6.00639,134.11557,14:07,
+171,PAL22_123,PAL22_25,S4,PNMS South,Fish,2022,Coryphaenidae,Coryphaena hippurus,common dolphinfish,2,8107.76,8.10776,PAL22_25,Y,6.02193,134.12524,12:08,6.00463,134.11452,14:11,
+172,PAL22_125,PAL22_25,S4,PNMS South,Fish,2022,None,None,None,0,0,0,PAL22_25,N,6.01882,134.12154,12:12,6.00167,134.11186,14:19,
+173,PAL22_126,PAL22_26,S1,PNMS South,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,11,40.68,0.04068,PAL22_26,Y,6.48549,133.80272,05:51,6.47213,133.78148,07:52,
+174,PAL22_127,PAL22_26,S1,PNMS South,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,2,2.44,0.00244,PAL22_26,Y,6.48424,133.800635,05:53,6.47187,133.77939,07:56,Had to re-sync where fish were as they were out of sync again. RMS good.
+175,PAL22_128,PAL22_26,S1,PNMS South,Fish,2022,Carangidae,Caranx sp,Caranx trevally,3,14.57,0.01457,PAL22_26,Y,6.48297,133.79895,05:55,6.4714,133.77719,08:00,
+176,PAL22_129,PAL22_26,S1,PNMS South,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,1,3.01,0.00301,PAL22_26,Y,6.48181,133.79669,05:57,6.47073,133.77538,08:03,No measurements obtained
+177,PAL22_130,PAL22_26,S1,PNMS South,Fish,2022,Carangidae,Caranx sp,Caranx trevally,1,5.54,0.00554,PAL22_26,Y,6.48012,133.79454,05:59,6.46957,133.77397,08:06,ID check Decapterus sp.
+178,PAL22_130,PAL22_26,S1,PNMS South,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,16,42.87,0.04287,PAL22_26,Y,6.48012,133.79454,05:59,6.46957,133.77397,08:06,ID check Decapterus sp.
+179,PAL22_130,PAL22_26,S1,PNMS South,Fish,2022,Coryphaenidae,Coryphaena hippurus,common dolphinfish,4,16078.49,16.07849,PAL22_26,Y,6.48012,133.79454,05:59,6.46957,133.77397,08:06,ID check Decapterus sp.
+180,PAL22_131,PAL22_27,S1,PNMS South,Fish,2022,None,None,None,0,0,0,PAL22_27,N,6.46905,133.74163,08:23,6.46445,133.73505,10:24,"LHS camera freezes at around 1:25, returns at 1:32 (so loses 7 minutes).."
+181,PAL22_132,PAL22_27,S1,PNMS South,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,13,17.46,0.01746,PAL22_27,Y,6.46727,133.74622,08:25,6.46341,133.73363,10:27,PM Good. LHS camera freezes at 26 minutes returns back at 33 minutes. 
+182,PAL22_133,PAL22_27,S1,PNMS South,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,23,80.76,0.08076,PAL22_27,Y,6.46579,133.74471,08:27,6.4621,133.73203,10:30,RHS or LHS goes out of sync by multiple min. Resynced by hand halfway through. RMS good. EM 1 min short
+183,PAL22_133,PAL22_27,S1,PNMS South,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.49,0.00049,PAL22_27,Y,6.46579,133.74471,08:27,6.4621,133.73203,10:30,RHS or LHS goes out of sync by multiple min. Resynced by hand halfway through. RMS good. EM 1 min short
+184,PAL22_134,PAL22_27,S1,PNMS South,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,32,70.93,0.07093,PAL22_27,Y,6.46412,133.74313,08:29,6.46049,133.7308,10:33,Goes out of sync by multiple min. Had to measure non-MaxN frame. EM  5 min short 
+185,PAL22_135,PAL22_27,S1,PNMS South,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,50,161.54,0.16154,PAL22_27,Y,6.46236,133.74214,08:31,6.45873,133.73026,10:35,
+186,PAL22_136,PAL22_28,S1,PNMS South,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,39,95.61,0.09561,PAL22_28,Y,6.4754,133.71179,12:06,6.46702,133.69759,14:06,
+187,PAL22_137,PAL22_28,S1,PNMS South,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,32,71.09,0.07109,PAL22_28,Y,6.47367,133.71059,12:08,6.46497,133.69661,14:13,
+188,PAL22_137,PAL22_28,S1,PNMS South,Fish,2022,Molidae,Masturus lanceolatus,sharptail mola,1,134051.6,134.0516,PAL22_28,Y,6.47367,133.71059,12:08,6.46497,133.69661,14:13,
+189,PAL22_137,PAL22_28,S1,PNMS South,Fish,2022,Nomeidae,Psenes sp,Psenes driftfish,1,0.09,9.00E-05,PAL22_28,Y,6.47367,133.71059,12:08,6.46497,133.69661,14:13,
+190,PAL22_138,PAL22_28,S1,PNMS South,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,37,65.08,0.06508,PAL22_28,Y,6.47191,133.70964,12:10,6.46297,133.6955,14:18,
+191,PAL22_139,PAL22_28,S1,PNMS South,Fish,2022,Carangidae,Decapterus sp,Decapterus scad,10,22.74,0.02274,PAL22_28,Y,6.47012,133.70836,12:12,6.46076,133.69447,14:23,
+192,PAL22_140,PAL22_28,S1,PNMS South,Fish,2022,None,None,None,0,0,0,PAL22_28,N,6.46838,133.70718,12:14,6.45912,133.69386,14:26,No fish
