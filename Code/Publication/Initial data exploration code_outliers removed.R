@@ -214,3 +214,4 @@ if (nrow(zero_fish_strings) > 0) {
 } else {
   cat("No strings with zero fish were found.\n")
 }
+
