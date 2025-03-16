@@ -1,0 +1,1859 @@
+﻿Sample,Type,Zone,Site,Plankton_Category,Specimen_Type,Plankton_Group,Total_Count
+PAL22_N1_1_S,Plankton,PNMS North,N1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_N1_1_S,Plankton,PNMS North,N1,Holoplankton,Copepod,Copepoda,7
+PAL22_N1_1_S,Plankton,PNMS North,N1,Holoplankton,Copepod,Copepoda,244
+PAL22_N1_1_S,Plankton,PNMS North,N1,Holoplankton,Pteropod,Gastropoda,5
+PAL22_N1_1_S,Plankton,PNMS North,N1,Holoplankton,Pteropod,Gastropoda,55
+PAL22_N1_1_S,Plankton,PNMS North,N1,Holoplankton,Pteropod,Gastropoda,12
+PAL22_N1_1_S,Plankton,PNMS North,N1,Holoplankton,Copepod,Copepoda,261
+PAL22_N1_1_S,Plankton,PNMS North,N1,Holoplankton,Pteropod,Gastropoda,8
+PAL22_N1_1_S,Plankton,PNMS North,N1,Meroplankton,Benthic_Snail,Gastropoda,20
+PAL22_N1_1_S,Plankton,PNMS North,N1,Meroplankton,Benthic_Snail,Gastropoda,3
+PAL22_N1_1_S,Plankton,PNMS North,N1,Holoplankton,Larvaceans,Other Gelatinous,6
+PAL22_N1_1_S,Plankton,PNMS North,N1,Holoplankton,Other Gelatinous,Other Gelatinous,1
+PAL22_N1_1_S,Plankton,PNMS North,N1,Meroplankton,Crab,Crustacea,29
+PAL22_N1_1_S,Plankton,PNMS North,N1,Holoplankton,Evadne,Crustacea,107
+PAL22_N1_1_S,Plankton,PNMS North,N1,Holoplankton,Chaetognath,Chaetognatha,43
+PAL22_N1_1_S,Plankton,PNMS North,N1,Holoplankton,Copepod,Copepoda,2
+PAL22_N1_1_S,Plankton,PNMS North,N1,Holoplankton,Krill,Malacostraca,28
+PAL22_N1_1_S,Plankton,PNMS North,N1,Holoplankton,Shrimp,Malacostraca,7
+PAL22_N1_1_S,Plankton,PNMS North,N1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_N1_1_S,Plankton,PNMS North,N1,Holoplankton,Amphipod,Crustacea,1
+PAL22_N1_1_S,Plankton,PNMS North,N1,Holoplankton,Amphipod,Crustacea,2
+PAL22_N1_1_S,Plankton,PNMS North,N1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_N1_1_S,Plankton,PNMS North,N1,Meroplankton,Bivalve,Bivalvia,1
+PAL22_N1_1_S,Plankton,PNMS North,N1,Holoplankton,Fish,Fish embryo/egg,29
+PAL22_N1_1_S,Plankton,PNMS North,N1,Meroplankton,Polychaete,Polychaeta,1
+PAL22_N1_1_S,Plankton,PNMS North,N1,Holoplankton,Pteropod,Gastropoda,25
+PAL22_N1_1_S,Plankton,PNMS North,N1,Holoplankton,Pteropod,Gastropoda,2
+PAL22_N1_1_S,Plankton,PNMS North,N1,Holoplankton,Pteropod,Gastropoda,3
+PAL22_N1_2_S,Plankton,PNMS North,N1,Holoplankton,Copepod,Copepoda,5
+PAL22_N1_2_S,Plankton,PNMS North,N1,Holoplankton,Shrimp,Malacostraca,1
+PAL22_N1_2_S,Plankton,PNMS North,N1,Holoplankton,Copepod,Copepoda,19
+PAL22_N1_2_S,Plankton,PNMS North,N1,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_N1_2_S,Plankton,PNMS North,N1,Holoplankton,Copepod,Copepoda,485
+PAL22_N1_2_S,Plankton,PNMS North,N1,Meroplankton,Barnacle,Gastropoda,2
+PAL22_N1_2_S,Plankton,PNMS North,N1,Holoplankton,Pteropod,Gastropoda,1
+PAL22_N1_2_S,Plankton,PNMS North,N1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_N1_2_S,Plankton,PNMS North,N1,Meroplankton,Benthic_Snail,Gastropoda,3
+PAL22_N1_2_S,Plankton,PNMS North,N1,Holoplankton,Larvaceans,Other Gelatinous,12
+PAL22_N1_2_S,Plankton,PNMS North,N1,Holoplankton,Other Gelatinous,Other Gelatinous,18
+PAL22_N1_2_S,Plankton,PNMS North,N1,Meroplankton,Crab,Crustacea,3
+PAL22_N1_2_S,Plankton,PNMS North,N1,Holoplankton,Evadne,Crustacea,69
+PAL22_N1_2_S,Plankton,PNMS North,N1,Holoplankton,Chaetognath,Chaetognatha,11
+PAL22_N1_2_S,Plankton,PNMS North,N1,Holoplankton,Chaetognath,Chaetognatha,6
+PAL22_N1_2_S,Plankton,PNMS North,N1,Holoplankton,Amphipod,Crustacea,1
+PAL22_N1_2_S,Plankton,PNMS North,N1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_N1_2_S,Plankton,PNMS North,N1,Meroplankton,Benthic_Snail,Gastropoda,32
+PAL22_N1_2_S,Plankton,PNMS North,N1,Holoplankton,Copepod,Copepoda,3
+PAL22_N1_2_S,Plankton,PNMS North,N1,Holoplankton,Copepod,Copepoda,8
+PAL22_N1_2_S,Plankton,PNMS North,N1,Holoplankton,Copepod,Copepoda,9
+PAL22_N1_2_S,Plankton,PNMS North,N1,Holoplankton,Fish,Fish embryo/egg,44
+PAL22_N1_2_S,Plankton,PNMS North,N1,Holoplankton,Fish,Fish embryo/egg,35
+PAL22_N1_2_S,Plankton,PNMS North,N1,Holoplankton,Fish,Fish embryo/egg,2
+PAL22_N1_2_S,Plankton,PNMS North,N1,Holoplankton,Fish,Fish embryo/egg,3
+PAL22_N1_2_S,Plankton,PNMS North,N1,Holoplankton,Ostracod,Crustacea,1
+PAL22_N1_2_S,Plankton,PNMS North,N1,Holoplankton,Polychaete,Polychaeta,1
+PAL22_N1_2_S,Plankton,PNMS North,N1,Holoplankton,Pteropod,Gastropoda,1
+PAL22_N1_2_S,Plankton,PNMS North,N1,Holoplankton,Shrimp,Malacostraca,1
+PAL22_N1_2_S,Plankton,PNMS North,N1,Holoplankton,Shrimp,Malacostraca,2
+PAL22_N1_2_S,Plankton,PNMS North,N1,Meroplankton,Stomatopod,Crustacea,1
+PAL22_N1_3_S,Plankton,PNMS North,N1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_N1_3_S,Plankton,PNMS North,N1,Holoplankton,Copepod,Copepoda,1
+PAL22_N1_3_S,Plankton,PNMS North,N1,Holoplankton,Copepod,Copepoda,2
+PAL22_N1_3_S,Plankton,PNMS North,N1,Holoplankton,Pteropod,Gastropoda,1
+PAL22_N1_3_S,Plankton,PNMS North,N1,Meroplankton,Echinoderm,Echinodermata,35
+PAL22_N1_3_S,Plankton,PNMS North,N1,Holoplankton,Copepod,Copepoda,500
+PAL22_N1_3_S,Plankton,PNMS North,N1,Meroplankton,Barnacle,Gastropoda,1
+PAL22_N1_3_S,Plankton,PNMS North,N1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_N1_3_S,Plankton,PNMS North,N1,Meroplankton,Benthic_Snail,Gastropoda,34
+PAL22_N1_3_S,Plankton,PNMS North,N1,Meroplankton,Benthic_Snail,Gastropoda,4
+PAL22_N1_3_S,Plankton,PNMS North,N1,Holoplankton,Larvaceans,Other Gelatinous,35
+PAL22_N1_3_S,Plankton,PNMS North,N1,Holoplankton,Other Gelatinous,Other Gelatinous,6
+PAL22_N1_3_S,Plankton,PNMS North,N1,Holoplankton,Evadne,Crustacea,256
+PAL22_N1_3_S,Plankton,PNMS North,N1,Meroplankton,Benthic_Snail,Gastropoda,6
+PAL22_N1_3_S,Plankton,PNMS North,N1,Meroplankton,Bivalve,Bivalvia,1
+PAL22_N1_3_S,Plankton,PNMS North,N1,Holoplankton,Copepod,Copepoda,1
+PAL22_N1_3_S,Plankton,PNMS North,N1,Holoplankton,Copepod,Copepoda,3
+PAL22_N1_3_S,Plankton,PNMS North,N1,Holoplankton,Fish,Fish embryo/egg,18
+PAL22_N1_3_S,Plankton,PNMS North,N1,Holoplankton,Fish,Fish embryo/egg,3
+PAL22_N1_3_S,Plankton,PNMS North,N1,Holoplankton,Isopod,Crustacea,1
+PAL22_N1_3_S,Plankton,PNMS North,N1,Holoplankton,Jelly,Other gelatinous,2
+PAL22_N1_3_S,Plankton,PNMS North,N1,Holoplankton,Pteropod,Gastropoda,5
+PAL22_N3_1_S,Plankton,PNMS North,N3,Holoplankton,Copepod,Copepoda,1
+PAL22_N3_1_S,Plankton,PNMS North,N3,Meroplankton,Echinoderm,Echinodermata,11
+PAL22_N3_1_S,Plankton,PNMS North,N3,Holoplankton,Copepod,Copepoda,58
+PAL22_N3_1_S,Plankton,PNMS North,N3,Holoplankton,Pteropod,Gastropoda,2
+PAL22_N3_1_S,Plankton,PNMS North,N3,Holoplankton,Pteropod,Gastropoda,18
+PAL22_N3_1_S,Plankton,PNMS North,N3,Holoplankton,Pteropod,Gastropoda,11
+PAL22_N3_1_S,Plankton,PNMS North,N3,Meroplankton,Echinoderm,Echinodermata,150
+PAL22_N3_1_S,Plankton,PNMS North,N3,Holoplankton,Krill,Malacostraca,1
+PAL22_N3_1_S,Plankton,PNMS North,N3,Holoplankton,Copepod,Copepoda,154
+PAL22_N3_1_S,Plankton,PNMS North,N3,Holoplankton,Pteropod,Gastropoda,8
+PAL22_N3_1_S,Plankton,PNMS North,N3,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_N3_1_S,Plankton,PNMS North,N3,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_N3_1_S,Plankton,PNMS North,N3,Meroplankton,Echinoderm,Echinodermata,16
+PAL22_N3_1_S,Plankton,PNMS North,N3,Meroplankton,Benthic_Snail,Gastropoda,3
+PAL22_N3_1_S,Plankton,PNMS North,N3,Holoplankton,Other Gelatinous,Other Gelatinous,1
+PAL22_N3_1_S,Plankton,PNMS North,N3,Holoplankton,Evadne,Crustacea,4
+PAL22_N3_1_S,Plankton,PNMS North,N3,Holoplankton,Chaetognath,Chaetognatha,74
+PAL22_N3_1_S,Plankton,PNMS North,N3,Holoplankton,Chaetognath,Chaetognatha,31
+PAL22_N3_1_S,Plankton,PNMS North,N3,Holoplankton,Copepod,Copepoda,6
+PAL22_N3_1_S,Plankton,PNMS North,N3,Holoplankton,Copepod,Copepoda,1
+PAL22_N3_1_S,Plankton,PNMS North,N3,Holoplankton,Shrimp,Malacostraca,9
+PAL22_N3_1_S,Plankton,PNMS North,N3,Holoplankton,Ascidean_Tadpole,Other Gelatinous,1
+PAL22_N3_1_S,Plankton,PNMS North,N3,Meroplankton,Cnidaria,Cnidaria,1
+PAL22_N3_1_S,Plankton,PNMS North,N3,Holoplankton,Fish,Fish embryo/egg,7
+PAL22_N3_1_S,Plankton,PNMS North,N3,Holoplankton,Fish,Fish embryo/egg,13
+PAL22_N3_1_S,Plankton,PNMS North,N3,Holoplankton,Jelly,Other gelatinous,2
+PAL22_N3_1_S,Plankton,PNMS North,N3,Holoplankton,Pteropod,Gastropoda,3
+PAL22_N3_1_S,Plankton,PNMS North,N3,Holoplankton,Pteropod,Gastropoda,1
+PAL22_N3_1_S,Plankton,PNMS North,N3,Holoplankton,Pteropod,Gastropoda,1
+PAL22_N3_1_S,Plankton,PNMS North,N3,Holoplankton,Shrimp,Malacostraca,7
+PAL22_N3_2_S,Plankton,PNMS North,N3,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_N3_2_S,Plankton,PNMS North,N3,Holoplankton,Copepod,Copepoda,1
+PAL22_N3_2_S,Plankton,PNMS North,N3,Meroplankton,Polychaete,Polycheata,1
+PAL22_N3_2_S,Plankton,PNMS North,N3,Holoplankton,Copepod,Copepoda,6
+PAL22_N3_2_S,Plankton,PNMS North,N3,Meroplankton,Echinoderm,Echinodermata,8
+PAL22_N3_2_S,Plankton,PNMS North,N3,Holoplankton,Copepod,Copepoda,171
+PAL22_N3_2_S,Plankton,PNMS North,N3,Holoplankton,Pteropod,Gastropoda,1
+PAL22_N3_2_S,Plankton,PNMS North,N3,Meroplankton,Benthic_Snail,Gastropoda,3
+PAL22_N3_2_S,Plankton,PNMS North,N3,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_N3_2_S,Plankton,PNMS North,N3,Holoplankton,Evadne,Crustacea,6
+PAL22_N3_2_S,Plankton,PNMS North,N3,Holoplankton,Chaetognath,Chaetognatha,3
+PAL22_N3_2_S,Plankton,PNMS North,N3,Holoplankton,Chaetognath,Chaetognatha,1
+PAL22_N3_2_S,Plankton,PNMS North,N3,Holoplankton,Shrimp,Malacostraca,1
+PAL22_N3_2_S,Plankton,PNMS North,N3,Holoplankton,Amphipod,Crustacea,2
+PAL22_N3_2_S,Plankton,PNMS North,N3,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_N3_2_S,Plankton,PNMS North,N3,Holoplankton,Fish,Fish embryo/egg,49
+PAL22_N3_2_S,Plankton,PNMS North,N3,Holoplankton,Fish,Fish embryo/egg,20
+PAL22_N3_2_S,Plankton,PNMS North,N3,Holoplankton,Jelly,Other gelatinous,1
+PAL22_N3_2_S,Plankton,PNMS North,N3,Holoplankton,Pteropod,Gastropoda,2
+PAL22_N3_2_S,Plankton,PNMS North,N3,Holoplankton,Salp,Other gelatinous,1
+PAL22_N3_3_S,Plankton,PNMS North,N3,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_N3_3_S,Plankton,PNMS North,N3,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_N3_3_S,Plankton,PNMS North,N3,Holoplankton,Pteropod,Gastropoda,1
+PAL22_N3_3_S,Plankton,PNMS North,N3,Holoplankton,Pteropod,Gastropoda,1
+PAL22_N3_3_S,Plankton,PNMS North,N3,Meroplankton,Echinoderm,Echinodermata,5
+PAL22_N3_3_S,Plankton,PNMS North,N3,Holoplankton,Copepod,Copepoda,1535
+PAL22_N3_3_S,Plankton,PNMS North,N3,Meroplankton,Barnacle,Gastropoda,1
+PAL22_N3_3_S,Plankton,PNMS North,N3,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_N3_3_S,Plankton,PNMS North,N3,Meroplankton,Benthic_Snail,Gastropoda,10
+PAL22_N3_3_S,Plankton,PNMS North,N3,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_N3_3_S,Plankton,PNMS North,N3,Holoplankton,Larvaceans,Other Gelatinous,11
+PAL22_N3_3_S,Plankton,PNMS North,N3,Holoplankton,Evadne,Crustacea,27
+PAL22_N3_3_S,Plankton,PNMS North,N3,Holoplankton,Chaetognath,Chaetognatha,40
+PAL22_N3_3_S,Plankton,PNMS North,N3,Holoplankton,Amphipod,Crustacea,1
+PAL22_N3_3_S,Plankton,PNMS North,N3,Meroplankton,Benthic_Snail,Gastropoda,9
+PAL22_N3_3_S,Plankton,PNMS North,N3,Holoplankton,Fish,Fish embryo/egg,9
+PAL22_N3_3_S,Plankton,PNMS North,N3,Holoplankton,Fish,Fish embryo/egg,3
+PAL22_N3_3_S,Plankton,PNMS North,N3,Holoplankton,Huge_Hairy_Egg,Fish embryo/egg,1
+PAL22_N3_3_S,Plankton,PNMS North,N3,Holoplankton,Pteropod,Gastropoda,1
+PAL22_N3_3_S,Plankton,PNMS North,N3,Holoplankton,Shrimp,Malacostraca,1
+PAL22_N4_1_S,Plankton,PNMS North,N4,Meroplankton,Benthic_Snail,Gastropoda,46
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Copepod,Copepoda,2
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Shrimp,Malacostraca,2
+PAL22_N4_1_S,Plankton,PNMS North,N4,Meroplankton,Polychaete,Polycheata,6
+PAL22_N4_1_S,Plankton,PNMS North,N4,Meroplankton,Echinoderm,Echinodermata,7
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Copepod,Copepoda,252
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Pteropod,Gastropoda,1
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Pteropod,Gastropoda,5
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Pteropod,Gastropoda,2
+PAL22_N4_1_S,Plankton,PNMS North,N4,Meroplankton,Echinoderm,Echinodermata,89
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Copepod,Copepoda,770
+PAL22_N4_1_S,Plankton,PNMS North,N4,Meroplankton,Barnacle,Gastropoda,4
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Pteropod,Gastropoda,5
+PAL22_N4_1_S,Plankton,PNMS North,N4,Meroplankton,Benthic_Snail,Gastropoda,110
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Shrimp,Malacostraca,1
+PAL22_N4_1_S,Plankton,PNMS North,N4,Meroplankton,Echinoderm,Echinodermata,9
+PAL22_N4_1_S,Plankton,PNMS North,N4,Meroplankton,Benthic_Snail,Gastropoda,16
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Larvaceans,Other Gelatinous,25
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Other Gelatinous,Other Gelatinous,10
+PAL22_N4_1_S,Plankton,PNMS North,N4,Meroplankton,Echinoderm,Echinodermata,2
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Evadne,Crustacea,232
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Chaetognath,Chaetognatha,22
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Chaetognath,Chaetognatha,24
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Copepod,Copepoda,6
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Copepod,Copepoda,10
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Copepod,Copepoda,4
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Shrimp,Malacostraca,30
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Krill,Malacostraca,2
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Shrimp,Malacostraca,4
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Amphipod,Crustacea,12
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Amphipod,Crustacea,1
+PAL22_N4_1_S,Plankton,PNMS North,N4,Meroplankton,Barnacle,Crustacea,1
+PAL22_N4_1_S,Plankton,PNMS North,N4,Meroplankton,Benthic_Snail,Gastropoda,3
+PAL22_N4_1_S,Plankton,PNMS North,N4,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_N4_1_S,Plankton,PNMS North,N4,Meroplankton,Benthic_Snail,Gastropoda,3
+PAL22_N4_1_S,Plankton,PNMS North,N4,Meroplankton,Benthic_Snail,Gastropoda,4
+PAL22_N4_1_S,Plankton,PNMS North,N4,Meroplankton,Bivalve,Bivalvia,2
+PAL22_N4_1_S,Plankton,PNMS North,N4,Meroplankton,Bivalve,Bivalvia,1
+PAL22_N4_1_S,Plankton,PNMS North,N4,Meroplankton,Bivalve,Bivalvia,1
+PAL22_N4_1_S,Plankton,PNMS North,N4,Meroplankton,Bivalve,Bivalvia,1
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Copepod,Copepoda,4
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Copepod,Copepoda,2
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Copepod,Copepoda,4
+PAL22_N4_1_S,Plankton,PNMS North,N4,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Embryo,Fish embryo/egg,1
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Fish,Fish embryo/egg,16
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Fish,Fish embryo/egg,1
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Fish,Fish embryo/egg,8
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Fish,Fish embryo/egg,13
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Jelly,Other gelatinous,3
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Jelly,Other gelatinous,1
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Krill,Malacostraca,2
+PAL22_N4_1_S,Plankton,PNMS North,N4,Meroplankton,Limpet,Gastropoda,2
+PAL22_N4_1_S,Plankton,PNMS North,N4,Meroplankton,Nudibranch,Gastropoda,4
+PAL22_N4_1_S,Plankton,PNMS North,N4,Meroplankton,Nudibranch,Gastropoda,7
+PAL22_N4_1_S,Plankton,PNMS North,N4,Meroplankton,Polychaete,Polychaeta,1
+PAL22_N4_1_S,Plankton,PNMS North,N4,Meroplankton,Polychaete,Polychaeta,1
+PAL22_N4_1_S,Plankton,PNMS North,N4,Meroplankton,Polychaete,Polychaeta,1
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Polychaete,Polychaeta,1
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Polychaete,Polychaeta,1
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Pteropod,Gastropoda,7
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Pteropod,Gastropoda,1
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Pteropod,Gastropoda,1
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Pteropod,Gastropoda,4
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Pteropod,Gastropoda,5
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Pteropod,Gastropoda,4
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Salp,Other gelatinous,99
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Shrimp,Malacostraca,3
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Shrimp,Malacostraca,2
+PAL22_N4_1_S,Plankton,PNMS North,N4,Holoplankton,Shrimp,Malacostraca,1
+PAL22_N4_1_S,Plankton,PNMS North,N4,Meroplankton,Sipunculan,Sipuncula,2
+PAL22_N4_2_S,Plankton,PNMS North,N4,Holoplankton,Copepod,Copepoda,1
+PAL22_N4_2_S,Plankton,PNMS North,N4,Meroplankton,Polychaete,Polycheata,1
+PAL22_N4_2_S,Plankton,PNMS North,N4,Holoplankton,Copepod,Copepoda,9
+PAL22_N4_2_S,Plankton,PNMS North,N4,Meroplankton,Echinoderm,Echinodermata,104
+PAL22_N4_2_S,Plankton,PNMS North,N4,Holoplankton,Isopod,Crustacea,3
+PAL22_N4_2_S,Plankton,PNMS North,N4,Holoplankton,Copepod,Copepoda,793
+PAL22_N4_2_S,Plankton,PNMS North,N4,Meroplankton,Barnacle,Gastropoda,8
+PAL22_N4_2_S,Plankton,PNMS North,N4,Holoplankton,Pteropod,Gastropoda,3
+PAL22_N4_2_S,Plankton,PNMS North,N4,Meroplankton,Benthic_Snail,Gastropoda,11
+PAL22_N4_2_S,Plankton,PNMS North,N4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_N4_2_S,Plankton,PNMS North,N4,Meroplankton,Echinoderm,Echinodermata,3
+PAL22_N4_2_S,Plankton,PNMS North,N4,Meroplankton,Benthic_Snail,Gastropoda,4
+PAL22_N4_2_S,Plankton,PNMS North,N4,Holoplankton,Larvaceans,Other Gelatinous,57
+PAL22_N4_2_S,Plankton,PNMS North,N4,Holoplankton,Other Gelatinous,Other Gelatinous,1
+PAL22_N4_2_S,Plankton,PNMS North,N4,Holoplankton,Copepod,Copepoda,1
+PAL22_N4_2_S,Plankton,PNMS North,N4,Holoplankton,Evadne,Crustacea,41
+PAL22_N4_2_S,Plankton,PNMS North,N4,Holoplankton,Chaetognath,Chaetognatha,3
+PAL22_N4_2_S,Plankton,PNMS North,N4,Holoplankton,Chaetognath,Chaetognatha,5
+PAL22_N4_2_S,Plankton,PNMS North,N4,Holoplankton,Copepod,Copepoda,1
+PAL22_N4_2_S,Plankton,PNMS North,N4,Holoplankton,Shrimp,Malacostraca,1
+PAL22_N4_2_S,Plankton,PNMS North,N4,Holoplankton,Krill,Malacostraca,1
+PAL22_N4_2_S,Plankton,PNMS North,N4,Holoplankton,Amphipod,Crustacea,2
+PAL22_N4_2_S,Plankton,PNMS North,N4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_N4_2_S,Plankton,PNMS North,N4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_N4_2_S,Plankton,PNMS North,N4,Meroplankton,Benthic_Snail,Gastropoda,5
+PAL22_N4_2_S,Plankton,PNMS North,N4,Holoplankton,Embryo,Fish embryo/egg,1
+PAL22_N4_2_S,Plankton,PNMS North,N4,Holoplankton,Fish,Fish embryo/egg,10
+PAL22_N4_2_S,Plankton,PNMS North,N4,Holoplankton,Fish,Fish embryo/egg,12
+PAL22_N4_2_S,Plankton,PNMS North,N4,Holoplankton,Jelly,Other gelatinous,3
+PAL22_N4_2_S,Plankton,PNMS North,N4,Meroplankton,Polychaete,Polychaeta,2
+PAL22_N4_2_S,Plankton,PNMS North,N4,Holoplankton,Pteropod,Gastropoda,1
+PAL22_N4_2_S,Plankton,PNMS North,N4,Holoplankton,Pteropod,Gastropoda,1
+PAL22_N4_2_S,Plankton,PNMS North,N4,Holoplankton,Pteropod,Gastropoda,2
+PAL22_N4_2_S,Plankton,PNMS North,N4,Holoplankton,Salp,Other gelatinous,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Sipunculan,Sipuncula,2
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,35
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Copepod,Copepoda,624
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Copepod,Copepoda,8
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Copepod,Copepoda,2224
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,2
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,85
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,31
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Copepod,Copepoda,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,37
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Copepod,Copepoda,5504
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Barnacle,Gastropoda,32
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,24
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,38
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,125
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Shrimp,Malacostraca,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,68
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Other Gelatinous,Other Gelatinous,1392
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Crab,Crustacea,3
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Evadne,Crustacea,648
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Chaetognath,Chaetognatha,121
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Chaetognath,Chaetognatha,304
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Copepod,Copepoda,48
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Copepod,Copepoda,50
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Copepod,Copepoda,22
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Krill,Malacostraca,6
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Shrimp,Malacostraca,2
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Krill,Malacostraca,47
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Amphipod,Crustacea,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Amphipod,Crustacea,7
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Amphipod,Crustacea,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Amphipod,Crustacea,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Amphipod,Crustacea,4
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Amphipod,Crustacea,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Amphipod,Crustacea,13
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Amphipod,Crustacea,6
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Ascidean_Tadpole,Other Gelatinous,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Barnacle,Crustacea,4
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,13
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,21
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,7
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,8
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,5
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,5
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,8
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,15
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,7
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,4
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,24
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,17
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,22
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,27
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,5
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,3
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,4
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,5
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,3
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,20
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,17
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,41
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,4
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,8
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,3
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,13
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,56
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Bivalve,Bivalvia,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Bivalve,Bivalvia,4
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Cnidaria,Cnidaria,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Copepod,Copepoda,97
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Copepod,Copepoda,4
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Copepod,Copepoda,11
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Copepod,Copepoda,444
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Crab,Crustacea,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Crab,Crustacea,3
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Crab,Crustacea,2
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Crab,Crustacea,48
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Crab,Crustacea,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Echinoderm,Echinodermata,9
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Echinoderm,Echinodermata,2
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Echinoderm,Echinodermata,2
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Echinoderm,Echinodermata,4
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Echinoderm,Echinodermata,10
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Echinoderm,Echinodermata,4
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Echinoderm,Echinodermata,3
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Echinoderm,Echinodermata,8
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Echinoderm,Echinodermata,5
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Echinoderm,Echinodermata,5
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Echinoderm,Echinodermata,2
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Embryo,Fish embryo/egg,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Fish,Fish embryo/egg,214
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Fish,Fish embryo/egg,3
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Fish,Fish embryo/egg,30
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Fish,Fish embryo/egg,3
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Isopod,Crustacea,2
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Jelly,Other gelatinous,3
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Jelly,Other gelatinous,8
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Krill,Malacostraca,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Krill,Malacostraca,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Krill,Malacostraca,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Limpet,Gastropoda,48
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Nudibranch,Gastropoda,2
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Nudibranch,Gastropoda,23
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Nudibranch,Gastropoda,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Nudibranch,Gastropoda,8
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Ostracod,Crustacea,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Ostracod,Crustacea,4
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Ostracod,Crustacea,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Ostracod,Crustacea,4
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Ostracod,Crustacea,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Polychaete,Polychaeta,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Polychaete,Polychaeta,33
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Polychaete,Polychaeta,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Polychaete,Polychaeta,4
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Polychaete,Polychaeta,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,15
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,2
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,2
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,9
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,4
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,61
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,24
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,60
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,2
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,40
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,21
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,24
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,2
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,47
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Shrimp,Malacostraca,13
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Shrimp,Malacostraca,5
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Shrimp,Malacostraca,496
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Shrimp,Malacostraca,64
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Shrimp,Malacostraca,6
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Shrimp,Malacostraca,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Shrimp,Malacostraca,9
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Shrimp,Malacostraca,14
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Shrimp,Malacostraca,22
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Shrimp,Malacostraca,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Shrimp,Malacostraca,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Shrimp,Malacostraca,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Holoplankton,Shrimp,Malacostraca,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Sipunculan,Sipuncula,19
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Sipunculan,Sipuncula,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Sipunculan,Sipuncula,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Sipunculan,Sipuncula,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Sipunculan,Sipuncula,2
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Sipunculan,Sipuncula,4
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Stomatopod,Crustacea,30
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Stomatopod,Crustacea,4
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Stomatopod,Crustacea,4
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Stomatopod,Crustacea,2
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Stomatopod,Crustacea,1
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Stomatopod,Crustacea,4
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Stomatopod,Crustacea,2
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Stomatopod,Crustacea,3
+PAL22_S1_1_S,Plankton,PNMS South,S1,Meroplankton,Stomatopod,Crustacea,17
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,111
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Copepod,Copepoda,23
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Polychaete,Polycheata,8
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Echinoderm,Echinodermata,4
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Copepod,Copepoda,912
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,5
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,4
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Echinoderm,Echinodermata,23
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Copepod,Copepoda,1
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,1
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Copepod,Copepoda,3340
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Barnacle,Gastropoda,4
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,1
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,20
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,352
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Echinoderm,Echinodermata,5
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,424
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Larvaceans,Other Gelatinous,3768
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Other Gelatinous,Other Gelatinous,126
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Copepod,Copepoda,1
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Evadne,Crustacea,3432
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Chaetognath,Chaetognatha,55
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Chaetognath,Chaetognatha,67
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Copepod,Copepoda,38
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Shrimp,Malacostraca,22
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Copepod,Copepoda,1
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Shrimp,Malacostraca,1
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Amphipod,Crustacea,1
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Amphipod,Crustacea,1
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Barnacle,Crustacea,1
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,14
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,12
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,6
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,170
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,188
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Bivalve,Bivalvia,2
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Bivalve,Bivalvia,1
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Copepod,Copepoda,392
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Copepod,Copepoda,10
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Copepod,Copepoda,39
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Crab,Crustacea,1
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Crab,Crustacea,3
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Echinoderm,Echinodermata,2
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Fish,Fish embryo/egg,23
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Fish,Fish embryo/egg,2
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Fish,Fish embryo/egg,10
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Fish,Fish embryo/egg,6
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Isopod,Crustacea,1
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Jelly,Other gelatinous,2
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Krill,Malacostraca,1
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Limpet,Gastropoda,1
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Nudibranch,Gastropoda,1
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Polychaete,Polychaeta,23
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Polychaete,Polychaeta,1
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Polychaete,Polychaeta,4
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,18
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,16
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,23
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,2
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,30
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,1
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,12
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Pteropod,Gastropoda,2
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Shrimp,Malacostraca,114
+PAL22_S1_3_S,Plankton,PNMS South,S1,Holoplankton,Shrimp,Malacostraca,1
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Sipunculan,Sipuncula,1
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Sipunculan,Sipuncula,25
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Stomatopod,Crustacea,7
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Stomatopod,Crustacea,2
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Stomatopod,Crustacea,1
+PAL22_S1_3_S,Plankton,PNMS South,S1,Meroplankton,Stomatopod,Crustacea,1
+PAL22_S2_2_S,Plankton,PNMS South,S2,Meroplankton,Sipunculan,Sipuncula,2
+PAL22_S2_2_S,Plankton,PNMS South,S2,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S2_2_S,Plankton,PNMS South,S2,Meroplankton,Benthic_Snail,Gastropoda,64
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Copepod,Copepoda,1
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Copepod,Copepoda,4
+PAL22_S2_2_S,Plankton,PNMS South,S2,Meroplankton,Polychaete,Polycheata,2
+PAL22_S2_2_S,Plankton,PNMS South,S2,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Copepod,Copepoda,79
+PAL22_S2_2_S,Plankton,PNMS South,S2,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Isopod,Crustacea,1
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Copepod,Copepoda,760
+PAL22_S2_2_S,Plankton,PNMS South,S2,Meroplankton,Barnacle,Gastropoda,6
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Pteropod,Gastropoda,8
+PAL22_S2_2_S,Plankton,PNMS South,S2,Meroplankton,Benthic_Snail,Gastropoda,4
+PAL22_S2_2_S,Plankton,PNMS South,S2,Meroplankton,Benthic_Snail,Gastropoda,150
+PAL22_S2_2_S,Plankton,PNMS South,S2,Meroplankton,Benthic_Snail,Gastropoda,20
+PAL22_S2_2_S,Plankton,PNMS South,S2,Meroplankton,Benthic_Snail,Gastropoda,82
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Larvaceans,Other Gelatinous,64
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Other Gelatinous,Other Gelatinous,125
+PAL22_S2_2_S,Plankton,PNMS South,S2,Meroplankton,Echinoderm,Echinodermata,2
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Copepod,Copepoda,1
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Evadne,Crustacea,198
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Chaetognath,Chaetognatha,4
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Chaetognath,Chaetognatha,7
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Copepod,Copepoda,1
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Copepod,Copepoda,2
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Copepod,Copepoda,1
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Shrimp,Malacostraca,29
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Amphipod,Crustacea,1
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Amphipod,Crustacea,6
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Ascidean_Tadpole,Other Gelatinous,1
+PAL22_S2_2_S,Plankton,PNMS South,S2,Meroplankton,Benthic_Snail,Gastropoda,3
+PAL22_S2_2_S,Plankton,PNMS South,S2,Meroplankton,Benthic_Snail,Gastropoda,9
+PAL22_S2_2_S,Plankton,PNMS South,S2,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S2_2_S,Plankton,PNMS South,S2,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S2_2_S,Plankton,PNMS South,S2,Meroplankton,Benthic_Snail,Gastropoda,5
+PAL22_S2_2_S,Plankton,PNMS South,S2,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_S2_2_S,Plankton,PNMS South,S2,Meroplankton,Benthic_Snail,Gastropoda,16
+PAL22_S2_2_S,Plankton,PNMS South,S2,Meroplankton,Benthic_Snail,Gastropoda,4
+PAL22_S2_2_S,Plankton,PNMS South,S2,Meroplankton,Benthic_Snail,Gastropoda,12
+PAL22_S2_2_S,Plankton,PNMS South,S2,Meroplankton,Benthic_Snail,Gastropoda,374
+PAL22_S2_2_S,Plankton,PNMS South,S2,Meroplankton,Benthic_Snail,Gastropoda,4
+PAL22_S2_2_S,Plankton,PNMS South,S2,Meroplankton,Bivalve,Bivalvia,6
+PAL22_S2_2_S,Plankton,PNMS South,S2,Meroplankton,Bivalve,Bivalvia,1
+PAL22_S2_2_S,Plankton,PNMS South,S2,Meroplankton,Bivalve,Bivalvia,1
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Copepod,Copepoda,6
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Copepod,Copepoda,64
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Copepod,Copepoda,36
+PAL22_S2_2_S,Plankton,PNMS South,S2,Meroplankton,Echinoderm,Echinodermata,2
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Fish,Fish embryo/egg,376
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Fish,Fish embryo/egg,19
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Huge_Hairy_Egg,Fish embryo/egg,1
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Isopod,Crustacea,1
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Jelly,Other gelatinous,2
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Jelly,Other gelatinous,3
+PAL22_S2_2_S,Plankton,PNMS South,S2,Meroplankton,Nudibranch,Gastropoda,1
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Ostracod,Crustacea,1
+PAL22_S2_2_S,Plankton,PNMS South,S2,Meroplankton,Polychaete,Polychaeta,1
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Polychaete,Polychaeta,3
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Pteropod,Gastropoda,1
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Pteropod,Gastropoda,1
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Pteropod,Gastropoda,46
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Pteropod,Gastropoda,1
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Pteropod,Gastropoda,2
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Pteropod,Gastropoda,1
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Pteropod,Gastropoda,19
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Salp,Other gelatinous,2
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Shrimp,Malacostraca,1
+PAL22_S2_2_S,Plankton,PNMS South,S2,Holoplankton,Shrimp,Malacostraca,1
+PAL22_S2_2_S,Plankton,PNMS South,S2,Meroplankton,Sipunculan,Sipuncula,1
+PAL22_S2_3_S,Plankton,PNMS South,S2,Meroplankton,Cnidaria,Cnidaria,5
+PAL22_S2_3_S,Plankton,PNMS South,S2,Meroplankton,Benthic_Snail,Gastropoda,54
+PAL22_S2_3_S,Plankton,PNMS South,S2,Holoplankton,Copepod,Copepoda,1
+PAL22_S2_3_S,Plankton,PNMS South,S2,Holoplankton,Copepod,Copepoda,2
+PAL22_S2_3_S,Plankton,PNMS South,S2,Meroplankton,Polychaete,Polycheata,1
+PAL22_S2_3_S,Plankton,PNMS South,S2,Holoplankton,Copepod,Copepoda,31
+PAL22_S2_3_S,Plankton,PNMS South,S2,Holoplankton,Pteropod,Gastropoda,3
+PAL22_S2_3_S,Plankton,PNMS South,S2,Holoplankton,Isopod,Crustacea,1
+PAL22_S2_3_S,Plankton,PNMS South,S2,Holoplankton,Copepod,Copepoda,1116
+PAL22_S2_3_S,Plankton,PNMS South,S2,Meroplankton,Barnacle,Gastropoda,1
+PAL22_S2_3_S,Plankton,PNMS South,S2,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_S2_3_S,Plankton,PNMS South,S2,Meroplankton,Benthic_Snail,Gastropoda,13
+PAL22_S2_3_S,Plankton,PNMS South,S2,Meroplankton,Benthic_Snail,Gastropoda,88
+PAL22_S2_3_S,Plankton,PNMS South,S2,Holoplankton,Larvaceans,Other Gelatinous,13
+PAL22_S2_3_S,Plankton,PNMS South,S2,Holoplankton,Other Gelatinous,Other Gelatinous,564
+PAL22_S2_3_S,Plankton,PNMS South,S2,Holoplankton,Evadne,Crustacea,115
+PAL22_S2_3_S,Plankton,PNMS South,S2,Holoplankton,Chaetognath,Chaetognatha,2
+PAL22_S2_3_S,Plankton,PNMS South,S2,Holoplankton,Chaetognath,Chaetognatha,4
+PAL22_S2_3_S,Plankton,PNMS South,S2,Holoplankton,Copepod,Copepoda,1
+PAL22_S2_3_S,Plankton,PNMS South,S2,Holoplankton,Copepod,Copepoda,1
+PAL22_S2_3_S,Plankton,PNMS South,S2,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S2_3_S,Plankton,PNMS South,S2,Holoplankton,Amphipod,Crustacea,1
+PAL22_S2_3_S,Plankton,PNMS South,S2,Holoplankton,Amphipod,Crustacea,5
+PAL22_S2_3_S,Plankton,PNMS South,S2,Holoplankton,Amphipod,Crustacea,2
+PAL22_S2_3_S,Plankton,PNMS South,S2,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S2_3_S,Plankton,PNMS South,S2,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S2_3_S,Plankton,PNMS South,S2,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S2_3_S,Plankton,PNMS South,S2,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S2_3_S,Plankton,PNMS South,S2,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_S2_3_S,Plankton,PNMS South,S2,Meroplankton,Benthic_Snail,Gastropoda,3
+PAL22_S2_3_S,Plankton,PNMS South,S2,Meroplankton,Benthic_Snail,Gastropoda,201
+PAL22_S2_3_S,Plankton,PNMS South,S2,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S2_3_S,Plankton,PNMS South,S2,Meroplankton,Bivalve,Bivalvia,1
+PAL22_S2_3_S,Plankton,PNMS South,S2,Meroplankton,Cnidaria,Cnidaria,2
+PAL22_S2_3_S,Plankton,PNMS South,S2,Holoplankton,Copepod,Copepoda,23
+PAL22_S2_3_S,Plankton,PNMS South,S2,Holoplankton,Copepod,Copepoda,8
+PAL22_S2_3_S,Plankton,PNMS South,S2,Holoplankton,Copepod,Copepoda,7
+PAL22_S2_3_S,Plankton,PNMS South,S2,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_S2_3_S,Plankton,PNMS South,S2,Holoplankton,Fish,Fish embryo/egg,93
+PAL22_S2_3_S,Plankton,PNMS South,S2,Holoplankton,Fish,Fish embryo/egg,10
+PAL22_S2_3_S,Plankton,PNMS South,S2,Holoplankton,Fish,Fish embryo/egg,5
+PAL22_S2_3_S,Plankton,PNMS South,S2,Holoplankton,Fish,Fish embryo/egg,4
+PAL22_S2_3_S,Plankton,PNMS South,S2,Holoplankton,Huge_Hairy_Egg,Fish embryo/egg,6
+PAL22_S2_3_S,Plankton,PNMS South,S2,Holoplankton,Jelly,Other gelatinous,1
+PAL22_S2_3_S,Plankton,PNMS South,S2,Holoplankton,Ostracod,Crustacea,1
+PAL22_S2_3_S,Plankton,PNMS South,S2,Meroplankton,Platyhelminth,Platyhelminthes,1
+PAL22_S2_3_S,Plankton,PNMS South,S2,Meroplankton,Polychaete,Polychaeta,1
+PAL22_S2_3_S,Plankton,PNMS South,S2,Meroplankton,Polychaete,Polychaeta,1
+PAL22_S2_3_S,Plankton,PNMS South,S2,Meroplankton,Polychaete,Polychaeta,1
+PAL22_S2_3_S,Plankton,PNMS South,S2,Holoplankton,Polychaete,Polychaeta,2
+PAL22_S2_3_S,Plankton,PNMS South,S2,Holoplankton,Pteropod,Gastropoda,2
+PAL22_S2_3_S,Plankton,PNMS South,S2,Holoplankton,Pteropod,Gastropoda,1
+PAL22_S2_3_S,Plankton,PNMS South,S2,Holoplankton,Pteropod,Gastropoda,1
+PAL22_S2_3_S,Plankton,PNMS South,S2,Holoplankton,Pteropod,Gastropoda,4
+PAL22_S2_3_S,Plankton,PNMS South,S2,Holoplankton,Pteropod,Gastropoda,6
+PAL22_S2_3_S,Plankton,PNMS South,S2,Holoplankton,Salp,Other gelatinous,1
+PAL22_S2_3_S,Plankton,PNMS South,S2,Meroplankton,Sipunculan,Sipuncula,1
+PAL22_S2_3_S,Plankton,PNMS South,S2,Meroplankton,Sipunculan,Sipuncula,2
+PAL22_S3_2_S,Plankton,PNMS South,S3,Meroplankton,Sipunculan,Sipuncula,1
+PAL22_S3_2_S,Plankton,PNMS South,S3,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S3_2_S,Plankton,PNMS South,S3,Holoplankton,Copepod,Copepoda,1
+PAL22_S3_2_S,Plankton,PNMS South,S3,Holoplankton,Copepod,Copepoda,4
+PAL22_S3_2_S,Plankton,PNMS South,S3,Meroplankton,Polychaete,Polycheata,1
+PAL22_S3_2_S,Plankton,PNMS South,S3,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_S3_2_S,Plankton,PNMS South,S3,Holoplankton,Copepod,Copepoda,88
+PAL22_S3_2_S,Plankton,PNMS South,S3,Holoplankton,Pteropod,Gastropoda,2
+PAL22_S3_2_S,Plankton,PNMS South,S3,Holoplankton,Isopod,Crustacea,3
+PAL22_S3_2_S,Plankton,PNMS South,S3,Holoplankton,Copepod,Copepoda,2384
+PAL22_S3_2_S,Plankton,PNMS South,S3,Meroplankton,Barnacle,Gastropoda,5
+PAL22_S3_2_S,Plankton,PNMS South,S3,Holoplankton,Pteropod,Gastropoda,4
+PAL22_S3_2_S,Plankton,PNMS South,S3,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S3_2_S,Plankton,PNMS South,S3,Meroplankton,Benthic_Snail,Gastropoda,9
+PAL22_S3_2_S,Plankton,PNMS South,S3,Meroplankton,Benthic_Snail,Gastropoda,17
+PAL22_S3_2_S,Plankton,PNMS South,S3,Holoplankton,Larvaceans,Other Gelatinous,11
+PAL22_S3_2_S,Plankton,PNMS South,S3,Holoplankton,Other Gelatinous,Other Gelatinous,58
+PAL22_S3_2_S,Plankton,PNMS South,S3,Holoplankton,Copepod,Copepoda,1
+PAL22_S3_2_S,Plankton,PNMS South,S3,Holoplankton,Evadne,Crustacea,7
+PAL22_S3_2_S,Plankton,PNMS South,S3,Holoplankton,Chaetognath,Chaetognatha,3
+PAL22_S3_2_S,Plankton,PNMS South,S3,Holoplankton,Chaetognath,Chaetognatha,1
+PAL22_S3_2_S,Plankton,PNMS South,S3,Holoplankton,Copepod,Copepoda,2
+PAL22_S3_2_S,Plankton,PNMS South,S3,Holoplankton,Shrimp,Malacostraca,4
+PAL22_S3_2_S,Plankton,PNMS South,S3,Holoplankton,Amphipod,Crustacea,1
+PAL22_S3_2_S,Plankton,PNMS South,S3,Holoplankton,Amphipod,Crustacea,3
+PAL22_S3_2_S,Plankton,PNMS South,S3,Meroplankton,Barnacle,Crustacea,1
+PAL22_S3_2_S,Plankton,PNMS South,S3,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S3_2_S,Plankton,PNMS South,S3,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S3_2_S,Plankton,PNMS South,S3,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S3_2_S,Plankton,PNMS South,S3,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S3_2_S,Plankton,PNMS South,S3,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S3_2_S,Plankton,PNMS South,S3,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_S3_2_S,Plankton,PNMS South,S3,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S3_2_S,Plankton,PNMS South,S3,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_S3_2_S,Plankton,PNMS South,S3,Meroplankton,Benthic_Snail,Gastropoda,440
+PAL22_S3_2_S,Plankton,PNMS South,S3,Meroplankton,Bivalve,Bivalvia,1
+PAL22_S3_2_S,Plankton,PNMS South,S3,Meroplankton,Bivalve,Bivalvia,1
+PAL22_S3_2_S,Plankton,PNMS South,S3,Meroplankton,Cnidaria,Cnidaria,25
+PAL22_S3_2_S,Plankton,PNMS South,S3,Holoplankton,Copepod,Copepoda,2
+PAL22_S3_2_S,Plankton,PNMS South,S3,Holoplankton,Copepod,Copepoda,18
+PAL22_S3_2_S,Plankton,PNMS South,S3,Holoplankton,Copepod,Copepoda,55
+PAL22_S3_2_S,Plankton,PNMS South,S3,Meroplankton,Crab,Crustacea,1
+PAL22_S3_2_S,Plankton,PNMS South,S3,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_S3_2_S,Plankton,PNMS South,S3,Holoplankton,Fish,Fish embryo/egg,105
+PAL22_S3_2_S,Plankton,PNMS South,S3,Holoplankton,Fish,Fish embryo/egg,5
+PAL22_S3_2_S,Plankton,PNMS South,S3,Holoplankton,Fish,Fish embryo/egg,25
+PAL22_S3_2_S,Plankton,PNMS South,S3,Holoplankton,Fish,Fish embryo/egg,3
+PAL22_S3_2_S,Plankton,PNMS South,S3,Holoplankton,Ostracod,Crustacea,1
+PAL22_S3_2_S,Plankton,PNMS South,S3,Meroplankton,Platyhelminth,Platyhelminthes,1
+PAL22_S3_2_S,Plankton,PNMS South,S3,Meroplankton,Polychaete,Polychaeta,1
+PAL22_S3_2_S,Plankton,PNMS South,S3,Meroplankton,Polychaete,Polychaeta,1
+PAL22_S3_2_S,Plankton,PNMS South,S3,Holoplankton,Polychaete,Polychaeta,2
+PAL22_S3_2_S,Plankton,PNMS South,S3,Holoplankton,Pteropod,Gastropoda,1
+PAL22_S3_2_S,Plankton,PNMS South,S3,Holoplankton,Pteropod,Gastropoda,6
+PAL22_S3_2_S,Plankton,PNMS South,S3,Holoplankton,Pteropod,Gastropoda,4
+PAL22_S3_2_S,Plankton,PNMS South,S3,Holoplankton,Pteropod,Gastropoda,2
+PAL22_S3_2_S,Plankton,PNMS South,S3,Holoplankton,Pteropod,Gastropoda,11
+PAL22_S3_2_S,Plankton,PNMS South,S3,Holoplankton,Shrimp,Malacostraca,3
+PAL22_S3_2_S,Plankton,PNMS South,S3,Holoplankton,Shrimp,Malacostraca,2
+PAL22_S3_3_S,Plankton,PNMS South,S3,Meroplankton,Benthic_Snail,Gastropoda,7
+PAL22_S3_3_S,Plankton,PNMS South,S3,Holoplankton,Copepod,Copepoda,1
+PAL22_S3_3_S,Plankton,PNMS South,S3,Holoplankton,Copepod,Copepoda,2
+PAL22_S3_3_S,Plankton,PNMS South,S3,Holoplankton,Copepod,Copepoda,34
+PAL22_S3_3_S,Plankton,PNMS South,S3,Holoplankton,Pteropod,Gastropoda,1
+PAL22_S3_3_S,Plankton,PNMS South,S3,Holoplankton,Copepod,Copepoda,1
+PAL22_S3_3_S,Plankton,PNMS South,S3,Holoplankton,Copepod,Copepoda,3504
+PAL22_S3_3_S,Plankton,PNMS South,S3,Meroplankton,Barnacle,Gastropoda,1
+PAL22_S3_3_S,Plankton,PNMS South,S3,Meroplankton,Benthic_Snail,Gastropoda,3
+PAL22_S3_3_S,Plankton,PNMS South,S3,Meroplankton,Benthic_Snail,Gastropoda,4
+PAL22_S3_3_S,Plankton,PNMS South,S3,Meroplankton,Benthic_Snail,Gastropoda,40
+PAL22_S3_3_S,Plankton,PNMS South,S3,Holoplankton,Larvaceans,Other Gelatinous,2
+PAL22_S3_3_S,Plankton,PNMS South,S3,Holoplankton,Other Gelatinous,Other Gelatinous,240
+PAL22_S3_3_S,Plankton,PNMS South,S3,Holoplankton,Evadne,Crustacea,10
+PAL22_S3_3_S,Plankton,PNMS South,S3,Holoplankton,Chaetognath,Chaetognatha,2
+PAL22_S3_3_S,Plankton,PNMS South,S3,Holoplankton,Chaetognath,Chaetognatha,1
+PAL22_S3_3_S,Plankton,PNMS South,S3,Holoplankton,Copepod,Copepoda,1
+PAL22_S3_3_S,Plankton,PNMS South,S3,Holoplankton,Amphipod,Crustacea,2
+PAL22_S3_3_S,Plankton,PNMS South,S3,Holoplankton,Amphipod,Crustacea,1
+PAL22_S3_3_S,Plankton,PNMS South,S3,Meroplankton,Barnacle,Crustacea,1
+PAL22_S3_3_S,Plankton,PNMS South,S3,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S3_3_S,Plankton,PNMS South,S3,Meroplankton,Benthic_Snail,Gastropoda,3
+PAL22_S3_3_S,Plankton,PNMS South,S3,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S3_3_S,Plankton,PNMS South,S3,Meroplankton,Benthic_Snail,Gastropoda,7
+PAL22_S3_3_S,Plankton,PNMS South,S3,Meroplankton,Benthic_Snail,Gastropoda,710
+PAL22_S3_3_S,Plankton,PNMS South,S3,Meroplankton,Cnidaria,Cnidaria,11
+PAL22_S3_3_S,Plankton,PNMS South,S3,Meroplankton,Cnidaria,Cnidaria,2
+PAL22_S3_3_S,Plankton,PNMS South,S3,Meroplankton,Cnidaria,Cnidaria,6
+PAL22_S3_3_S,Plankton,PNMS South,S3,Holoplankton,Copepod,Copepoda,11
+PAL22_S3_3_S,Plankton,PNMS South,S3,Holoplankton,Copepod,Copepoda,9
+PAL22_S3_3_S,Plankton,PNMS South,S3,Holoplankton,Copepod,Copepoda,4
+PAL22_S3_3_S,Plankton,PNMS South,S3,Meroplankton,Crab,Crustacea,1
+PAL22_S3_3_S,Plankton,PNMS South,S3,Holoplankton,Embryo,Fish embryo/egg,1
+PAL22_S3_3_S,Plankton,PNMS South,S3,Holoplankton,Fish,Fish embryo/egg,34
+PAL22_S3_3_S,Plankton,PNMS South,S3,Holoplankton,Fish,Fish embryo/egg,5
+PAL22_S3_3_S,Plankton,PNMS South,S3,Holoplankton,Fish,Fish embryo/egg,20
+PAL22_S3_3_S,Plankton,PNMS South,S3,Holoplankton,Huge_Hairy_Egg,Fish embryo/egg,2
+PAL22_S3_3_S,Plankton,PNMS South,S3,Holoplankton,Isopod,Crustacea,6
+PAL22_S3_3_S,Plankton,PNMS South,S3,Holoplankton,Jelly,Other gelatinous,1
+PAL22_S3_3_S,Plankton,PNMS South,S3,Meroplankton,Limpet,Gastropoda,1
+PAL22_S3_3_S,Plankton,PNMS South,S3,Meroplankton,Nudibranch,Gastropoda,1
+PAL22_S3_3_S,Plankton,PNMS South,S3,Meroplankton,Nudibranch,Gastropoda,1
+PAL22_S3_3_S,Plankton,PNMS South,S3,Meroplankton,Platyhelminth,Platyhelminthes,1
+PAL22_S3_3_S,Plankton,PNMS South,S3,Meroplankton,Platyhelminth,Platyhelminthes,1
+PAL22_S3_3_S,Plankton,PNMS South,S3,Meroplankton,Polychaete,Polychaeta,1
+PAL22_S3_3_S,Plankton,PNMS South,S3,Meroplankton,Polychaete,Polychaeta,1
+PAL22_S3_3_S,Plankton,PNMS South,S3,Meroplankton,Polychaete,Polychaeta,2
+PAL22_S3_3_S,Plankton,PNMS South,S3,Meroplankton,Polychaete,Polychaeta,1
+PAL22_S3_3_S,Plankton,PNMS South,S3,Holoplankton,Polychaete,Polychaeta,3
+PAL22_S3_3_S,Plankton,PNMS South,S3,Meroplankton,Polychaete,Polychaeta,1
+PAL22_S3_3_S,Plankton,PNMS South,S3,Holoplankton,Pteropod,Gastropoda,1
+PAL22_S3_3_S,Plankton,PNMS South,S3,Holoplankton,Shrimp,Malacostraca,1
+PAL22_S3_3_S,Plankton,PNMS South,S3,Holoplankton,Shrimp,Malacostraca,1
+PAL22_S3_3_S,Plankton,PNMS South,S3,Meroplankton,Sipunculan,Sipuncula,4
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Cnidaria,Cnidaria,1
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Sipunculan,Sipuncula,2
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,26
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Copepod,Copepoda,260
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Copepod,Copepoda,7
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Copepod,Copepoda,2624
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Pteropod,Gastropoda,31
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Pteropod,Gastropoda,29
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Pteropod,Gastropoda,2
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Copepod,Copepoda,2752
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Barnacle,Gastropoda,5
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Pteropod,Gastropoda,45
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,8
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,78
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,3
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,71
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Larvaceans,Other Gelatinous,824
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Other Gelatinous,Other Gelatinous,1280
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Crab,Crustacea,1
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Evadne,Crustacea,1568
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Chaetognath,Chaetognatha,170
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Chaetognath,Chaetognatha,140
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Copepod,Copepoda,30
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Copepod,Copepoda,18
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Copepod,Copepoda,18
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Krill,Malacostraca,106
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Krill,Malacostraca,40
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Amphipod,Crustacea,2
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Amphipod,Crustacea,1
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Amphipod,Crustacea,4
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Amphipod,Crustacea,3
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Ascidean_Tadpole,Other Gelatinous,17
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,3
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,3
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,36
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,5
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,6
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,9
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,22
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,66
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,9
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Bivalve,Bivalvia,4
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Bivalve,Bivalvia,2
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Bivalve,Bivalvia,2
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Cnidaria,Cnidaria,1
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Copepod,Copepoda,5
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Copepod,Copepoda,4
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Copepod,Copepoda,7
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Copepod,Copepoda,632
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Crab,Crustacea,1
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Crab,Crustacea,1
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Embryo,Fish embryo/egg,1
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Embryo,Fish embryo/egg,1
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Embryo,Fish embryo/egg,3
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Fish,Fish embryo/egg,348
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Fish,Fish embryo/egg,3
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Fish,Fish embryo/egg,15
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Fish,Fish embryo/egg,1
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Jelly,Other gelatinous,8
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Jelly,Other gelatinous,2
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Jelly,Other gelatinous,1
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Krill,Malacostraca,2
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Limpet,Gastropoda,5
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Nudibranch,Gastropoda,2
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Nudibranch,Gastropoda,71
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Nudibranch,Gastropoda,2
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Ostracod,Crustacea,4
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Ostracod,Crustacea,2
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Platyhelminth,Platyhelminthes,1
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Polychaete,Polychaeta,1
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Polychaete,Polychaeta,1
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Polychaete,Polychaeta,1
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Polychaete,Polychaeta,3
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Polychaete,Polychaeta,1
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Polychaete,Polychaeta,3
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Polychaete,Polychaeta,1
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Pteropod,Gastropoda,5
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Pteropod,Gastropoda,5
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Pteropod,Gastropoda,4
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Pteropod,Gastropoda,7
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Pteropod,Gastropoda,11
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Pteropod,Gastropoda,25
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Pteropod,Gastropoda,9
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Pteropod,Gastropoda,15
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Pteropod,Gastropoda,1
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Pteropod,Gastropoda,2
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Shrimp,Malacostraca,5
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Shrimp,Malacostraca,24
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Shrimp,Malacostraca,8
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Shrimp,Malacostraca,3
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Shrimp,Malacostraca,1
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Shrimp,Malacostraca,2
+PAL22_S4_1_S,Plankton,PNMS South,S4,Holoplankton,Shrimp,Malacostraca,1
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Sipunculan,Sipuncula,1
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Sipunculan,Sipuncula,1
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Sipunculan,Sipuncula,4
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Sipunculan,Sipuncula,1
+PAL22_S4_1_S,Plankton,PNMS South,S4,Meroplankton,Sipunculan,Sipuncula,1
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,46
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Copepod,Copepoda,162
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Copepod,Copepoda,1
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Polychaete,Polycheata,3
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Echinoderm,Echinodermata,2
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Copepod,Copepoda,368
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Pteropod,Gastropoda,2
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Pteropod,Gastropoda,39
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Copepod,Copepoda,1
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Pteropod,Gastropoda,1
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Copepod,Copepoda,2672
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Barnacle,Gastropoda,1
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Pteropod,Gastropoda,12
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,6
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,85
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,118
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Larvaceans,Other Gelatinous,1248
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Other Gelatinous,Other Gelatinous,286
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Evadne,Crustacea,4464
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Chaetognath,Chaetognatha,111
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Chaetognath,Chaetognatha,103
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Copepod,Copepoda,21
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Krill,Malacostraca,47
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Krill,Malacostraca,73
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Amphipod,Crustacea,1
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Amphipod,Crustacea,7
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Ascidean_Tadpole,Other Gelatinous,3
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,3
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,3
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,4
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,4
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,3
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,9
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,5
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,45
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,151
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Benthic_Snail,Gastropoda,10
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Bivalve,Bivalvia,10
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Bivalve,Bivalvia,1
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Copepod,Copepoda,41
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Copepod,Copepoda,31
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Copepod,Copepoda,234
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Crab,Crustacea,6
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Embryo,Fish embryo/egg,1
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Embryo,Fish embryo/egg,1
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Fish,Fish embryo/egg,328
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Fish,Fish embryo/egg,9
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Fish,Fish embryo/egg,308
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Fish,Fish embryo/egg,1
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Jelly,Other gelatinous,9
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Jelly,Other gelatinous,2
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Nudibranch,Gastropoda,9
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Ostracod,Crustacea,1
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Polychaete,Polychaeta,1
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Polychaete,Polychaeta,2
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Polychaete,Polychaeta,1
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Polychaete,Polychaeta,1
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Polychaete,Polychaeta,3
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Polychaete,Polychaeta,1
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Polychaete,Polychaeta,1
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Polychaete,Polychaeta,2
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Pteropod,Gastropoda,1
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Pteropod,Gastropoda,6
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Pteropod,Gastropoda,1
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Pteropod,Gastropoda,4
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Pteropod,Gastropoda,4
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Pteropod,Gastropoda,2
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Pteropod,Gastropoda,45
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Pteropod,Gastropoda,4
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Salp,Other gelatinous,18
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Shrimp,Malacostraca,23
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Shrimp,Malacostraca,10
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Shrimp,Malacostraca,7
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Shrimp,Malacostraca,2
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Shrimp,Malacostraca,2
+PAL22_S4_2_S,Plankton,PNMS South,S4,Holoplankton,Shrimp,Malacostraca,1
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Sipunculan,Sipuncula,1
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Sipunculan,Sipuncula,1
+PAL22_S4_2_S,Plankton,PNMS South,S4,Meroplankton,Sipunculan,Sipuncula,4
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Cnidaria,Cnidaria,8
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Sipunculan,Sipuncula,5
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,6
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Copepod,Copepoda,75
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Copepod,Copepoda,2
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Copepod,Copepoda,1360
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,19
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,53
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,62
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Copepod,Copepoda,2
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,69
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Copepod,Copepoda,2784
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Barnacle,Gastropoda,8
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,47
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,188
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,95
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Other Gelatinous,Other Gelatinous,832
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Copepod,Copepoda,1
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Evadne,Crustacea,960
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Chaetognath,Chaetognatha,552
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Chaetognath,Chaetognatha,79
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Copepod,Copepoda,28
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Copepod,Copepoda,5
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Copepod,Copepoda,9
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Krill,Malacostraca,20
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Krill,Malacostraca,16
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Amphipod,Crustacea,1
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Amphipod,Crustacea,2
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Amphipod,Crustacea,1
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Amphipod,Crustacea,6
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Amphipod,Crustacea,1
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Amphipod,Crustacea,10
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Amphipod,Crustacea,2
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Amphipod,Crustacea,1
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Amphipod,Crustacea,8
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Amphipod,Crustacea,4
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Ascidean_Tadpole,Other Gelatinous,7
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,7
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,4
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,10
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,7
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,3
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,11
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,40
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,18
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,3
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,32
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,14
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,29
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,43
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,15
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Bivalve,Bivalvia,17
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Bivalve,Bivalvia,4
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Bivalve,Bivalvia,4
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Bivalve,Bivalvia,1
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Bivalve,Bivalvia,4
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Cnidaria,Cnidaria,1
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Copepod,Copepoda,24
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Copepod,Copepoda,12
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Copepod,Copepoda,336
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Crab,Crustacea,1
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Crab,Crustacea,1
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Echinoderm,Echinodermata,2
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Echinoderm,Echinodermata,6
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Embryo,Fish embryo/egg,3
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Embryo,Fish embryo/egg,1
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Embryo,Fish embryo/egg,1
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Fish,Fish embryo/egg,41
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Fish,Fish embryo/egg,41
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Fish,Fish embryo/egg,3
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Fish,Fish embryo/egg,2
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Jelly,Other gelatinous,2
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Limpet,Gastropoda,8
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Nudibranch,Gastropoda,1
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Nudibranch,Gastropoda,58
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Nudibranch,Gastropoda,2
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Platyhelminth,Platyhelminthes,2
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Polychaete,Polychaeta,1
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Polychaete,Polychaeta,3
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,16
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,4
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,16
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,2
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,62
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,58
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,11
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,4
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,1
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,19
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,16
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,53
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,1
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Shrimp,Malacostraca,4
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Shrimp,Malacostraca,1
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Shrimp,Malacostraca,32
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Shrimp,Malacostraca,6
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Shrimp,Malacostraca,14
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Shrimp,Malacostraca,3
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Shrimp,Malacostraca,1
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Shrimp,Malacostraca,1
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Shrimp,Malacostraca,2
+PAL22_W1_1_S,Plankton,DFZ West,W1,Holoplankton,Shrimp,Malacostraca,1
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Sipunculan,Sipuncula,2
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Sipunculan,Sipuncula,2
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Sipunculan,Sipuncula,1
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Sipunculan,Sipuncula,3
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Sipunculan,Sipuncula,6
+PAL22_W1_1_S,Plankton,DFZ West,W1,Meroplankton,Stomatopod,Crustacea,1
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Sipunculan,Sipuncula,2
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,10
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Copepod,Copepoda,118
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Copepod,Copepoda,2
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Polychaete,Polycheata,5
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Echinoderm,Echinodermata,5
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Copepod,Copepoda,190
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,5
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,13
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,60
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Echinoderm,Echinodermata,7
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,11
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Copepod,Copepoda,1448
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Barnacle,Gastropoda,12
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,27
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,232
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,3
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,25
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Larvaceans,Other Gelatinous,412
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Other Gelatinous,Other Gelatinous,1052
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Evadne,Crustacea,3338
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Chaetognath,Chaetognatha,234
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Chaetognath,Chaetognatha,68
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Copepod,Copepoda,11
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Copepod,Copepoda,2
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Copepod,Copepoda,1
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Krill,Malacostraca,12
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Shrimp,Malacostraca,8
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Amphipod,Crustacea,4
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Amphipod,Crustacea,5
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Amphipod,Crustacea,2
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Amphipod,Crustacea,49
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Amphipod,Crustacea,3
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Ascidean_Tadpole,Other Gelatinous,5
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,4
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,8
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,3
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,9
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,5
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,14
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,18
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,36
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Bivalve,Bivalvia,6
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Bivalve,Bivalvia,1
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Bivalve,Bivalvia,1
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Cnidaria,Cnidaria,3
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Copepod,Copepoda,24
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Copepod,Copepoda,3
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Copepod,Copepoda,60
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Crab,Crustacea,4
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Crab,Crustacea,2
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Embryo,Fish embryo/egg,6
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Fish,Fish embryo/egg,30
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Fish,Fish embryo/egg,3
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Fish,Fish embryo/egg,39
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Fish,Fish embryo/egg,3
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Limpet,Gastropoda,1
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Nudibranch,Gastropoda,10
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Nudibranch,Gastropoda,1
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Polychaete,Polychaeta,1
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Polychaete,Polychaeta,1
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Polychaete,Polychaeta,1
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Polychaete,Polychaeta,1
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Polychaete,Polychaeta,1
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Polychaete,Polychaeta,1
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Polychaete,Polychaeta,1
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Polychaete,Polychaeta,1
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Polychaete,Polychaeta,2
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Polychaete,Polychaeta,2
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Polychaete,Polychaeta,4
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,1
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,8
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,5
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,2
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,16
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,49
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,25
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,3
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,5
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,12
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,54
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,2
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,1
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Pteropod,Gastropoda,3
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Shrimp,Malacostraca,2
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Shrimp,Malacostraca,75
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Shrimp,Malacostraca,61
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Shrimp,Malacostraca,1
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Shrimp,Malacostraca,3
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Shrimp,Malacostraca,2
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Shrimp,Malacostraca,9
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Shrimp,Malacostraca,3
+PAL22_W1_2_S,Plankton,DFZ West,W1,Holoplankton,Shrimp,Malacostraca,2
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Sipunculan,Sipuncula,1
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Sipunculan,Sipuncula,3
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Sipunculan,Sipuncula,2
+PAL22_W1_2_S,Plankton,DFZ West,W1,Meroplankton,Sipunculan,Sipuncula,2
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Cnidaria,Cnidaria,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Sipunculan,Sipuncula,5
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Benthic_Snail,Gastropoda,5
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Copepod,Copepoda,13
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Copepod,Copepoda,10
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Polychaete,Polycheata,2
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Copepod,Copepoda,1488
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Pteropod,Gastropoda,3
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Pteropod,Gastropoda,15
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Pteropod,Gastropoda,19
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Echinoderm,Echinodermata,4
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Isopod,Crustacea,4
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Copepod,Copepoda,3872
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Barnacle,Gastropoda,71
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Pteropod,Gastropoda,70
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Benthic_Snail,Gastropoda,684
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Benthic_Snail,Gastropoda,25
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Larvaceans,Other Gelatinous,6
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Other Gelatinous,Other Gelatinous,1920
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Copepod,Copepoda,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Evadne,Crustacea,1088
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Chaetognath,Chaetognatha,200
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Chaetognath,Chaetognatha,31
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Copepod,Copepoda,5
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Copepod,Copepoda,22
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Copepod,Copepoda,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Krill,Malacostraca,2
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Amphipod,Crustacea,2
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Amphipod,Crustacea,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Amphipod,Crustacea,18
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Amphipod,Crustacea,4
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Amphipod,Crustacea,2
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Amphipod,Crustacea,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Amphipod,Crustacea,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Amphipod,Crustacea,29
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Amphipod,Crustacea,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Ascidean_Tadpole,Other Gelatinous,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Ascidean_Tadpole,Other Gelatinous,9
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Barnacle,Crustacea,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Benthic_Snail,Gastropoda,3
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Benthic_Snail,Gastropoda,4
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Benthic_Snail,Gastropoda,48
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Benthic_Snail,Gastropoda,4
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Benthic_Snail,Gastropoda,412
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Bivalve,Bivalvia,2
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Cnidaria,Cnidaria,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Cnidaria,Cnidaria,36
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Cnidaria,Cnidaria,42
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Copepod,Copepoda,18
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Copepod,Copepoda,3
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Copepod,Copepoda,14
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Copepod,Copepoda,168
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Fish,Fish embryo/egg,30
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Fish,Fish embryo/egg,5
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Fish,Fish embryo/egg,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Fish,Fish embryo/egg,5
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Fish,Fish embryo/egg,3
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Huge_Hairy_Egg,Fish embryo/egg,2
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Jelly,Other gelatinous,3
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Krill,Malacostraca,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Krill,Malacostraca,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Limpet,Gastropoda,6
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Nudibranch,Gastropoda,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Nudibranch,Gastropoda,49
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Nudibranch,Gastropoda,10
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Nudibranch,Gastropoda,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Ostracod,Crustacea,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Platyhelminth,Platyhelminthes,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Platyhelminth,Platyhelminthes,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Platyhelminth,Platyhelminthes,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Polychaete,Polychaeta,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Polychaete,Polychaeta,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Polychaete,Polychaeta,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Pteropod,Gastropoda,32
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Pteropod,Gastropoda,8
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Pteropod,Gastropoda,3
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Pteropod,Gastropoda,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Pteropod,Gastropoda,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Pteropod,Gastropoda,38
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Pteropod,Gastropoda,7
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Pteropod,Gastropoda,29
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Pteropod,Gastropoda,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Pteropod,Gastropoda,18
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Pteropod,Gastropoda,16
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Pteropod,Gastropoda,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Salp,Other gelatinous,2
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Shrimp,Malacostraca,44
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Shrimp,Malacostraca,2
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Shrimp,Malacostraca,18
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Shrimp,Malacostraca,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Shrimp,Malacostraca,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Shrimp,Malacostraca,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Shrimp,Malacostraca,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Shrimp,Malacostraca,3
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Shrimp,Malacostraca,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Shrimp,Malacostraca,5
+PAL22_W3_1_S,Plankton,DFZ West,W3,Holoplankton,Shrimp,Malacostraca,1
+PAL22_W3_1_S,Plankton,DFZ West,W3,Meroplankton,Sipunculan,Sipuncula,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Cnidaria,Cnidaria,4
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Sipunculan,Sipuncula,84
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,9
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,41
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Copepod,Copepoda,40
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Copepod,Copepoda,18
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Polychaete,Polycheata,24
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Echinoderm,Echinodermata,10
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Copepod,Copepoda,1176
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,11
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,70
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,54
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Echinoderm,Echinodermata,12
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Copepod,Copepoda,2
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,4
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Isopod,Crustacea,2
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Copepod,Copepoda,31744
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Barnacle,Gastropoda,32
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,122
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,25
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,262
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,23
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,536
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Other Gelatinous,Other Gelatinous,1328
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Copepod,Copepoda,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Evadne,Crustacea,266
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Chaetognath,Chaetognatha,736
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Chaetognath,Chaetognatha,156
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Copepod,Copepoda,41
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Copepod,Copepoda,11
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Copepod,Copepoda,43
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Krill,Malacostraca,3
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Krill,Malacostraca,3
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,3
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Amphipod,Crustacea,6
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Amphipod,Crustacea,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Amphipod,Crustacea,4
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Amphipod,Crustacea,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Amphipod,Crustacea,24
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Amphipod,Crustacea,8
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Ascidean_Tadpole,Other Gelatinous,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Barnacle,Crustacea,3
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,3
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,75
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,20
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,16
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,26
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,42
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,6
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,47
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,6
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,17
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,14
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,5
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,408
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,61
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,5
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,7
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,18
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,3
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,4
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,6
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,64
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,6
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,7
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,13
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,9
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,568
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,4
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,19
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,4
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,10
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,8
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,19
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,184
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,420
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,4
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,14
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,5
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,33
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Bivalve,Bivalvia,23
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Bivalve,Bivalvia,12
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Bivalve,Bivalvia,42
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Bivalve,Bivalvia,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Bivalve,Bivalvia,3
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Bivalve,Bivalvia,11
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Bivalve,Bivalvia,14
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Cnidaria,Cnidaria,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Copepod,Copepoda,178
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Copepod,Copepoda,2
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Copepod,Copepoda,11
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Copepod,Copepoda,254
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Crab,Crustacea,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Echinoderm,Echinodermata,54
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Echinoderm,Echinodermata,2
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Echinoderm,Echinodermata,2
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Echinoderm,Echinodermata,6
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Echinoderm,Echinodermata,2
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Echinoderm,Echinodermata,4
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Echinoderm,Echinodermata,2
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Echinoderm,Echinodermata,4
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Embryo,Fish embryo/egg,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Embryo,Fish embryo/egg,6
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Embryo,Fish embryo/egg,6
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Embryo,Fish embryo/egg,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Fish,Fish embryo/egg,81
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Fish,Fish embryo/egg,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Fish,Fish embryo/egg,2
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Fish,Fish embryo/egg,5
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Huge_Hairy_Egg,Fish embryo/egg,3
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Jelly,Other gelatinous,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Jelly,Other gelatinous,7
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Krill,Malacostraca,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Krill,Malacostraca,2
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Limpet,Gastropoda,24
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Nudibranch,Gastropoda,4
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Nudibranch,Gastropoda,20
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Nudibranch,Gastropoda,2
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Nudibranch,Gastropoda,161
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Nudibranch,Gastropoda,73
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Nudibranch,Gastropoda,14
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Nudibranch,Gastropoda,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Ostracod,Crustacea,6
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Platyhelminth,Platyhelminthes,3
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Polychaete,Polychaeta,5
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Polychaete,Polychaeta,2
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Polychaete,Polychaeta,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Polychaete,Polychaeta,2
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Polychaete,Polychaeta,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Polychaete,Polychaeta,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Polychaete,Polychaeta,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Polychaete,Polychaeta,5
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Polychaete,Polychaeta,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Polychaete,Polychaeta,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Polychaete,Polychaeta,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Polychaete,Polychaeta,27
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Polychaete,Polychaeta,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Polychaete,Polychaeta,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Polychaete,Polychaeta,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Polychaete,Polychaeta,10
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Polychaete,Polychaeta,3
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,52
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,21
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,2
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,3
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,12
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,19
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,8
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,6
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,12
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,28
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,6
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,16
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,11
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,6
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Shrimp,Malacostraca,14
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Shrimp,Malacostraca,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Shrimp,Malacostraca,10
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Shrimp,Malacostraca,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Shrimp,Malacostraca,10
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Shrimp,Malacostraca,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Holoplankton,Shrimp,Malacostraca,1
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Sipunculan,Sipuncula,5
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Sipunculan,Sipuncula,14
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Sipunculan,Sipuncula,13
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Sipunculan,Sipuncula,8
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Sipunculan,Sipuncula,6
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Sipunculan,Sipuncula,20
+PAL22_W4_1_S,Plankton,DFZ West,W4,Meroplankton,Sipunculan,Sipuncula,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Cnidaria,Cnidaria,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Sipunculan,Sipuncula,2
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,162
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Copepod,Copepoda,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Copepod,Copepoda,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Polychaete,Polycheata,5
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Copepod,Copepoda,30
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,7
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,6
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Copepod,Copepoda,12544
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Barnacle,Gastropoda,21
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,66
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,6
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,776
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,4
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,238
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Other Gelatinous,Other Gelatinous,336
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Evadne,Crustacea,532
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Chaetognath,Chaetognatha,23
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Chaetognath,Chaetognatha,31
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Copepod,Copepoda,6
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Copepod,Copepoda,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Copepod,Copepoda,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Krill,Malacostraca,4
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Krill,Malacostraca,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Amphipod,Crustacea,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Amphipod,Crustacea,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Amphipod,Crustacea,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Amphipod,Crustacea,7
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Amphipod,Crustacea,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Amphipod,Crustacea,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Barnacle,Crustacea,2
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,2
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,3
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,89
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,15
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,872
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Bivalve,Bivalvia,5
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Bivalve,Bivalvia,2
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Bivalve,Bivalvia,2
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Bivalve,Bivalvia,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Bivalve,Bivalvia,2
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Cnidaria,Cnidaria,2
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Copepod,Copepoda,11
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Copepod,Copepoda,38
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Copepod,Copepoda,50
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Echinoderm,Echinodermata,2
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Echinoderm,Echinodermata,3
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Echinoderm,Echinodermata,2
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Embryo,Fish embryo/egg,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Embryo,Fish embryo/egg,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Embryo,Fish embryo/egg,9
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Embryo,Fish embryo/egg,11
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Fish,Fish embryo/egg,26
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Fish,Fish embryo/egg,2
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Fish,Fish embryo/egg,2
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Huge_Hairy_Egg,Fish embryo/egg,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Jelly,Other gelatinous,3
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Jelly,Other gelatinous,4
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Jelly,Other gelatinous,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Limpet,Gastropoda,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Nudibranch,Gastropoda,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Nudibranch,Gastropoda,2
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Nudibranch,Gastropoda,2
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Nudibranch,Gastropoda,2
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Nudibranch,Gastropoda,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Ostracod,Crustacea,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Ostracod,Crustacea,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Platyhelminth,Platyhelminthes,3
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Platyhelminth,Platyhelminthes,2
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Polychaete,Polychaeta,2
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Polychaete,Polychaeta,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Polychaete,Polychaeta,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Polychaete,Polychaeta,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Meroplankton,Polychaete,Polychaeta,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,3
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,3
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,109
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,8
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,6
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,12
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,34
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,2
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Shrimp,Malacostraca,3
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Shrimp,Malacostraca,1
+PAL22_W4_2_S,Plankton,DFZ West,W4,Holoplankton,Shrimp,Malacostraca,2
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,10
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Polychaete,Polycheata,1
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Copepod,Copepoda,11
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,1
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Isopod,Crustacea,18
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Copepod,Copepoda,17024
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Barnacle,Gastropoda,30
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,5
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,163
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,84
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Larvaceans,Other Gelatinous,2
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Other Gelatinous,Other Gelatinous,73
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Evadne,Crustacea,73
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Chaetognath,Chaetognatha,5
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Chaetognath,Chaetognatha,4
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Copepod,Copepoda,1
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Amphipod,Crustacea,9
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Amphipod,Crustacea,8
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Amphipod,Crustacea,2
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Amphipod,Crustacea,2
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Amphipod,Crustacea,1
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Ascidean_Tadpole,Other Gelatinous,1
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Barnacle,Crustacea,9
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Barnacle,Crustacea,2
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,23
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,12
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Benthic_Snail,Gastropoda,9472
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Bivalve,Bivalvia,34
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Bivalve,Bivalvia,1
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Cnidaria,Cnidaria,98
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Cnidaria,Cnidaria,1
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Copepod,Copepoda,14
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Copepod,Copepoda,1
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Copepod,Copepoda,1
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Fish,Fish embryo/egg,6
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Fish,Fish embryo/egg,1
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Fish,Fish embryo/egg,5
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Fish,Fish embryo/egg,4
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Huge_Hairy_Egg,Fish embryo/egg,2
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Isopod,Crustacea,1
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Jelly,Other gelatinous,1
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Nudibranch,Gastropoda,1
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Nudibranch,Gastropoda,1
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Nudibranch,Gastropoda,1
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Nudibranch,Gastropoda,6
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Nudibranch,Gastropoda,1
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Nudibranch,Gastropoda,8
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Ostracod,Crustacea,1
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Ostracod,Crustacea,1
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Platyhelminth,Platyhelminthes,3
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Platyhelminth,Platyhelminthes,17
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Platyhelminth,Platyhelminthes,7
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Platyhelminth,Platyhelminthes,2
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Polychaete,Polychaeta,10
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Polychaete,Polychaeta,1
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Polychaete,Polychaeta,1
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Polychaete,Polychaeta,11
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Polychaete,Polychaeta,1
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Polychaete,Polychaeta,1
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Polychaete,Polychaeta,3
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Polychaete,Polychaeta,1
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Polychaete,Polychaeta,1
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,1
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,8
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,1
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,1
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Pteropod,Gastropoda,3
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Shrimp,Malacostraca,5
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Shrimp,Malacostraca,3
+PAL22_W4_3_S,Plankton,DFZ West,W4,Holoplankton,Shrimp,Malacostraca,3
+PAL22_W4_3_S,Plankton,DFZ West,W4,Meroplankton,Sipunculan,Sipuncula,1
+PAL22_WA_1_S,Plankton,DFZ West,W2,Meroplankton,Benthic_Snail,Gastropoda,4
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Copepod,Copepoda,3
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Copepod,Copepoda,3
+PAL22_WA_1_S,Plankton,DFZ West,W2,Meroplankton,Polychaete,Polycheata,1
+PAL22_WA_1_S,Plankton,DFZ West,W2,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Copepod,Copepoda,24
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Pteropod,Gastropoda,1
+PAL22_WA_1_S,Plankton,DFZ West,W2,Meroplankton,Echinoderm,Echinodermata,2
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Copepod,Copepoda,3
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Pteropod,Gastropoda,1
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Isopod,Crustacea,29
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Copepod,Copepoda,18816
+PAL22_WA_1_S,Plankton,DFZ West,W2,Meroplankton,Barnacle,Gastropoda,56
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Pteropod,Gastropoda,1
+PAL22_WA_1_S,Plankton,DFZ West,W2,Meroplankton,Benthic_Snail,Gastropoda,928
+PAL22_WA_1_S,Plankton,DFZ West,W2,Meroplankton,Benthic_Snail,Gastropoda,12
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Larvaceans,Other Gelatinous,21
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Other Gelatinous,Other Gelatinous,62
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Evadne,Crustacea,164
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Chaetognath,Chaetognatha,18
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Chaetognath,Chaetognatha,13
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Copepod,Copepoda,2
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Shrimp,Malacostraca,1
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Krill,Malacostraca,1
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Amphipod,Crustacea,2
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Amphipod,Crustacea,1
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Amphipod,Crustacea,31
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Amphipod,Crustacea,1
+PAL22_WA_1_S,Plankton,DFZ West,W2,Meroplankton,Barnacle,Crustacea,40
+PAL22_WA_1_S,Plankton,DFZ West,W2,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_WA_1_S,Plankton,DFZ West,W2,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_WA_1_S,Plankton,DFZ West,W2,Meroplankton,Benthic_Snail,Gastropoda,110
+PAL22_WA_1_S,Plankton,DFZ West,W2,Meroplankton,Bivalve,Bivalvia,1
+PAL22_WA_1_S,Plankton,DFZ West,W2,Meroplankton,Bivalve,Bivalvia,2
+PAL22_WA_1_S,Plankton,DFZ West,W2,Meroplankton,Cnidaria,Cnidaria,27
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Copepod,Copepoda,25
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Copepod,Copepoda,1
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Copepod,Copepoda,2
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Fish,Fish embryo/egg,5
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Fish,Fish embryo/egg,27
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Fish,Fish embryo/egg,5
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Fish,Fish embryo/egg,12
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Isopod,Crustacea,1
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Isopod,Crustacea,1
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Jelly,Other gelatinous,1
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Jelly,Other gelatinous,1
+PAL22_WA_1_S,Plankton,DFZ West,W2,Meroplankton,Platyhelminth,Platyhelminthes,3
+PAL22_WA_1_S,Plankton,DFZ West,W2,Meroplankton,Polychaete,Polychaeta,3
+PAL22_WA_1_S,Plankton,DFZ West,W2,Meroplankton,Polychaete,Polychaeta,1
+PAL22_WA_1_S,Plankton,DFZ West,W2,Meroplankton,Polychaete,Polychaeta,1
+PAL22_WA_1_S,Plankton,DFZ West,W2,Meroplankton,Polychaete,Polychaeta,5
+PAL22_WA_1_S,Plankton,DFZ West,W2,Meroplankton,Polychaete,Polychaeta,1
+PAL22_WA_1_S,Plankton,DFZ West,W2,Meroplankton,Polychaete,Polychaeta,2
+PAL22_WA_1_S,Plankton,DFZ West,W2,Meroplankton,Polychaete,Polychaeta,1
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Pteropod,Gastropoda,9
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Pteropod,Gastropoda,1
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Pteropod,Gastropoda,17
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Pteropod,Gastropoda,10
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Pteropod,Gastropoda,2
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Pteropod,Gastropoda,2
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Pteropod,Gastropoda,210
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Shrimp,Malacostraca,1
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Shrimp,Malacostraca,1
+PAL22_WA_1_S,Plankton,DFZ West,W2,Holoplankton,Shrimp,Malacostraca,1
+PAL22_WA_1_S,Plankton,DFZ West,W2,Meroplankton,Sipunculan,Sipuncula,1
+PAL22_WA_2_S,Plankton,DFZ West,W1,Meroplankton,Sipunculan,Sipuncula,4
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Benthic_Snail,Gastropoda,46
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Copepod,Copepoda,5696
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Copepod,Copepoda,9
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Polychaete,Polycheata,4
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Echinoderm,Echinodermata,12
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Copepod,Copepoda,376
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Pteropod,Gastropoda,2
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Pteropod,Gastropoda,54
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Pteropod,Gastropoda,87
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Echinoderm,Echinodermata,1
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Krill,Malacostraca,1
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Copepod,Copepoda,1
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Pteropod,Gastropoda,168
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Copepod,Copepoda,11200
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Barnacle,Gastropoda,19
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Pteropod,Gastropoda,154
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Benthic_Snail,Gastropoda,1248
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Benthic_Snail,Gastropoda,70
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Larvaceans,Other Gelatinous,274
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Other Gelatinous,Other Gelatinous,396
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Evadne,Crustacea,8544
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Chaetognath,Chaetognatha,492
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Chaetognath,Chaetognatha,328
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Copepod,Copepoda,53
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Copepod,Copepoda,3
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Shrimp,Malacostraca,2
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Krill,Malacostraca,3
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Amphipod,Crustacea,1
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Amphipod,Crustacea,11
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Amphipod,Crustacea,7
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Amphipod,Crustacea,89
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Amphipod,Crustacea,3
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Amphipod,Crustacea,15
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Amphipod,Crustacea,1
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Ascidean_Tadpole,Other Gelatinous,11
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Benthic_Snail,Gastropoda,1
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Benthic_Snail,Gastropoda,7
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Benthic_Snail,Gastropoda,344
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Benthic_Snail,Gastropoda,5
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Benthic_Snail,Gastropoda,4
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Benthic_Snail,Gastropoda,53
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Bivalve,Bivalvia,3
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Bivalve,Bivalvia,1
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Bivalve,Bivalvia,2
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Cnidaria,Cnidaria,1
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Cnidaria,Cnidaria,1
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Cnidaria,Cnidaria,1
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Cnidaria,Cnidaria,2
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Cnidaria,Cnidaria,1
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Copepod,Copepoda,4544
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Copepod,Copepoda,4
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Copepod,Copepoda,10
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Copepod,Copepoda,240
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Crab,Crustacea,1
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Crab,Crustacea,1
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Crab,Crustacea,3
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Crab,Crustacea,4
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Echinoderm,Echinodermata,2
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Embryo,Fish embryo/egg,1
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Embryo,Fish embryo/egg,7
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Embryo,Fish embryo/egg,2
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Embryo,Fish embryo/egg,2
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Fish,Fish embryo/egg,2
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Fish,Fish embryo/egg,6
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Fish,Fish embryo/egg,3
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Fish,Fish embryo/egg,1
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Huge_Hairy_Egg,Fish embryo/egg,2
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Jelly,Other gelatinous,2
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Limpet,Gastropoda,1
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Nudibranch,Gastropoda,1
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Nudibranch,Gastropoda,1
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Nudibranch,Gastropoda,7
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Platyhelminth,Platyhelminthes,4
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Polychaete,Polychaeta,3
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Polychaete,Polychaeta,1
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Polychaete,Polychaeta,2
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Polychaete,Polychaeta,1
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Polychaete,Polychaeta,1
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Polychaete,Polychaeta,2
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Polychaete,Polychaeta,2
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Polychaete,Polychaeta,1
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Polychaete,Polychaeta,1
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Polychaete,Polychaeta,6
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Polychaete,Polychaeta,1
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Pteropod,Gastropoda,40
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Pteropod,Gastropoda,69
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Pteropod,Gastropoda,9
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Pteropod,Gastropoda,75
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Pteropod,Gastropoda,20
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Pteropod,Gastropoda,1
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Pteropod,Gastropoda,6
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Pteropod,Gastropoda,1
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Pteropod,Gastropoda,46
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Pteropod,Gastropoda,12
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Pteropod,Gastropoda,37
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Shrimp,Malacostraca,2
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Shrimp,Malacostraca,352
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Shrimp,Malacostraca,34
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Shrimp,Malacostraca,6
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Shrimp,Malacostraca,1
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Shrimp,Malacostraca,2
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Shrimp,Malacostraca,3
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Shrimp,Malacostraca,54
+PAL22_WA_2_S,Plankton,DFZ West,W2,Holoplankton,Shrimp,Malacostraca,1
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Sipunculan,Sipuncula,3
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Sipunculan,Sipuncula,11
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Sipunculan,Sipuncula,3
+PAL22_WA_2_S,Plankton,DFZ West,W2,Meroplankton,Sipunculan,Sipuncula,1
