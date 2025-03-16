@@ -1,4 +1,4 @@
-# PNMS BRUV Analysis - data aggregations and visualisations
+# PNMS BRUV Analysis - data aggregations
 # -------------------------------------------
 
 # Load required packages
@@ -11,7 +11,7 @@ library(vegan)     # For diversity indices
 # Step 1: Load the data
 # ---------------------------------------------------------
 
-#Load data
+#Load data - two different files that can be loaded - one with outliers and one without.
 bruv_data <- read.csv("/Users/louwclaassens/Documents/Documents - Louw’s MacBook Air/Palau/Research/PNMS Research/PICRC led PNMS Research/Pelagic BRUVs/Palau BRUV Project/2022 Annual survey/Publication/PNMS_BRUV_22/Data/Publication /PNMS_BRUV_2022.csv", stringsAsFactors = FALSE)
 
 # Check the structure of the data
@@ -624,11 +624,11 @@ print(dominant_species)
 # Step 9: Export results
 # ---------------------------------------------------------
 # Save the results to CSV files for further analysis
-write.csv(string_level_combined, "string_level_data.csv", row.names = FALSE)
-write.csv(site_metrics, "site_metrics.csv", row.names = FALSE)
-write.csv(diversity_indices, "diversity_indices.csv", row.names = FALSE)
-write.csv(species_metrics_by_site, "species_metrics_by_site.csv", row.names = FALSE)
-write.csv(dominant_species, "dominant_species_by_site.csv", row.names = FALSE)
+write.csv(BRUV_string_level_combined, "string_level_data.csv", row.names = FALSE)
+write.csv(BRUV_site_metrics, "site_metrics.csv", row.names = FALSE)
+write.csv(BRUV_diversity_indices, "diversity_indices.csv", row.names = FALSE)
+write.csv(BRUV_species_metrics_by_site, "species_metrics_by_site.csv", row.names = FALSE)
+write.csv(BRUV_dominant_species, "dominant_species_by_site.csv", row.names = FALSE)
 
 # Print a summary message
 cat("\nData aggregation complete. Results exported to CSV files.\n")
