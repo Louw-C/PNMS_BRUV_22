@@ -20,7 +20,6 @@ zone_colors <- c("PNMS North" = "#0088FE", "DFZ West" = "#00C49F", "PNMS South" 
 # ---------------------------------------------
 
 # Load the zooplankton data
-# Load the zooplankton data
 zooplankton_data <- read_csv("/Users/louwclaassens/Documents/Documents - Louw’s MacBook Air/Palau/Research/PNMS Research/PICRC led PNMS Research/Pelagic BRUVs/Palau BRUV Project/2022 Annual survey/Publication/PNMS_BRUV_22/Data/Publication /PAL_2022_Zooplankton_Data_with_BRUV.csv")
 
 # Basic structure and summary
@@ -44,7 +43,6 @@ unique_values <- list(
   Site = length(unique(zooplankton_data$Site)),
   Plankton_Category = length(unique(zooplankton_data$Plankton_Category)),
   Specimen_Type = length(unique(zooplankton_data$Specimen_Type)),
-  Plankton_Group = length(unique(zooplankton_data$Plankton_Group))
 )
 print(unique_values)
 
