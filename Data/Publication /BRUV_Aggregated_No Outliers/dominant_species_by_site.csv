@@ -15,7 +15,7 @@
 "S1","PNMS South","Coryphaenidae","Coryphaena hippurus","common dolphinfish",1,33.3333333333333,4,1.33333333333333,16.07849,5.35949666666667,1.33333333333333,5.35949666666667
 "S1","PNMS South","Nomeidae","Psenes sp","Psenes driftfish",3,100,4,1.33333333333333,0.00302,0.00100666666666667,0.333333333333333,0.000725909391346086
 "S1","PNMS South","Carangidae","Caranx sp","Caranx trevally",1,33.3333333333333,3,1,0.01457,0.00485666666666667,1,0.00485666666666667
-"S1","PNMS South","Molidae","Masturus lanceolatus","sharptail mola",1,33.3333333333333,1,0.333333333333333,134.0516,44.6838666666667,0.333333333333333,44.6838666666667
+"S1","PNMS South","None","None","None",2,66.6666666666667,0,0,0,0,0,0
 "S2","PNMS South","Nomeidae","Psenes sp","Psenes driftfish",3,100,5,1.66666666666667,0.00076,0.000253333333333333,0.666666666666667,0.000103976493069881
 "S2","PNMS South","Balistidae","Canthidermis maculata","rought triggerfish",2,66.6666666666667,4,1.33333333333333,0.78086,0.260286666666667,0.666666666666667,0.176532612410411
 "S2","PNMS South","Coryphaenidae","Coryphaena equiselis","pompano dolphinfish",1,33.3333333333333,1,0.333333333333333,0.10229,0.0340966666666667,0.333333333333333,0.0340966666666667
@@ -40,7 +40,6 @@
 "W2","DFZ West","Carangidae","Decapterus sp","Decapterus scad",1,50,5,2.5,0.00407,0.002035,2.5,0.002035
 "W2","DFZ West","Balistidae","Canthidermis maculata","rought triggerfish",2,100,3,1.5,0.77092,0.38546,0.5,0.17557
 "W2","DFZ West","Carangidae","Caranx sp","Caranx trevally",1,50,1,0.5,0.07945,0.039725,0.5,0.039725
-"W2","DFZ West","Carcharhinidae","Galeocerdo cuvier","tiger shark",1,50,1,0.5,334.93431,167.467155,0.5,167.467155
 "W2","DFZ West","Monacanthidae","Monacanthus sp","leatherjacket",1,50,1,0.5,0.00356,0.00178,0.5,0.00178
 "W2","DFZ West","Nomeidae","Psenes sp","Psenes driftfish",1,50,1,0.5,0.00012,0.00006,0.5,0.00006
 "W2","DFZ West","Scombridae","Gymnosarda unicolor","dogtooth tuna",1,50,1,0.5,0.98116,0.49058,0.5,0.49058
