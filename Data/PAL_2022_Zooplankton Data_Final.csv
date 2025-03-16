@@ -1,4 +1,4 @@
-﻿ID,String,Region,Site,Zone,Type,Site_no,Replicate,Plankton_Category,Specimen_Type,Plankton_Group,Total_Count
+﻿Sample,String,Region,Site,Zone,Type,Site_no,Replicate,Plankton_Category,Specimen_Type,Plankton_Group,Total_Count
 PAL22_N1_1_S,PAL22_1,North,N1,PNMS North,Zooplankton,1,1,Meroplankton,Benthic_Snail,Gastropoda,1
 PAL22_N1_1_S,PAL22_1,North,N1,PNMS North,Zooplankton,1,1,Holoplankton,Copepod,Copepoda,7
 PAL22_N1_1_S,PAL22_1,North,N1,PNMS North,Zooplankton,1,1,Holoplankton,Copepod,Copepoda,244
