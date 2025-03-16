@@ -110,6 +110,12 @@ print(head(maxN_outliers, 5))
 print("Extreme MaxN outliers:")
 print(extreme_outliers)
 
+##So - most of the outliers identified above are ecological important
+#e.g. large schools of mahi-mahi and decapterus
+#e.g. large billfish
+#There are also more than one observations of the above across strings
+#Only the large tiger shark and the large mola mola (one observation of each only) can be considered as true outliers, significantly skewing data
+#Create a datasheet with these two observations removed.
 
 # Create a dataset with extreme outliers removed
 extreme_outlier_samples <- extreme_outliers$Sample
