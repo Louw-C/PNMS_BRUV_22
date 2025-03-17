@@ -61,6 +61,16 @@ print(unique(zooplankton_data$Specimen_Type))
 cat("\nUnique BRUV Strings:\n")
 print(unique(zooplankton_data$BRUVString))
 
+# Count the number of unique samples per site
+samples_per_site <- zooplankton_data %>%
+  select(Site, Sample) %>%
+  distinct() %>%
+  group_by(Site) %>%
+  summarize(Number_of_Samples = n())
+
+# Display the results
+print(samples_per_site)
+
 # Set factor levels to ensure consistent zone ordering
 # Note: Adjusting based on actual Zone values in your data
 zooplankton_data$Zone <- factor(zooplankton_data$Zone, levels = c("North", "West", "South"))
