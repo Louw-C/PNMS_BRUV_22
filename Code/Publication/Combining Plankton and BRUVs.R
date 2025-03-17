@@ -7,6 +7,14 @@ library(dplyr)
 library(tidyr)
 library(stringr)
 
+# Script to add BRUV String column to Zooplankton Data
+# ----------------------------------------------
+# Load required packages
+library(readr)
+library(dplyr)
+library(tidyr)
+library(stringr)
+
 # Step 1: Define the mapping between plankton strings and BRUV strings
 mapping <- tibble::tribble(
   ~PlanktonString, ~BRUVString,
@@ -37,10 +45,15 @@ mapping <- tibble::tribble(
 )
 
 # Step 2: Load the zooplankton data
-zooplankton_data <- read_csv("/Users/louwclaassens/Documents/Documents - Louw’s MacBook Air/Palau/Research/PNMS Research/PICRC led PNMS Research/Pelagic BRUVs/Palau BRUV Project/2022 Annual survey/Publication/PNMS_BRUV_22/Data/Publication /PAL_2022_Zooplankton Data_RAW.csv")
-# Step 3: Add the BRUV string column to the zooplankton data
+zooplankton_data <- read_csv("/Users/louwclaassens/Documents/Documents - Louw’s MacBook Air/Palau/Research/PNMS Research/PICRC led PNMS Research/Pelagic BRUVs/Palau BRUV Project/2022 Annual survey/Publication/PNMS_BRUV_22/Data/Publication /PAL_2022_Zooplankton_Publication.csv")
+
+# Step 3: Extract the base part of the sample name to match with the mapping table
+zooplankton_data <- zooplankton_data %>%
+  mutate(SampleBase = str_replace(Sample, "(_\\d+)$", ""))
+
+# Step 4: Add the BRUV string column to the zooplankton data
 zooplankton_data_with_bruv <- zooplankton_data %>%
-  left_join(mapping, by = c("String" = "PlanktonString"))
+  left_join(mapping, by = c("SampleBase" = "PlanktonString"))
 
 # Check if there are any NAs in the BRUVString column
 if (any(is.na(zooplankton_data_with_bruv$BRUVString))) {
@@ -49,16 +62,17 @@ if (any(is.na(zooplankton_data_with_bruv$BRUVString))) {
   # Identify unmatched plankton strings
   unmatched_strings <- zooplankton_data_with_bruv %>%
     filter(is.na(BRUVString)) %>%
-    pull(String) %>%
+    pull(SampleBase) %>%
     unique()
   
   cat("Unmatched plankton strings:", paste(unmatched_strings, collapse = ", "), "\n")
 }
 
-# Step 4: Save the updated zooplankton data
+# Step 5: Save the updated zooplankton data
 write_csv(zooplankton_data_with_bruv, "PAL_2022_Zooplankton_Data_with_BRUV.csv")
 
-# Step 5: Print a summary
+# Step 6: Print a summary
 cat("\nZooplankton data with BRUV string column has been created.\n")
 cat("Original data had", nrow(zooplankton_data), "rows and", ncol(zooplankton_data), "columns.\n")
 cat("Updated data has", nrow(zooplankton_data_with_bruv), "rows and", ncol(zooplankton_data_with_bruv), "columns.\n")
+
