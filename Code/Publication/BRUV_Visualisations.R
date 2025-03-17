@@ -265,3 +265,164 @@ ggsave("distribution_boxplots.png", boxplots, width = 14, height = 10)
 
 # Print completion message
 cat("\nVisualization complete. All plots have been saved to the working directory.\n")
+
+
+# ---------------------------------------------
+# NMDS Analysis for BRUV Fish Data - Fixed version
+# ---------------------------------------------
+
+# First, create the deployment metadata if it doesn't exist
+deployment_metadata <- bruv_data %>%
+  select(String, Zone, Site) %>%
+  distinct()
+
+# Calculate NMDS ordination based on Bray-Curtis dissimilarity
+# Prepare community matrix (deployments x species)
+community_matrix <- bruv_data %>%
+  group_by(String, Binomial) %>%
+  summarize(MaxN = sum(MaxN), .groups = "drop") %>%
+  pivot_wider(names_from = Binomial, values_from = MaxN, values_fill = 0)
+
+# Extract deployment metadata
+nmds_metadata <- community_matrix %>%
+  select(String) %>%
+  left_join(select(deployment_metadata, String, Zone, Site), by = "String")
+
+# Prepare community data for NMDS
+community_data <- community_matrix %>%
+  select(-String) %>%
+  as.matrix()
+
+# IMPORTANT: Remove rows with all zeros (empty deployments)
+zero_rows <- which(rowSums(community_data) == 0)
+if(length(zero_rows) > 0) {
+  community_data <- community_data[-zero_rows, ]
+  nmds_metadata <- nmds_metadata[-zero_rows, ]
+  cat("Removed", length(zero_rows), "empty deployments from the analysis.\n")
+}
+
+# Check if there's still enough data after removing empty rows
+if(nrow(community_data) > 3) {
+  # Calculate Bray-Curtis dissimilarity
+  bc_dist <- vegdist(community_data, method = "bray")
+  
+  # Check for NAs in the distance matrix
+  if(any(is.na(as.matrix(bc_dist)))) {
+    cat("Warning: Distance matrix contains NA values. NMDS cannot proceed.\n")
+  } else {
+    # Perform NMDS
+    set.seed(123) # For reproducibility
+    tryCatch({
+      nmds_result <- metaMDS(bc_dist, k = 2, trymax = 100)
+      
+      # Extract NMDS scores
+      nmds_scores <- as.data.frame(scores(nmds_result, display = "sites"))
+      nmds_scores$String <- nmds_metadata$String
+      nmds_scores$Zone <- nmds_metadata$Zone
+      nmds_scores$Site <- nmds_metadata$Site
+      
+      # Create a simplified plot with just zone coloring
+      p16 <- ggplot(nmds_scores, aes(x = NMDS1, y = NMDS2, color = Zone)) +
+        geom_point(size = 3, alpha = 0.8) +
+        scale_color_manual(values = zone_colors) +
+        labs(title = "NMDS Ordination of Fish Communities",
+             subtitle = paste("Stress =", round(nmds_result$stress, 3)),
+             x = "NMDS1", y = "NMDS2") +
+        theme_minimal() +
+        theme(plot.title = element_text(size = 12, face = "bold"))
+      
+      # Draw ellipses around zones
+      p16 <- p16 + 
+        stat_ellipse(aes(group = Zone), linetype = 2)
+      
+      print(p16)
+      
+      # First, check what the actual zone names are in your data
+      actual_zones <- unique(nmds_metadata$Zone)
+      print("Actual zone names in data:")
+      print(actual_zones)
+      
+      # Create a new color palette using the actual zone names
+      zone_colors_fixed <- setNames(
+        c("#0088FE", "#00C49F", "#FFBB28")[1:length(actual_zones)],
+        actual_zones
+      )
+      
+      # Update the plot with the fixed color palette
+      p16 <- ggplot(nmds_scores, aes(x = NMDS1, y = NMDS2, color = Zone)) +
+        geom_point(size = 3, alpha = 0.8) +
+        scale_color_manual(values = zone_colors_fixed) +
+        labs(title = "NMDS Ordination of Fish Communities",
+             subtitle = paste("Stress =", round(nmds_result$stress, 3)),
+             x = "NMDS1", y = "NMDS2") +
+        theme_minimal() +
+        theme(plot.title = element_text(size = 12, face = "bold"))
+      
+      # Draw ellipses around zones
+      p16 <- p16 + 
+        stat_ellipse(aes(group = Zone), linetype = 2)
+      
+      print(p16)
+      
+      # Save the NMDS plot
+      ggsave("bruv_nmds_plot.png", p16, width = 8, height = 6, dpi = 300)
+      
+      # Perform PERMANOVA test
+      permanova_result <- adonis2(bc_dist ~ Zone, data = nmds_metadata, permutations = 999)
+      print("PERMANOVA results:")
+      print(permanova_result)
+      
+      # Perform pairwise PERMANOVA if overall is significant
+      if(permanova_result["Zone", "Pr(>F)"] < 0.05) {
+        # Make sure Zone is a factor with proper levels
+        nmds_metadata$Zone <- factor(nmds_metadata$Zone)
+        zone_pairs <- combn(levels(nmds_metadata$Zone), 2, simplify = FALSE)
+        
+        # Empty list to store results
+        pairwise_results <- list()
+        
+        # Try-catch block to handle potential errors
+        for(i in seq_along(zone_pairs)) {
+          pair <- zone_pairs[[i]]
+          tryCatch({
+            sub_meta <- nmds_metadata[nmds_metadata$Zone %in% pair, ]
+            
+            # Make sure we have the right rows from community_data
+            matched_rows <- match(sub_meta$String, row.names(community_data))
+            matched_rows <- matched_rows[!is.na(matched_rows)]
+            
+            if(length(matched_rows) > 0) {
+              sub_data <- community_data[matched_rows, ]
+              
+              # Calculate distance matrix
+              sub_dist <- vegdist(sub_data, method = "bray")
+              
+              # Run pairwise PERMANOVA
+              result <- adonis2(sub_dist ~ Zone, data = sub_meta, permutations = 999)
+              
+              pairwise_results[[i]] <- data.frame(
+                comparison = paste(pair, collapse = " vs "),
+                p_value = result["Zone", "Pr(>F)"]
+              )
+            }
+          }, error = function(e) {
+            message("Error in pairwise comparison ", paste(pair, collapse = " vs "), ": ", e$message)
+          })
+        }
+        
+        # Combine results if any exist
+        if(length(pairwise_results) > 0) {
+          pairwise_df <- do.call(rbind, pairwise_results)
+          print("Pairwise PERMANOVA results:")
+          print(pairwise_df)
+        } else {
+          print("No pairwise comparisons could be completed due to errors.")
+        }
+      }
+    }, error = function(e) {
+      cat("Error in NMDS analysis:", e$message, "\n")
+    })
+  }
+} else {
+  cat("Not enough data for NMDS analysis after removing empty deployments.\n")
+}
