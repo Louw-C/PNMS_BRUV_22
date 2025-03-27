@@ -29,15 +29,26 @@ site_order <- site_metrics %>%
   arrange(desc(MeanMaxNPerString)) %>%
   pull(Site)
 
+# Define your specific site order
+site_order <- c("N1", "N3", "N4", "W1", "W2", "W3", "W4", "S1", "S2", "S3", "S4")
+
 # Update factor levels for consistent ordering
 site_metrics$Site <- factor(site_metrics$Site, levels = site_order)
 diversity_indices$Site <- factor(diversity_indices$Site, levels = site_order)
 
-# Create a zone color palette
+# Define your specific zone order
+zone_order <- c("PNMS North", "DFZ West", "PNMS South")
+
+# Create a zone color palette with ordered zones
 zone_colors <- setNames(
-  viridis(n = length(unique(site_metrics$Zone)), option = "D"),
-  unique(site_metrics$Zone)
+  viridis(n = length(zone_order), option = "D"),
+  zone_order
 )
+
+# Make sure the Zone variable is also a factor with the correct ordering
+site_metrics$Zone <- factor(site_metrics$Zone, levels = zone_order)
+diversity_indices$Zone <- factor(diversity_indices$Zone, levels = zone_order)
+
 
 # ---------------------------------------------------------
 # Step 3: Create visualizations for site-level metrics
@@ -50,7 +61,7 @@ p1 <- ggplot(site_metrics, aes(x = Site, y = MeanMaxNPerString, fill = Zone)) +
                     ymax = MeanMaxNPerString + SEMaxNPerString),
                 width = 0.2) +
   scale_fill_manual(values = zone_colors) +
-  labs(title = "Mean MaxN per String by Site",
+  labs(title = "A:Mean MaxN per String by Site",
        subtitle = "Error bars show ± 1 standard error",
        x = "Site", 
        y = "Mean MaxN per String") +
@@ -65,7 +76,7 @@ p2 <- ggplot(site_metrics, aes(x = Site, y = MeanBiomassPerString, fill = Zone))
                     ymax = MeanBiomassPerString + SEBiomassPerString),
                 width = 0.2) +
   scale_fill_manual(values = zone_colors) +
-  labs(title = "Mean Biomass per String by Site",
+  labs(title = "B:Mean Biomass per String by Site",
        subtitle = "Error bars show ± 1 standard error",
        x = "Site", 
        y = "Mean Biomass (kg) per String") +
@@ -77,7 +88,7 @@ p2
 p3 <- ggplot(site_metrics, aes(x = Site, y = TotalSpeciesRichness, fill = Zone)) +
   geom_bar(stat = "identity") +
   scale_fill_manual(values = zone_colors) +
-  labs(title = "Species Richness by Site",
+  labs(title = "C:Species Richness by Site",
        x = "Site", 
        y = "Number of Species") +
   theme_minimal() +
@@ -89,7 +100,7 @@ p4 <- ggplot(diversity_indices, aes(x = Site)) +
   geom_bar(aes(y = ShannonIndex, fill = Zone), stat = "identity", alpha = 0.7) +
   geom_point(aes(y = SimpsonIndex), size = 3, color = "black") +
   scale_fill_manual(values = zone_colors) +
-  labs(title = "Diversity Indices by Site",
+  labs(title = "D:Diversity Indices by Site",
        x = "Site", 
        y = "Index Value",
        caption = "Bars = Shannon Index, Points = Simpson Index") +
@@ -125,7 +136,7 @@ p5 <- ggplot(zone_metrics, aes(x = Zone, y = MeanMaxN, fill = Zone)) +
   geom_bar(stat = "identity") +
   geom_errorbar(aes(ymin = MeanMaxN - SEMaxN, ymax = MeanMaxN + SEMaxN), width = 0.2) +
   scale_fill_manual(values = zone_colors) +
-  labs(title = "Mean MaxN by Zone",
+  labs(title = "A:Mean MaxN by Zone",
        subtitle = "Error bars show ± 1 standard error",
        x = NULL, 
        y = "Mean MaxN per String") +
@@ -137,7 +148,7 @@ p6 <- ggplot(zone_metrics, aes(x = Zone, y = MeanBiomass, fill = Zone)) +
   geom_bar(stat = "identity") +
   geom_errorbar(aes(ymin = MeanBiomass - SEBiomass, ymax = MeanBiomass + SEBiomass), width = 0.2) +
   scale_fill_manual(values = zone_colors) +
-  labs(title = "Mean Biomass by Zone",
+  labs(title = "B:Mean Biomass by Zone",
        subtitle = "Error bars show ± 1 standard error",
        x = NULL, 
        y = "Mean Biomass (kg) per String") +
@@ -150,7 +161,7 @@ p7 <- ggplot(zone_metrics, aes(x = Zone, y = MeanSpeciesRichness, fill = Zone)) 
   geom_errorbar(aes(ymin = MeanSpeciesRichness - SESpeciesRichness, 
                     ymax = MeanSpeciesRichness + SESpeciesRichness), width = 0.2) +
   scale_fill_manual(values = zone_colors) +
-  labs(title = "Mean Species Richness by Zone",
+  labs(title = "B:Mean Species Richness by Zone",
        subtitle = "Error bars show ± 1 standard error",
        x = NULL, 
        y = "Mean Species Richness") +
@@ -167,6 +178,14 @@ ggsave("zone_comparisons.png", zone_plots, width = 18, height = 6)
 # ---------------------------------------------------------
 # Step 5: Create species composition plots
 # ---------------------------------------------------------
+
+# Define your specific site and zone orders
+site_order <- c("N1", "N3", "N4", "W1", "W2", "W3", "W4", "S1", "S2", "S3", "S4")
+zone_order <- c("PNMS North", "DFZ West", "PNMS South")
+
+# Apply the ordering to the species_metrics_by_site dataframe
+species_metrics_by_site$Site <- factor(species_metrics_by_site$Site, levels = site_order)
+species_metrics_by_site$Zone <- factor(species_metrics_by_site$Zone, levels = zone_order)
 
 # Get the top 10 species across all sites by total MaxN
 top_species <- species_metrics_by_site %>%
@@ -192,12 +211,13 @@ p8 <- ggplot(species_metrics_by_site, aes(x = Site, y = MeanMaxNPerString, fill 
   theme_minimal() +
   theme(axis.text.x = element_text(angle = 45, hjust = 1),
         legend.position = "none")
-p8
 
 # Plot 9: Top Species by Zone
 p9 <- species_metrics_by_site %>%
   group_by(Zone, Family, Binomial) %>%
   summarize(MeanMaxN = mean(MeanMaxNPerString), .groups = 'drop') %>%
+  # Ensure Zone ordering is preserved after summarizing
+  mutate(Zone = factor(Zone, levels = zone_order)) %>%
   ggplot(aes(x = Zone, y = MeanMaxN, fill = Binomial)) +
   geom_bar(stat = "identity") +
   scale_fill_viridis_d() +
@@ -208,7 +228,6 @@ p9 <- species_metrics_by_site %>%
   theme(legend.position = "bottom",
         legend.title = element_blank(),
         legend.text = element_text(face = "italic"))
-p9
 
 # Combine plots with a shared legend at the bottom
 combined_plot <- p8 / p9 + 
