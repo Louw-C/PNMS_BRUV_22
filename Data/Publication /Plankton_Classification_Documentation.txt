@@ -1,0 +1,64 @@
+PLANKTON FUNCTIONAL GROUP CLASSIFICATION
+=========================================
+
+Overview:
+This document explains the ecological functional grouping of plankton specimens
+based on their relevance as prey for pelagic fish species observed in BRUV surveys.
+
+Classification Rationale:
+"Without direct size measurements, we created functional groups based on known"
+feeding relationships between pelagic fish and plankton taxa. These groups reflect
+both taxonomic relationships and ecological roles in pelagic food webs.
+
+Functional Groups:
+
+1. Small Crustacean Plankton
+"   - Taxa included: Copepods, Evadne, Ostracods"
+"   - Ecological role: Primary prey for planktivorous fish like scads (Decapterus sp.),"
+"     driftfish (Psenes sp.), and juvenile triggerfishes"
+   - Characteristics: Generally small-sized crustaceans that form the base of many
+     pelagic food webs; typically filter-fed by planktivorous fish
+
+2. Large Crustacean Plankton
+"   - Taxa included: Krill, Amphipods, Shrimp, Crab, Stomatopod, Isopod"
+"   - Ecological role: Prey for larger pelagic predators like jacks (Caranx sp.),"
+"     amberjacks (Seriola spp.), and other carangids"
+   - Characteristics: Larger crustaceans that are actively pursued by visual predators;
+     often higher in energy content than smaller zooplankton
+
+3. Gelatinous Plankton
+"   - Taxa included: Other Gelatinous, Jelly, Salp, Chaetognath, Pteropod"
+   - Ecological role: Specialized prey requiring specific feeding adaptations;
+     consumed by some filefish species and other specialized feeders
+   - Characteristics: Soft-bodied organisms with high water content; generally lower
+     energy density but may be abundant and accessible to specialized feeders
+
+4. Fish Larvae & Eggs
+"   - Taxa included: Fish larvae, Huge Hairy Egg, Embryo"
+   - Ecological role: High-value prey for piscivorous and predatory pelagic fish
+   - Characteristics: High in protein and lipids; actively targeted by many predatory fish
+
+5. Benthic Invertebrate Larvae
+"   - Taxa included: Various larvae of benthic invertebrates (snails, echinoderms, etc.)"
+   - Ecological role: Temporary members of the plankton community during larval stages
+   - Characteristics: Diverse group representing the planktonic phase of primarily
+     benthic organisms; opportunistically consumed by many pelagic fish
+
+Literature Support:
+"This classification is supported by numerous studies of pelagic fish feeding ecology,"
+including:
+- Young et al. (2009) - Trophic ecology of tuna and their prey
+- Choy et al. (2015) - Functional prey categories in pelagic food webs
+- Brodeur et al. (2019) - Size-based functional groups in marine ecosystems
+
+Limitations:
+This classification system has several limitations:
+1. Lack of direct size measurements for specimens (size is inferred based on taxonomy)
+2. No differentiation between life stages within taxonomic groups
+3. Some overlap between categories (some taxa could potentially fit multiple groups)
+4. Simplified compared to more detailed classification schemes possible with additional data
+
+Usage:
+"When analyzing relationships between fish and plankton, consider using these functional"
+"groups rather than individual taxa, as they provide a more ecologically meaningful framework"
+for understanding trophic relationships in the pelagic ecosystem.
