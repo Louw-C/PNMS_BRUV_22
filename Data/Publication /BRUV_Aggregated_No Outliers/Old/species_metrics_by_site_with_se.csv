@@ -1,0 +1,70 @@
+"Site","Zone","Family","Binomial","Common.name","NumStringsPresent","OccurrenceFrequency","TotalMaxN","MeanMaxNPerString","TotalBiomass_kg","MeanBiomassPerString","SEMaxN","SEBiomass"
+"N1","PNMS North","Coryphaenidae","Coryphaena equiselis","pompano dolphinfish",1,33.3333333333333,79,26.3333333333333,6.88906,2.29635333333333,26.3333333333333,2.29635333333333
+"N1","PNMS North","Carangidae","Decapterus sp","Decapterus scad",2,66.6666666666667,19,6.33333333333333,1.05018,0.35006,3.75647588986155,0.225001936880552
+"N1","PNMS North","Nomeidae","Psenes sp","Psenes driftfish",2,66.6666666666667,2,0.666666666666667,0.00052,0.000173333333333333,0.333333333333333,0.000104136662345422
+"N1","PNMS North","Monacanthidae","Aluterus scriptus","scribbled leatherjacket filefish",1,33.3333333333333,1,0.333333333333333,0.18334,0.0611133333333333,0.333333333333333,0.0611133333333333
+"N1","PNMS North","None","None","None",1,33.3333333333333,0,0,0,0,0,0
+"N3","PNMS North","Carangidae","Decapterus sp","Decapterus scad",1,33.3333333333333,51,17,2.95509,0.98503,17,0.98503
+"N3","PNMS North","Balistidae","Canthidermis maculata","rought triggerfish",3,100,36,12,9.76931,3.25643666666667,7,1.8129693573558
+"N3","PNMS North","Carangidae","Elagatis bipinnulata","rainbow runner",2,66.6666666666667,2,0.666666666666667,0.28454,0.0948466666666667,0.333333333333333,0.0474233333333333
+"N3","PNMS North","Coryphaenidae","Coryphaena hippurus","common dolphinfish",1,33.3333333333333,2,0.666666666666667,2.03883,0.67961,0.666666666666667,0.67961
+"N3","PNMS North","Nomeidae","Psenes sp","Psenes driftfish",1,33.3333333333333,1,0.333333333333333,0.00039,0.00013,0.333333333333333,0.00013
+"N3","PNMS North","None","None","None",2,66.6666666666667,0,0,0,0,0,0
+"N4","PNMS North","Balistidae","Canthidermis maculata","rought triggerfish",1,50,1,0.5,0.59171,0.295855,0.5,0.295855
+"N4","PNMS North","None","None","None",2,100,0,0,0,0,0,0
+"S1","PNMS South","Carangidae","Decapterus sp","Decapterus scad",3,100,105,35,0.30002,0.100006666666667,10.0166528008778,0.0343275410971683
+"S1","PNMS South","Coryphaenidae","Coryphaena hippurus","common dolphinfish",1,33.3333333333333,4,1.33333333333333,16.07849,5.35949666666667,1.33333333333333,5.35949666666667
+"S1","PNMS South","Nomeidae","Psenes sp","Psenes driftfish",3,100,4,1.33333333333333,0.00302,0.00100666666666667,0.333333333333333,0.000725909391346086
+"S1","PNMS South","Carangidae","Caranx sp","Caranx trevally",1,33.3333333333333,3,1,0.01457,0.00485666666666667,1,0.00485666666666667
+"S1","PNMS South","None","None","None",2,66.6666666666667,0,0,0,0,0,0
+"S2","PNMS South","Nomeidae","Psenes sp","Psenes driftfish",3,100,5,1.66666666666667,0.00076,0.000253333333333333,0.666666666666667,0.000103976493069881
+"S2","PNMS South","Balistidae","Canthidermis maculata","rought triggerfish",2,66.6666666666667,4,1.33333333333333,0.78086,0.260286666666667,0.666666666666667,0.176532612410411
+"S2","PNMS South","Coryphaenidae","Coryphaena equiselis","pompano dolphinfish",1,33.3333333333333,1,0.333333333333333,0.10229,0.0340966666666667,0.333333333333333,0.0340966666666667
+"S2","PNMS South","None","None","None",2,66.6666666666667,0,0,0,0,0,0
+"S3","PNMS South","Carangidae","Decapterus sp","Decapterus scad",1,33.3333333333333,8,2.66666666666667,0.01781,0.00593666666666667,2.66666666666667,0.00593666666666667
+"S3","PNMS South","Carangidae","Caranx sp","Caranx trevally",2,66.6666666666667,3,1,0.01845,0.00615,0.577350269189626,0.00310335839588877
+"S3","PNMS South","Carangidae","Selar crumenophthalmus","bigeye scad",1,33.3333333333333,2,0.666666666666667,0.00593,0.00197666666666667,0.666666666666667,0.00197666666666667
+"S3","PNMS South","Istiophoridae","Makaira nigricans","blue marlin",2,66.6666666666667,2,0.666666666666667,73.29258,24.43086,0.333333333333333,12.21543
+"S3","PNMS South","Nomeidae","Psenes sp","Psenes driftfish",2,66.6666666666667,2,0.666666666666667,0.00084,0.00028,0.333333333333333,0.000222710574513201
+"S3","PNMS South","Monacanthidae","Aluterus monoceros","unicorn leatherjacket filefish",1,33.3333333333333,1,0.333333333333333,0.34695,0.11565,0.333333333333333,0.11565
+"S3","PNMS South","None","None","None",3,100,0,0,0,0,0,0
+"S4","PNMS South","Carangidae","Decapterus sp","Decapterus scad",3,100,15,5,0.05192,0.0173066666666667,2.3094010767585,0.0093493125118612
+"S4","PNMS South","Carangidae","Caranx sp","Caranx trevally",3,100,4,1.33333333333333,0.01661,0.00553666666666667,0.333333333333333,0.00232552025242621
+"S4","PNMS South","Balistidae","Canthidermis maculata","rought triggerfish",2,66.6666666666667,3,1,0.71637,0.23879,0.577350269189626,0.156454747131559
+"S4","PNMS South","Coryphaenidae","Coryphaena hippurus","common dolphinfish",1,33.3333333333333,3,1,11.67406,3.89135333333333,1,3.89135333333333
+"S4","PNMS South","Sphyraenidae","Sphyraena barracuda","great barracuda",1,33.3333333333333,1,0.333333333333333,2.42089,0.806963333333333,0.333333333333333,0.806963333333333
+"S4","PNMS South","None","None","None",3,100,0,0,0,0,0,0
+"W1","DFZ West","Balistidae","Canthidermis maculata","rought triggerfish",1,50,7,3.5,1.11944,0.55972,3.5,0.55972
+"W1","DFZ West","Nomeidae","Psenes sp","Psenes driftfish",2,100,2,1,0.00223,0.001115,0,0.000465
+"W1","DFZ West","Balistidae","Balistidae sp","triggerfishes",1,50,1,0.5,0.04105,0.020525,0.5,0.020525
+"W1","DFZ West","Monacanthidae","Aluterus monoceros","unicorn leatherjacket filefish",1,50,1,0.5,0.20959,0.104795,0.5,0.104795
+"W1","DFZ West","Monacanthidae","Aluterus scriptus","scribbled leatherjacket filefish",1,50,1,0.5,0.31501,0.157505,0.5,0.157505
+"W1","DFZ West","Monacanthidae","Aluterus sp","leatherjacket filefish",1,50,1,0.5,0.19635,0.098175,0.5,0.098175
+"W1","DFZ West","Priacanthidae","Priacanthus sp","bigeye",1,50,1,0.5,0.00097,0.000485,0.5,0.000485
+"W1","DFZ West","None","None","None",2,100,0,0,0,0,0,0
+"W2","DFZ West","Carangidae","Decapterus sp","Decapterus scad",1,50,5,2.5,0.00407,0.002035,2.5,0.002035
+"W2","DFZ West","Balistidae","Canthidermis maculata","rought triggerfish",2,100,3,1.5,0.77092,0.38546,0.5,0.17557
+"W2","DFZ West","Carangidae","Caranx sp","Caranx trevally",1,50,1,0.5,0.07945,0.039725,0.5,0.039725
+"W2","DFZ West","Monacanthidae","Monacanthus sp","leatherjacket",1,50,1,0.5,0.00356,0.00178,0.5,0.00178
+"W2","DFZ West","Nomeidae","Psenes sp","Psenes driftfish",1,50,1,0.5,0.00012,0.00006,0.5,0.00006
+"W2","DFZ West","Scombridae","Gymnosarda unicolor","dogtooth tuna",1,50,1,0.5,0.98116,0.49058,0.5,0.49058
+"W2","DFZ West","None","None","None",2,100,0,0,0,0,0,0
+"W3","DFZ West","Balistidae","Canthidermis maculata","rought triggerfish",1,100,3,3,0.81556,0.81556,0,0
+"W3","DFZ West","Carangidae","Decapterus sp","Decapterus scad",1,100,3,3,0.00395,0.00395,0,0
+"W3","DFZ West","Carangidae","Caranx sp","Caranx trevally",1,100,1,1,0.00707,0.00707,0,0
+"W3","DFZ West","Nomeidae","Psenes sp","Psenes driftfish",1,100,1,1,0.00404,0.00404,0,0
+"W3","DFZ West","None","None","None",1,100,0,0,0,0,0,0
+"W4","DFZ West","Carangidae","Decapterus sp","Decapterus scad",3,100,107,35.6666666666667,5.40508,1.80169333333333,26.4344051905425,1.26740661384226
+"W4","DFZ West","Nomeidae","Psenes cyanophrys","freckled driftfish ",2,66.6666666666667,43,14.3333333333333,2.60654,0.868846666666667,11.4649223479466,0.701110029437447
+"W4","DFZ West","Scombridae","Thunnus sp","tuna",1,33.3333333333333,24,8,3.3379,1.11263333333333,8,1.11263333333333
+"W4","DFZ West","Balistidae","Canthidermis maculata","rought triggerfish",3,100,22,7.33333333333333,3.70926,1.23642,2.33333333333333,0.344638831822533
+"W4","DFZ West","Carangidae","Carangidae sp","jacks",1,33.3333333333333,17,5.66666666666667,0.0159,0.0053,5.66666666666667,0.0053
+"W4","DFZ West","Carangidae","Selar crumenophthalmus","bigeye scad",1,33.3333333333333,7,2.33333333333333,0.58879,0.196263333333333,2.33333333333333,0.196263333333333
+"W4","DFZ West","Monacanthidae","Aluterus scriptus","scribbled leatherjacket filefish",3,100,5,1.66666666666667,1.54561,0.515203333333333,0.333333333333333,0.0988644446255129
+"W4","DFZ West","Carangidae","Caranx sp","Caranx trevally",1,33.3333333333333,4,1.33333333333333,0.18811,0.0627033333333333,1.33333333333333,0.0627033333333333
+"W4","DFZ West","Monacanthidae","Aluterus monoceros","unicorn leatherjacket filefish",1,33.3333333333333,2,0.666666666666667,0.06257,0.0208566666666667,0.666666666666667,0.0208566666666667
+"W4","DFZ West","Nomeidae","Psenes sp","Psenes driftfish",1,33.3333333333333,2,0.666666666666667,0.00064,0.000213333333333333,0.666666666666667,0.000213333333333333
+"W4","DFZ West","Carangidae","Seriola rivoliana","longfin yellowtail",1,33.3333333333333,1,0.333333333333333,0.05316,0.01772,0.333333333333333,0.01772
+"W4","DFZ West","Carcharhinidae","Carcharhinus falciformis","silky shark",1,33.3333333333333,1,0.333333333333333,16.17632,5.39210666666667,0.333333333333333,5.39210666666667
+"W4","DFZ West","Monacanthidae","Monacanthus sp","leatherjacket",1,33.3333333333333,1,0.333333333333333,0.00356,0.00118666666666667,0.333333333333333,0.00118666666666667
+"W4","DFZ West","None","None","None",1,33.3333333333333,0,0,0,0,0,0
